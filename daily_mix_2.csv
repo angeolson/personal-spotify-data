@@ -1,51 +1,51 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artist_id,track_pop,artist_pop
-0,alt-J,The Dream,U&ME,3i4ColsuZEvjeLz63m0jPt,0.587,0.722,7,-8.332,1,0.0574,0.00322,0.133,0.294,81.973,198840,4,3XHO7cRUPCLOr6jwp8vsx5,62.0,76.0
-1,Claud,Super Monster,Soft Spot,30bqNfOgcJOw2EWJJl1w5J,0.56,0.544,10,-8.25,1,0.0284,5.02e-05,0.224,0.472,82.028,188098,4,5MaQlvNGOaTj39apHsXVq1,60.0,58.0
-2,Belle and Sebastian,Books,Your Cover's Blown,5Ko8Fc69xLlzwgNxAs7cUU,0.484,0.743,11,-6.005,0,0.0668,1.37e-06,0.344,0.397,109.113,361787,4,4I2BJf80C0skQpp1sQmA0h,47.0,62.0
-3,Culture Abuse,So Busted,So Busted,19RV3EkvLt39bWSZwsiGjy,0.522,0.978,4,-1.467,1,0.0631,0.0536,0.194,0.528,134.825,123021,4,2GU1bGD3rTvxPNyBie1lqV,50.0,40.0
-4,fanclubwallet,Car Crash in G Major,Car Crash in G Major,24EtJ2vTx6CtaP32S6Arn2,0.709,0.517,7,-8.077,1,0.0335,0.118,0.484,0.429,105.369,132000,4,1NJUWqbiNAk1BPOyQhb2qe,59.0,46.0
-5,Quinton Brock,Touch,Touch,5KhKoWqh6lldeVNqSmSsVi,0.473,0.898,6,-4.332,1,0.0633,0.0043,0.241,0.552,66.036,166445,4,1abW5Py6b6FSSpirm5Fkqq,35.0,22.0
-6,Ray Bull,Love Is Hate,Love Is Hate,5V0MkBLevt9CmtlvqVvEjM,0.788,0.407,4,-9.776,1,0.0519,2.68e-05,0.182,0.703,120.017,230059,4,3P4jnIuA9z5WsvkbsoqkTu,30.0,30.0
-7,Andrew Bird,Are You Serious (Deluxe Edition),Pulaski,1tGRfoeKD06YvZr6l3uwEk,0.453,0.717,7,-7.724,1,0.0753,0.00243,0.12,0.393,111.023,242147,4,4uSftVc3FPWe6RJuMZNEe9,50.0,61.0
-8,Star Parks,The New Sounds of Late Capitalism,Palm Sunday,6rN3MviTNZD3Fc1QABVGt9,0.357,0.564,5,-6.658,1,0.0298,0.852,0.216,0.264,125.127,323773,3,0yRum3Q7Dqnt8kl4MdO7TH,30.0,34.0
-9,Pardoner,Came Down Different,I Wanna Get High To The Music,2cmrMxNXwbCgGX3Fx0YodQ,0.566,0.836,11,-6.848,1,0.0297,0.18,0.118,0.788,146.794,72974,4,2cvOvqNfn14qVRgGEw29PQ,39.0,32.0
-10,Sons of Raphael,Full-Throated Messianic Homage,Yeah Yeah Yeah,56FAGq0ar7AEpNqK6r7SHo,0.578,0.636,1,-5.024,1,0.0464,0,0.135,0.598,116.049,272867,4,1stGFX6w6VMHQPDPlBqX74,39.0,27.0
-11,The Convenience,Accelerator,Kiss Me In Heaven,3H5pElWVrTWGqLhqo7LxQM,0.687,0.55,4,-7.595,1,0.0819,0.266,0.104,0.962,157.801,219823,4,2PKfkrNktahdkVFB47NjGv,42.0,29.0
-12,The Beths,A Real Thing,A Real Thing,5cHFMi5m8FTcYOjzgzmXt1,0.244,0.932,0,-7.926,1,0.0486,0.0131,0.345,0.627,159.891,215180,4,7DjwIxbe8kpw4pqnzAMoin,42.0,50.0
-13,Ryan Pollie,Stars,The Shore House,0dgGeB2y2wkGfOc8bxnBrp,0.742,0.326,2,-12.016,1,0.0329,0.0349,0.299,0.397,110.01,293251,4,5cZo7U5yKYEWzcaR8ZKhNw,38.0,26.0
-14,Sheer Mag,A Distant Call,Silver Line,1sq29H6gL3xNe5VdvukWuq,0.647,0.859,8,-5.329,1,0.0317,0.0442,0.233,0.836,129.58,205455,4,58ehndX799ZV9Jcv6IefJ1,44.0,39.0
-15,Star Parks,The New Sounds of Late Capitalism,"Oh Boredom (Schmaltz City, USA)",79084mepy4vAEG416uZxO7,0.557,0.915,4,-6.743,0,0.0421,7.55e-05,0.74,0.694,111.036,222547,4,0yRum3Q7Dqnt8kl4MdO7TH,44.0,34.0
-16,Frog,Kind of Blah,Judy Garland,3df6rRK1s42yvZ38VxqBqE,0.385,0.725,6,-7.501,1,0.104,0.00459,0.12,0.104,129.777,217177,4,3ME5MgDqwM6G3UDLmwjftA,46.0,36.0
-17,Brazos,Phosphorescent Blues,Day Glo,3nIlXRlu5AuZhAsWJgOipm,0.671,0.363,11,-8.441,1,0.031,0.0242,0.113,0.451,78.477,207413,4,5lIfCof40MBLr0WntfhCNx,49.0,33.0
-18,Death Cab for Cutie,Waiting For The Sunrise,Waiting For The Sunrise,2fVwrrimgW54kXfXoQvvXX,0.678,0.574,4,-7.505,1,0.0318,7.56e-05,0.432,0.782,93.972,179866,3,0YrtvWJMgSdVrk3SfNjTbx,50.0,67.0
-19,Gabriel Sayer,Pfizer,Pfizer,4T1pEFUMRcp383kBMkrEv8,0.784,0.877,4,-4.531,1,0.054,0.121,0.0755,0.792,84.033,186576,4,1YvGXgPvmPL6Iq3FiTkr5b,42.0,38.0
-20,Spencer Radcliffe,Hot Spring,Here Comes The Snow,2lE0BHpHnLe0YS7YqFl27W,0.549,0.55,8,-8.343,1,0.0236,0.246,0.148,0.538,95.008,354307,4,0ZgKN5oELqrEx12ki25ilL,34.0,30.0
-21,Wilma Laverne Miner,Used To,True Grit,7Fpayy69I0M2Mu8uCiXXVW,0.559,0.684,0,-9.156,1,0.0352,0.00181,0.17,0.601,106.044,242821,4,5f7gSCzm2HHLDFWrkqZFgm,38.0,33.0
-22,Kalbells,Max Heart,Hump the Beach,63z7hbYc4Zn3ddbmQ8HXIT,0.633,0.673,1,-8.014,1,0.0444,0.0194,0.099,0.816,143.932,235347,4,3QY0HtXymB2ej0xIR8RrdP,43.0,33.0
-23,alexalone,ALEXALONEWORLD,Electric Sickness,3DHuNt6Hk5QaUTdjbPkzvC,0.569,0.795,6,-10.509,1,0.0338,0.955,0.149,0.487,138.039,211227,4,4gbLYxmxdl7JsjaiInWsMO,36.0,22.0
-24,The Deer,Do No Harm,Confetti to the Hurricane,4v6RQY5F9gZnl09SoDJpQC,0.465,0.632,2,-8.633,1,0.0297,0.835,0.0948,0.503,150.853,234187,4,1Hhsvgh6jPbzakInEaTFAJ,45.0,32.0
-25,Tim Darcy,Saturday Night,Still Waking Up,6ynd1GTMId8kyS8jQuvbeK,0.497,0.738,4,-4.098,1,0.0435,0.000931,0.125,0.758,126.652,144653,4,0RDwaqUYzlpmWPB5g4pSOb,35.0,20.0
-26,Voxtrot,"Berlin, Without Return...","Berlin, Without Return...",7AdPPBFoqVzNwHYEBIQDH0,0.668,0.531,1,-10.781,0,0.0515,0.00487,0.102,0.33,129.492,275182,4,7b697TI9p2abLzSo3eJTKW,42.0,47.0
-27,KERA,Vitamin T,Vitamin T,60pNex83TSOAjoYxkhW4QE,0.505,0.42,6,-9.723,1,0.0433,1.18e-05,0.124,0.712,105.023,189195,4,0ZLjlul3kXdLihVJqJn0PR,50.0,34.0
-28,Strawberry Mountain,Harsh Augmented Reality,Harsh Augmented Reality,1VsVY1ySdH3nVSWnLT5vCf,0.562,0.878,11,-4.341,1,0.0305,0.0815,0.0901,0.679,145.975,242096,4,6v69fIFhI2VqebXUWcvWU1,48.0,35.0
-29,NNAMDÏ,Bootie Noir,ART SCHOOL CRUSH,0xG4gdBtTlO6qHKPasdvZy,0.339,0.481,9,-12.972,1,0.0444,0.00952,0.302,0.814,124.89,203910,4,6gACF5PEinqx3AzMLjiH90,45.0,39.0
-30,Teenage Cool Kids,Denton After Sunset,Landlocked State,0UEukOdvxTzs4RtiQwDBr4,0.505,0.537,9,-7.448,1,0.0326,9.32e-06,0.125,0.585,114.683,172104,4,5aNLw2ucGnQWnEpqYqxaAk,38.0,25.0
-31,Bartees Strange,Lady Luck,Lady Luck,3FuuTusOlyjDt3prN4D6ev,0.454,0.464,9,-8.274,1,0.0363,1.99e-05,0.1,0.61,185.673,300936,4,6Gl4Q3ePw6HKMfIOix5QpG,37.0,42.0
-32,Pinc Louds,Delancey St. Station,Scrambled Inside,0uHl5YfXmJc9FcIyz6oGVl,0.366,0.776,0,-5.198,1,0.0549,0.0118,0.311,0.409,141.58,337667,4,5G4Nw3oz2lzx4gneIDs3YX,46.0,40.0
-33,Pregnant,She Noticed,She Noticed,4H0U5Uceg2WMhMhJxnhj1C,0.655,0.978,5,-8.493,0,0.0431,0.0329,0.08,0.927,146.01,181500,4,4LkFDNJcZpdCU8AvZ68DNO,26.0,13.0
-34,Future Crib,Friends,Astronaut,2N9Mt1z4ZINZsP7K4y2Qbu,0.48,0.327,6,-12.123,1,0.06,0,0.0816,0.609,153.324,186253,3,2QeQIlUXOsBbZGniOCJweR,41.0,29.0
-35,French Cassettes,Rolodex,Santa Cruz Tomorrow,3USTw0XqjY9L5LwDQF912R,0.617,0.578,8,-10.804,0,0.0364,0.324,0.354,0.795,165.972,169027,4,0VcpOwnjkQaqDeEiVa9cu5,40.0,44.0
-36,Tōth,You and Me and Everything,I Might Be,5uKH4nY6ALq8jGNZ0BYlBH,0.688,0.548,11,-11.038,1,0.0286,0.589,0.336,0.632,127.997,216902,4,02nqs3YdfX7Th3gYTYFrqc,42.0,44.0
-37,pizzagirl,cape canaveral,cape canaveral,1T1XMARxNMquM1K6WevjFG,0.972,0.532,7,-8.421,0,0.0635,0.00227,0.0785,0.901,130.004,221908,4,0ef7Q5r0NAMicEugmtYxjA,45.0,43.0
-38,Gustaf,Audio Drag for Ego Slobs,Best Behavior,0ZJHhuXm33Qm9gOxRCQzzk,0.866,0.836,2,-4.567,1,0.0748,2.88e-05,0.0825,0.754,127.003,204355,4,6QqLYrbjh5CnfMG7z5r96E,41.0,36.0
-39,Horsegirl,Billy,Billy,3JOa0D7guR3vTzRAWVV0Cy,0.237,0.767,10,-6.27,1,0.0443,0.231,0.111,0.363,107.133,228413,4,2FDvUb4YgyUPpmnm1ILPra,43.0,40.0
-40,Quinn Christopherson,Bubblegum,Bubblegum,1I9vn1CAtjPNmyjldxfQIU,0.734,0.422,2,-11.427,1,0.0296,0.431,0.135,0.602,129.971,238333,4,0tzC81XDBWtTPfJyUg6O2j,41.0,32.0
-41,MJ Lenderman,Knockin',TV Dinners,4LxwqKEPKxx4IavfyY2Eqy,0.651,0.514,9,-13.178,1,0.0397,0.0171,0.423,0.89,90.14,232000,4,4tK6Z8fK7Sc9133byjPGIT,35.0,36.0
-42,Automatic,Signal,Strange Conversations,6pqUg4vVg1wDvd4anCczrY,0.64,0.535,2,-6.084,1,0.0274,0.00813,0.185,0.774,100.058,205920,4,3uX1tstdmFJyxW9b5mSNlU,41.0,43.0
-43,KALI,CIRCLES,I Just Wanna,4GdQnebgk3kKkOGgbLYW5J,0.693,0.586,11,-5.59,0,0.0361,0.000431,0.111,0.51,108.579,254399,4,3BO07jDo7Qs7qNLdwRoISM,53.0,46.0
-44,Coco,Coco,Last of the Loving,0y6rO1JGW02H30j8trmhSP,0.737,0.649,1,-8.073,1,0.0371,0.0112,0.118,0.514,122.932,172163,4,4NxTtZTeJqQ1n27i2qnPCe,52.0,42.0
-45,Jamws,Toronto,Toronto,7gM7OSSKozedhoigEvPaQ7,0.658,0.479,0,-8.048,1,0.0248,0.00509,0.124,0.626,86.504,253687,4,5Dzf0U33H8rPObc1WSjNTw,56.0,40.0
-46,alt-J,The Dream,The Actor,2nNuK9VEgzGMq2lFLAg7S3,0.625,0.604,2,-8.33,1,0.0375,0.0941,0.0607,0.624,147.987,240893,4,3XHO7cRUPCLOr6jwp8vsx5,59.0,76.0
-47,Buck Meek,Two Saviors,Second Sight,5Igdq12AwzNoFCIvCi1xAJ,0.578,0.695,0,-6.141,1,0.0268,0.894,0.0975,0.645,98.238,237898,4,4mYY0UqYdvgdz60psupYBR,38.0,50.0
-48,Tobacco City,"Tobacco City, USA",Never on My Mind,4z9ViersKJgj1ZwTjjfhtk,0.425,0.338,9,-12.212,1,0.0299,0.558,0.0863,0.263,124.17,225297,4,00Af3oygT0HC6ld0c2HwFX,41.0,28.0
-49,Heatmiser,Mic City Sons,Plainclothes Man,7yYf5GF0jX6M6KywKygE0c,0.532,0.38,10,-10.526,1,0.0298,0,0.359,0.317,84.494,208000,4,59IPo3F7aZifhZtHnoGHbo,51.0,45.0
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artist_id,track_pop,artist_pop
+alt-J,The Dream,U&ME,3i4ColsuZEvjeLz63m0jPt,0.587,0.722,7,-8.332,1,0.0574,0.00322,0.133,0.294,81.973,198840,4,3XHO7cRUPCLOr6jwp8vsx5,62.0,76.0
+Claud,Super Monster,Soft Spot,30bqNfOgcJOw2EWJJl1w5J,0.56,0.544,10,-8.25,1,0.0284,5.02e-05,0.224,0.472,82.028,188098,4,5MaQlvNGOaTj39apHsXVq1,60.0,58.0
+Belle and Sebastian,Books,Your Cover's Blown,5Ko8Fc69xLlzwgNxAs7cUU,0.484,0.743,11,-6.005,0,0.0668,1.37e-06,0.344,0.397,109.113,361787,4,4I2BJf80C0skQpp1sQmA0h,47.0,62.0
+Culture Abuse,So Busted,So Busted,19RV3EkvLt39bWSZwsiGjy,0.522,0.978,4,-1.467,1,0.0631,0.0536,0.194,0.528,134.825,123021,4,2GU1bGD3rTvxPNyBie1lqV,50.0,40.0
+fanclubwallet,Car Crash in G Major,Car Crash in G Major,24EtJ2vTx6CtaP32S6Arn2,0.709,0.517,7,-8.077,1,0.0335,0.118,0.484,0.429,105.369,132000,4,1NJUWqbiNAk1BPOyQhb2qe,59.0,46.0
+Quinton Brock,Touch,Touch,5KhKoWqh6lldeVNqSmSsVi,0.473,0.898,6,-4.332,1,0.0633,0.0043,0.241,0.552,66.036,166445,4,1abW5Py6b6FSSpirm5Fkqq,35.0,22.0
+Ray Bull,Love Is Hate,Love Is Hate,5V0MkBLevt9CmtlvqVvEjM,0.788,0.407,4,-9.776,1,0.0519,2.68e-05,0.182,0.703,120.017,230059,4,3P4jnIuA9z5WsvkbsoqkTu,30.0,30.0
+Andrew Bird,Are You Serious (Deluxe Edition),Pulaski,1tGRfoeKD06YvZr6l3uwEk,0.453,0.717,7,-7.724,1,0.0753,0.00243,0.12,0.393,111.023,242147,4,4uSftVc3FPWe6RJuMZNEe9,50.0,61.0
+Star Parks,The New Sounds of Late Capitalism,Palm Sunday,6rN3MviTNZD3Fc1QABVGt9,0.357,0.564,5,-6.658,1,0.0298,0.852,0.216,0.264,125.127,323773,3,0yRum3Q7Dqnt8kl4MdO7TH,30.0,34.0
+Pardoner,Came Down Different,I Wanna Get High To The Music,2cmrMxNXwbCgGX3Fx0YodQ,0.566,0.836,11,-6.848,1,0.0297,0.18,0.118,0.788,146.794,72974,4,2cvOvqNfn14qVRgGEw29PQ,39.0,32.0
+Sons of Raphael,Full-Throated Messianic Homage,Yeah Yeah Yeah,56FAGq0ar7AEpNqK6r7SHo,0.578,0.636,1,-5.024,1,0.0464,0,0.135,0.598,116.049,272867,4,1stGFX6w6VMHQPDPlBqX74,39.0,27.0
+The Convenience,Accelerator,Kiss Me In Heaven,3H5pElWVrTWGqLhqo7LxQM,0.687,0.55,4,-7.595,1,0.0819,0.266,0.104,0.962,157.801,219823,4,2PKfkrNktahdkVFB47NjGv,42.0,29.0
+The Beths,A Real Thing,A Real Thing,5cHFMi5m8FTcYOjzgzmXt1,0.244,0.932,0,-7.926,1,0.0486,0.0131,0.345,0.627,159.891,215180,4,7DjwIxbe8kpw4pqnzAMoin,42.0,50.0
+Ryan Pollie,Stars,The Shore House,0dgGeB2y2wkGfOc8bxnBrp,0.742,0.326,2,-12.016,1,0.0329,0.0349,0.299,0.397,110.01,293251,4,5cZo7U5yKYEWzcaR8ZKhNw,38.0,26.0
+Sheer Mag,A Distant Call,Silver Line,1sq29H6gL3xNe5VdvukWuq,0.647,0.859,8,-5.329,1,0.0317,0.0442,0.233,0.836,129.58,205455,4,58ehndX799ZV9Jcv6IefJ1,44.0,39.0
+Star Parks,The New Sounds of Late Capitalism,"Oh Boredom (Schmaltz City, USA)",79084mepy4vAEG416uZxO7,0.557,0.915,4,-6.743,0,0.0421,7.55e-05,0.74,0.694,111.036,222547,4,0yRum3Q7Dqnt8kl4MdO7TH,44.0,34.0
+Frog,Kind of Blah,Judy Garland,3df6rRK1s42yvZ38VxqBqE,0.385,0.725,6,-7.501,1,0.104,0.00459,0.12,0.104,129.777,217177,4,3ME5MgDqwM6G3UDLmwjftA,46.0,36.0
+Brazos,Phosphorescent Blues,Day Glo,3nIlXRlu5AuZhAsWJgOipm,0.671,0.363,11,-8.441,1,0.031,0.0242,0.113,0.451,78.477,207413,4,5lIfCof40MBLr0WntfhCNx,49.0,33.0
+Death Cab for Cutie,Waiting For The Sunrise,Waiting For The Sunrise,2fVwrrimgW54kXfXoQvvXX,0.678,0.574,4,-7.505,1,0.0318,7.56e-05,0.432,0.782,93.972,179866,3,0YrtvWJMgSdVrk3SfNjTbx,50.0,67.0
+Gabriel Sayer,Pfizer,Pfizer,4T1pEFUMRcp383kBMkrEv8,0.784,0.877,4,-4.531,1,0.054,0.121,0.0755,0.792,84.033,186576,4,1YvGXgPvmPL6Iq3FiTkr5b,42.0,38.0
+Spencer Radcliffe,Hot Spring,Here Comes The Snow,2lE0BHpHnLe0YS7YqFl27W,0.549,0.55,8,-8.343,1,0.0236,0.246,0.148,0.538,95.008,354307,4,0ZgKN5oELqrEx12ki25ilL,34.0,30.0
+Wilma Laverne Miner,Used To,True Grit,7Fpayy69I0M2Mu8uCiXXVW,0.559,0.684,0,-9.156,1,0.0352,0.00181,0.17,0.601,106.044,242821,4,5f7gSCzm2HHLDFWrkqZFgm,38.0,33.0
+Kalbells,Max Heart,Hump the Beach,63z7hbYc4Zn3ddbmQ8HXIT,0.633,0.673,1,-8.014,1,0.0444,0.0194,0.099,0.816,143.932,235347,4,3QY0HtXymB2ej0xIR8RrdP,43.0,33.0
+alexalone,ALEXALONEWORLD,Electric Sickness,3DHuNt6Hk5QaUTdjbPkzvC,0.569,0.795,6,-10.509,1,0.0338,0.955,0.149,0.487,138.039,211227,4,4gbLYxmxdl7JsjaiInWsMO,36.0,22.0
+The Deer,Do No Harm,Confetti to the Hurricane,4v6RQY5F9gZnl09SoDJpQC,0.465,0.632,2,-8.633,1,0.0297,0.835,0.0948,0.503,150.853,234187,4,1Hhsvgh6jPbzakInEaTFAJ,45.0,32.0
+Tim Darcy,Saturday Night,Still Waking Up,6ynd1GTMId8kyS8jQuvbeK,0.497,0.738,4,-4.098,1,0.0435,0.000931,0.125,0.758,126.652,144653,4,0RDwaqUYzlpmWPB5g4pSOb,35.0,20.0
+Voxtrot,"Berlin, Without Return...","Berlin, Without Return...",7AdPPBFoqVzNwHYEBIQDH0,0.668,0.531,1,-10.781,0,0.0515,0.00487,0.102,0.33,129.492,275182,4,7b697TI9p2abLzSo3eJTKW,42.0,47.0
+KERA,Vitamin T,Vitamin T,60pNex83TSOAjoYxkhW4QE,0.505,0.42,6,-9.723,1,0.0433,1.18e-05,0.124,0.712,105.023,189195,4,0ZLjlul3kXdLihVJqJn0PR,50.0,34.0
+Strawberry Mountain,Harsh Augmented Reality,Harsh Augmented Reality,1VsVY1ySdH3nVSWnLT5vCf,0.562,0.878,11,-4.341,1,0.0305,0.0815,0.0901,0.679,145.975,242096,4,6v69fIFhI2VqebXUWcvWU1,48.0,35.0
+NNAMDÏ,Bootie Noir,ART SCHOOL CRUSH,0xG4gdBtTlO6qHKPasdvZy,0.339,0.481,9,-12.972,1,0.0444,0.00952,0.302,0.814,124.89,203910,4,6gACF5PEinqx3AzMLjiH90,45.0,39.0
+Teenage Cool Kids,Denton After Sunset,Landlocked State,0UEukOdvxTzs4RtiQwDBr4,0.505,0.537,9,-7.448,1,0.0326,9.32e-06,0.125,0.585,114.683,172104,4,5aNLw2ucGnQWnEpqYqxaAk,38.0,25.0
+Bartees Strange,Lady Luck,Lady Luck,3FuuTusOlyjDt3prN4D6ev,0.454,0.464,9,-8.274,1,0.0363,1.99e-05,0.1,0.61,185.673,300936,4,6Gl4Q3ePw6HKMfIOix5QpG,37.0,42.0
+Pinc Louds,Delancey St. Station,Scrambled Inside,0uHl5YfXmJc9FcIyz6oGVl,0.366,0.776,0,-5.198,1,0.0549,0.0118,0.311,0.409,141.58,337667,4,5G4Nw3oz2lzx4gneIDs3YX,46.0,40.0
+Pregnant,She Noticed,She Noticed,4H0U5Uceg2WMhMhJxnhj1C,0.655,0.978,5,-8.493,0,0.0431,0.0329,0.08,0.927,146.01,181500,4,4LkFDNJcZpdCU8AvZ68DNO,26.0,13.0
+Future Crib,Friends,Astronaut,2N9Mt1z4ZINZsP7K4y2Qbu,0.48,0.327,6,-12.123,1,0.06,0,0.0816,0.609,153.324,186253,3,2QeQIlUXOsBbZGniOCJweR,41.0,29.0
+French Cassettes,Rolodex,Santa Cruz Tomorrow,3USTw0XqjY9L5LwDQF912R,0.617,0.578,8,-10.804,0,0.0364,0.324,0.354,0.795,165.972,169027,4,0VcpOwnjkQaqDeEiVa9cu5,40.0,44.0
+Tōth,You and Me and Everything,I Might Be,5uKH4nY6ALq8jGNZ0BYlBH,0.688,0.548,11,-11.038,1,0.0286,0.589,0.336,0.632,127.997,216902,4,02nqs3YdfX7Th3gYTYFrqc,42.0,44.0
+pizzagirl,cape canaveral,cape canaveral,1T1XMARxNMquM1K6WevjFG,0.972,0.532,7,-8.421,0,0.0635,0.00227,0.0785,0.901,130.004,221908,4,0ef7Q5r0NAMicEugmtYxjA,45.0,43.0
+Gustaf,Audio Drag for Ego Slobs,Best Behavior,0ZJHhuXm33Qm9gOxRCQzzk,0.866,0.836,2,-4.567,1,0.0748,2.88e-05,0.0825,0.754,127.003,204355,4,6QqLYrbjh5CnfMG7z5r96E,41.0,36.0
+Horsegirl,Billy,Billy,3JOa0D7guR3vTzRAWVV0Cy,0.237,0.767,10,-6.27,1,0.0443,0.231,0.111,0.363,107.133,228413,4,2FDvUb4YgyUPpmnm1ILPra,43.0,40.0
+Quinn Christopherson,Bubblegum,Bubblegum,1I9vn1CAtjPNmyjldxfQIU,0.734,0.422,2,-11.427,1,0.0296,0.431,0.135,0.602,129.971,238333,4,0tzC81XDBWtTPfJyUg6O2j,41.0,32.0
+MJ Lenderman,Knockin',TV Dinners,4LxwqKEPKxx4IavfyY2Eqy,0.651,0.514,9,-13.178,1,0.0397,0.0171,0.423,0.89,90.14,232000,4,4tK6Z8fK7Sc9133byjPGIT,35.0,36.0
+Automatic,Signal,Strange Conversations,6pqUg4vVg1wDvd4anCczrY,0.64,0.535,2,-6.084,1,0.0274,0.00813,0.185,0.774,100.058,205920,4,3uX1tstdmFJyxW9b5mSNlU,41.0,43.0
+KALI,CIRCLES,I Just Wanna,4GdQnebgk3kKkOGgbLYW5J,0.693,0.586,11,-5.59,0,0.0361,0.000431,0.111,0.51,108.579,254399,4,3BO07jDo7Qs7qNLdwRoISM,53.0,46.0
+Coco,Coco,Last of the Loving,0y6rO1JGW02H30j8trmhSP,0.737,0.649,1,-8.073,1,0.0371,0.0112,0.118,0.514,122.932,172163,4,4NxTtZTeJqQ1n27i2qnPCe,52.0,42.0
+Jamws,Toronto,Toronto,7gM7OSSKozedhoigEvPaQ7,0.658,0.479,0,-8.048,1,0.0248,0.00509,0.124,0.626,86.504,253687,4,5Dzf0U33H8rPObc1WSjNTw,56.0,40.0
+alt-J,The Dream,The Actor,2nNuK9VEgzGMq2lFLAg7S3,0.625,0.604,2,-8.33,1,0.0375,0.0941,0.0607,0.624,147.987,240893,4,3XHO7cRUPCLOr6jwp8vsx5,59.0,76.0
+Buck Meek,Two Saviors,Second Sight,5Igdq12AwzNoFCIvCi1xAJ,0.578,0.695,0,-6.141,1,0.0268,0.894,0.0975,0.645,98.238,237898,4,4mYY0UqYdvgdz60psupYBR,38.0,50.0
+Tobacco City,"Tobacco City, USA",Never on My Mind,4z9ViersKJgj1ZwTjjfhtk,0.425,0.338,9,-12.212,1,0.0299,0.558,0.0863,0.263,124.17,225297,4,00Af3oygT0HC6ld0c2HwFX,41.0,28.0
+Heatmiser,Mic City Sons,Plainclothes Man,7yYf5GF0jX6M6KywKygE0c,0.532,0.38,10,-10.526,1,0.0298,0,0.359,0.317,84.494,208000,4,59IPo3F7aZifhZtHnoGHbo,51.0,45.0

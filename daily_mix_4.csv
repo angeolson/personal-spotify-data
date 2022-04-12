@@ -1,51 +1,51 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artist_id,track_pop,artist_pop
-0,Wallows,Tell Me That It’s Over,I Don't Want to Talk,1JiaqVxC0ZKjazNSjjJsnk,0.461,0.908,7,-3.222,1,0.0768,1.4e-06,0.309,0.636,162.042,223533,4,0NIPkIjTV8mB795yEIiPYL,63.0,77.0
-1,Wild Rivers,Sidelines,More or Less,212AgAhFl3RJZGAK0LrMpX,0.53,0.557,2,-8.989,1,0.0541,1.41e-05,0.0814,0.239,120.053,244667,4,59sBwR0jPSTrbMtuTkRPN5,48.0,66.0
-2,The Greeting Committee,This Is It,Is This It?,3anjIXtZMdqKNi4iaNfKft,0.762,0.546,0,-7.562,1,0.0359,0.00285,0.0646,0.63,107.995,167107,4,1MIe1z4RdqLqHSJsb7EBMm,50.0,58.0
-3,Maia Friedman,Under the New Light,First to Love,6EMkbomOfQMlE6s4i7n4nE,0.507,0.549,3,-8.511,1,0.0349,0.712,0.0988,0.386,140.041,278686,4,3SAdHKW3ICNgtyFgaWdC6c,32.0,40.0
-4,Del Water Gap,Del Water Gap,Ode to a Conversation Stuck in Your Throat,51Lf3l6wx008NdBxCQnD6B,0.57,0.804,11,-6.782,1,0.0701,8.96e-05,0.187,0.624,87.533,199233,4,0xPoVNPnxIIUS1vrxAYV00,69.0,62.0
-5,No-No Boy,1975,Imperial Twist,6ZmUCkycyUlh4wp1IHXF32,0.735,0.397,2,-11.469,1,0.0318,0.139,0.11,0.675,113.994,215587,4,37oH7lMYDNAY3eDDl7HozD,46.0,32.0
-6,Bendigo Fletcher,Fits Of Laughter,Evergreen,0MzwKLv7SfUAim7yfsh8D8,0.237,0.658,4,-7.813,1,0.0335,3e-05,0.142,0.267,158.351,280827,4,6O8lpJl2nITlA3dJfT95pM,37.0,47.0
-7,Good Morning,The Guy We Used To Know (Cover) b/w The Guy We Used To Know,The Guy We Used To Know,3nhWWABYxmtHwGShLTMfhy,0.395,0.165,1,-19.282,1,0.0341,0.000158,0.308,0.324,118.661,216851,4,2kMzxA8edU05hvMFU493zJ,35.0,62.0
-8,The Felice Brothers,Jazz on the Autobahn,Jazz on the Autobahn,39FTmyyxXFvK7yXyyuW9ja,0.601,0.68,2,-7.683,1,0.0502,0.00752,0.201,0.819,113.256,272347,4,4Ajgo7nAsTzjSFymIfBjZ1,37.0,47.0
-9,Night Shop,Hello Take Me Anywhere,Hello Take Me Anywhere,0iFLnj9aAlvYMOd0kLqFbr,0.614,0.716,9,-6.729,1,0.0316,0.0395,0.123,0.938,127.217,259625,4,6RxUAOiYiv2dIpiAsYBPJu,37.0,30.0
-10,Low Cut Connie,Get out the Lotion,"Big Thighs, Nj",2ZqjkcgIoFmKiUnZCyltTz,0.54,0.661,11,-6.158,1,0.0308,0.577,0.141,0.494,140.335,193480,4,4taNHtYxfIWIHu07FBw7ih,44.0,43.0
-11,Cut Worms,Nobody Lives Here Anymore,Sold My Soul,7C6hHmGVWw4SzewfvFU2Hc,0.466,0.433,2,-9.489,1,0.0304,2.58e-06,0.093,0.568,145.644,371977,4,2upjmNmngAXZcra9dQRR2l,51.0,46.0
-12,Christian Leave,10 Steps,10 Steps,4U2GQlVHIerwX78jHpkOYN,0.248,0.837,7,-6.534,1,0.0515,0.00214,0.338,0.66,122.878,209132,4,2G8UkPZnQ8i78L8TfqP1X6,55.0,64.0
-13,Jamws,Toronto,Toronto,7gM7OSSKozedhoigEvPaQ7,0.658,0.479,0,-8.048,1,0.0248,0.00509,0.124,0.626,86.504,253687,4,5Dzf0U33H8rPObc1WSjNTw,56.0,40.0
-14,The Criticals,Mimosa Hygiene,Treat Ya Better,2t8RsUdWmOwd7cfH1XgTZX,0.783,0.636,5,-5.682,0,0.0332,0.000977,0.0477,0.818,104.973,195865,4,6ArhcOX0zzUe8GDzLTgBrK,49.0,37.0
-15,Tex Crick,Live In... New York City,Sometimes I Forget,0YOYaUGcHYFTsqlmvcbrqZ,0.791,0.502,5,-9.134,1,0.049,0.828,0.166,0.514,111.036,266760,4,6tZLFWPPLQRWjRaDAhVYu0,45.0,33.0
-16,okaywill,All My Love,All My Love,3AdiSOZxa72xdHN6sGvYeu,0.562,0.717,8,-6.523,1,0.0446,0.312,0.101,0.798,79.819,165000,4,79oW06N8yKp6hKp71ieN7L,41.0,38.0
-17,Loose Fur,Born Again In The USA,The Ruling Class,1Jmn7GHrsf7qjgzsCcj6Do,0.799,0.564,9,-11.949,1,0.0324,0.00171,0.088,0.964,125.71,215053,4,4OogVxC2vWAsXsTYXctXi1,45.0,32.0
-18,Cut Worms,Nobody Lives Here Anymore,Every Once In A While,2Kpm9tFxblFm2nquieRdnZ,0.49,0.564,5,-9.201,1,0.0295,0.00012,0.152,0.857,149.87,277261,4,2upjmNmngAXZcra9dQRR2l,47.0,46.0
-19,Alex Maas,Luca,Been Struggling,0gqf9Si8wjPTxy3TP0avIy,0.223,0.646,7,-11.027,1,0.0552,0.0316,0.0836,0.167,191.84,200158,3,0dBNMuLxOUm6BEU0IiD5Fe,41.0,36.0
-20,Tobacco City,"Tobacco City, USA",Never on My Mind,4z9ViersKJgj1ZwTjjfhtk,0.425,0.338,9,-12.212,1,0.0299,0.558,0.0863,0.263,124.17,225297,4,00Af3oygT0HC6ld0c2HwFX,41.0,28.0
-21,Various Artists,"Lagniappe Sessions, Vol. 1",Allison Road,3TdoVy0NxH9x46dlFHSj5Y,0.778,0.702,9,-9.578,1,0.0283,0.959,0.342,0.818,124.805,222573,4,0LyfQWJT6nXafLPZqxe9Of,38.0,0.0
-22,Morning Teleportation,No Distance,No Distance,1uTbDazz2UxUDVNUYcuzke,0.717,0.875,4,-6.483,1,0.038,0.000428,0.311,0.974,121.063,138743,4,5jOwDRC4Ha9MLHxF9YELyV,38.0,34.0
-23,Charlotte Cornfield,Highs in the Minuses,Partner in Crime,5B6bIkuvNP6d9yvYIsMZq9,0.798,0.443,8,-7.8,1,0.0358,0.0534,0.102,0.722,147.832,270714,4,59aqTTQGnvttJ4BCThaABZ,35.0,32.0
-24,Alan Dunham,Flying Alone,Sally,2oCfdGzShLK4i7OcMKcLFM,0.321,0.228,5,-12.41,1,0.0279,0,0.0699,0.424,140.291,280861,4,0HyRfadsaqVv6kLRUMrBOY,11.0,25.0
-25,Cut Worms,Hollow Ground,Don't Want to Say Good-bye,2KOAvJEVENkb1he87yrgLC,0.756,0.844,0,-3.269,1,0.0288,0,0.132,0.781,119.965,171469,4,2upjmNmngAXZcra9dQRR2l,45.0,46.0
-26,Nixon Mask,BBQ Downer,Defection,0bXJRygxrZNviJXpQiPGDE,0.371,0.76,7,-7.617,1,0.0287,0.00051,0.105,0.625,129.362,284941,4,3qd7SVOfNjhMKmIOqDRbDC,35.0,19.0
-27,Dan & Drum,Heteroverheels,Heteroverheels,0hhFU4cjc13Azaifgh7Omc,0.405,0.278,7,-8.461,1,0.0288,0.0207,0.164,0.212,101.082,282816,4,1ZajCRAa7VEcTytwxzr20a,45.0,41.0
-28,Mapache,They Don't Know At The Beach,They Don't Know At The Beach,1z3JpopRPKyyHM6YNoq7kE,0.653,0.425,9,-8.818,1,0.0265,0.02,0.638,0.674,90.976,201400,4,5oBpxK3bSEGeENPP6C5QMO,41.0,44.0
-29,Skyway Man,The World Only Ends When You Die,Muddy Water,4hVkDQ63qEfoTcYm3RwVqp,0.568,0.401,2,-9.263,1,0.0284,0.0877,0.784,0.699,71.262,263300,4,5QaXPOeFBhSwhLxrmU2ghj,41.0,34.0
-30,The Greeting Committee,This Is It,Don't Go,4nz6Mx9m84P6Cn4cJp2BJR,0.611,0.629,10,-8.19,1,0.0383,0.000299,0.0961,0.542,158.017,246160,4,1MIe1z4RdqLqHSJsb7EBMm,52.0,58.0
-31,The Crystal Casino Band,Until the Sun Comes up,Twenty-something Socialist,0BXxrsh0yX7xnLaFGSOz0Q,0.459,0.728,10,-6.419,0,0.0413,0.00599,0.0977,0.615,119.967,228250,4,1ZOITEwKW2JCm6HDS96hwF,30.0,46.0
-32,Fruit Bats,Mouthfuls,When U Love Somebody,68Euox5QCQrf0sMI847CfC,0.723,0.763,7,-6.366,1,0.0262,0.00543,0.343,0.586,120.961,271160,4,6Qm9stX6XO1a4c7BXQDDgc,61.0,60.0
-33,Del Water Gap,Del Water Gap,Better Than I Know Myself,4PawewnYu8lyLk3DX1RCNu,0.571,0.691,3,-7.027,0,0.0312,0.0721,0.124,0.617,110.004,262511,4,0xPoVNPnxIIUS1vrxAYV00,57.0,62.0
-34,The Criticals,United States of Chemicals,Absinthe,76ODGYf9u04tYxBuwmkBI2,0.743,0.698,8,-5.629,0,0.032,0.00114,0.124,0.961,110.952,130572,4,6ArhcOX0zzUe8GDzLTgBrK,35.0,37.0
-35,Matt Duncan,Beacon,Good Times,397rM4wePe8bPJSMAwFNUO,0.386,0.557,0,-9.724,1,0.0445,8.99e-05,0.0946,0.244,110.014,145386,4,7gRH7pJQJaAvrwvi8STYEl,39.0,48.0
-36,Jeff Tweedy,Together At Last,I Am Trying To Break Your Heart,6dWH2t4GwPyo2uoSMbG1gI,0.666,0.189,4,-14.205,1,0.058,2.57e-05,0.0946,0.344,104.859,220867,4,2rDxtYUzTAYJJE3Bl3Z5IN,45.0,48.0
-37,The Greeting Committee,Dandelion,Make Out,6haLtXSts5wuG97Nyq4jI5,0.525,0.77,1,-4.926,1,0.0473,0.00108,0.0368,0.626,164.089,143493,4,1MIe1z4RdqLqHSJsb7EBMm,50.0,58.0
-38,My Morning Jacket,It Still Moves,Golden,3kQDykkw9HVowlm3HxTcuR,0.566,0.479,5,-11.128,1,0.0254,0.00388,0.357,0.28,109.748,279240,4,43O3c6wewpzPKwVaGEEtBM,59.0,60.0
-39,Fruit Bats,The Pet Parade,The Balcony,27GaPhdSkbvrfPTKZk2C6V,0.654,0.844,3,-7.63,1,0.0273,0.35,0.121,0.783,130.03,248925,4,6Qm9stX6XO1a4c7BXQDDgc,53.0,60.0
-40,j ember,Sleep Well,Sleep Well,3GWuPbPr5nT65fmew963zV,0.586,0.718,7,-7.834,1,0.0281,0.0273,0.197,0.763,90.972,248675,4,4UUDpbs7gikfzHz0CRvdnv,43.0,45.0
-41,The Crystal Casino Band,Someone When You Want It (The Album),Potomac,0jBn2Bc6ONGQzWwhwLHlsw,0.337,0.688,3,-8.06,1,0.0352,0.451,0.156,0.322,156.504,250632,4,1ZOITEwKW2JCm6HDS96hwF,37.0,46.0
-42,Kid Bloom,Does It Feel Real,Does It Feel Real,44f9F8DdO8URqNBOVBaW7U,0.788,0.746,4,-4.108,0,0.0477,4.82e-05,0.0611,0.806,102.03,149667,4,5CXdWANGwYYRPClH6hhC0P,47.0,61.0
-43,Mt. Joy,Lemon Tree,Lemon Tree,0SnCZci0wyVj0RZXknNaWq,0.365,0.748,10,-9.145,1,0.0881,0.503,0.303,0.475,121.285,248560,4,69tiO1fG8VWduDl3ji2qhI,64.0,67.0
-44,Cut Worms,Nobody Lives Here Anymore,The Heat Is On,41AYVZyvXHhY6Kr4ADhu4C,0.579,0.365,7,-9.856,1,0.0276,0.000704,0.101,0.442,129.977,335364,4,2upjmNmngAXZcra9dQRR2l,35.0,46.0
-45,The Greeting Committee,How Long? (Tune-Yards Remix),How Long? - Tune-Yards Remix,2I8SodiSsHsPyCR35dcJAF,0.719,0.772,7,-5.405,1,0.0413,0.0388,0.471,0.602,129.994,272250,4,1MIe1z4RdqLqHSJsb7EBMm,45.0,58.0
-46,Del Water Gap,Del Water Gap,Perfume,3W3GKw4by2pdPfG8bYQMVG,0.49,0.821,7,-7.711,1,0.0848,0.000841,0.198,0.642,195.128,232076,3,0xPoVNPnxIIUS1vrxAYV00,57.0,62.0
-47,Wallows,Tell Me That It’s Over,Especially You,4lTaOALACghmELb2QTPxn0,0.546,0.95,2,-3.386,1,0.133,6.3e-05,0.0942,0.757,94.923,181120,4,0NIPkIjTV8mB795yEIiPYL,62.0,77.0
-48,Kurt Vile,How Lucky,How Lucky,4iK3yOQKoby2b9gvCmUwsR,0.517,0.432,5,-9.956,1,0.0293,0.000798,0.362,0.539,171.175,203117,4,5gspAQIAH8nJUrMYgXjCJ2,60.0,62.0
-49,Loose Fur,Loose Fur,Laminated Cat,2yIGVr7Z3XmxCcvpsvH5j7,0.529,0.417,2,-17.532,1,0.0366,0.538,0.0894,0.376,133.79,438040,4,4OogVxC2vWAsXsTYXctXi1,37.0,32.0
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artist_id,track_pop,artist_pop
+Wallows,Tell Me That It’s Over,I Don't Want to Talk,1JiaqVxC0ZKjazNSjjJsnk,0.461,0.908,7,-3.222,1,0.0768,1.4e-06,0.309,0.636,162.042,223533,4,0NIPkIjTV8mB795yEIiPYL,63.0,77.0
+Wild Rivers,Sidelines,More or Less,212AgAhFl3RJZGAK0LrMpX,0.53,0.557,2,-8.989,1,0.0541,1.41e-05,0.0814,0.239,120.053,244667,4,59sBwR0jPSTrbMtuTkRPN5,48.0,66.0
+The Greeting Committee,This Is It,Is This It?,3anjIXtZMdqKNi4iaNfKft,0.762,0.546,0,-7.562,1,0.0359,0.00285,0.0646,0.63,107.995,167107,4,1MIe1z4RdqLqHSJsb7EBMm,50.0,58.0
+Maia Friedman,Under the New Light,First to Love,6EMkbomOfQMlE6s4i7n4nE,0.507,0.549,3,-8.511,1,0.0349,0.712,0.0988,0.386,140.041,278686,4,3SAdHKW3ICNgtyFgaWdC6c,32.0,40.0
+Del Water Gap,Del Water Gap,Ode to a Conversation Stuck in Your Throat,51Lf3l6wx008NdBxCQnD6B,0.57,0.804,11,-6.782,1,0.0701,8.96e-05,0.187,0.624,87.533,199233,4,0xPoVNPnxIIUS1vrxAYV00,69.0,62.0
+No-No Boy,1975,Imperial Twist,6ZmUCkycyUlh4wp1IHXF32,0.735,0.397,2,-11.469,1,0.0318,0.139,0.11,0.675,113.994,215587,4,37oH7lMYDNAY3eDDl7HozD,46.0,32.0
+Bendigo Fletcher,Fits Of Laughter,Evergreen,0MzwKLv7SfUAim7yfsh8D8,0.237,0.658,4,-7.813,1,0.0335,3e-05,0.142,0.267,158.351,280827,4,6O8lpJl2nITlA3dJfT95pM,37.0,47.0
+Good Morning,The Guy We Used To Know (Cover) b/w The Guy We Used To Know,The Guy We Used To Know,3nhWWABYxmtHwGShLTMfhy,0.395,0.165,1,-19.282,1,0.0341,0.000158,0.308,0.324,118.661,216851,4,2kMzxA8edU05hvMFU493zJ,35.0,62.0
+The Felice Brothers,Jazz on the Autobahn,Jazz on the Autobahn,39FTmyyxXFvK7yXyyuW9ja,0.601,0.68,2,-7.683,1,0.0502,0.00752,0.201,0.819,113.256,272347,4,4Ajgo7nAsTzjSFymIfBjZ1,37.0,47.0
+Night Shop,Hello Take Me Anywhere,Hello Take Me Anywhere,0iFLnj9aAlvYMOd0kLqFbr,0.614,0.716,9,-6.729,1,0.0316,0.0395,0.123,0.938,127.217,259625,4,6RxUAOiYiv2dIpiAsYBPJu,37.0,30.0
+Low Cut Connie,Get out the Lotion,"Big Thighs, Nj",2ZqjkcgIoFmKiUnZCyltTz,0.54,0.661,11,-6.158,1,0.0308,0.577,0.141,0.494,140.335,193480,4,4taNHtYxfIWIHu07FBw7ih,44.0,43.0
+Cut Worms,Nobody Lives Here Anymore,Sold My Soul,7C6hHmGVWw4SzewfvFU2Hc,0.466,0.433,2,-9.489,1,0.0304,2.58e-06,0.093,0.568,145.644,371977,4,2upjmNmngAXZcra9dQRR2l,51.0,46.0
+Christian Leave,10 Steps,10 Steps,4U2GQlVHIerwX78jHpkOYN,0.248,0.837,7,-6.534,1,0.0515,0.00214,0.338,0.66,122.878,209132,4,2G8UkPZnQ8i78L8TfqP1X6,55.0,64.0
+Jamws,Toronto,Toronto,7gM7OSSKozedhoigEvPaQ7,0.658,0.479,0,-8.048,1,0.0248,0.00509,0.124,0.626,86.504,253687,4,5Dzf0U33H8rPObc1WSjNTw,56.0,40.0
+The Criticals,Mimosa Hygiene,Treat Ya Better,2t8RsUdWmOwd7cfH1XgTZX,0.783,0.636,5,-5.682,0,0.0332,0.000977,0.0477,0.818,104.973,195865,4,6ArhcOX0zzUe8GDzLTgBrK,49.0,37.0
+Tex Crick,Live In... New York City,Sometimes I Forget,0YOYaUGcHYFTsqlmvcbrqZ,0.791,0.502,5,-9.134,1,0.049,0.828,0.166,0.514,111.036,266760,4,6tZLFWPPLQRWjRaDAhVYu0,45.0,33.0
+okaywill,All My Love,All My Love,3AdiSOZxa72xdHN6sGvYeu,0.562,0.717,8,-6.523,1,0.0446,0.312,0.101,0.798,79.819,165000,4,79oW06N8yKp6hKp71ieN7L,41.0,38.0
+Loose Fur,Born Again In The USA,The Ruling Class,1Jmn7GHrsf7qjgzsCcj6Do,0.799,0.564,9,-11.949,1,0.0324,0.00171,0.088,0.964,125.71,215053,4,4OogVxC2vWAsXsTYXctXi1,45.0,32.0
+Cut Worms,Nobody Lives Here Anymore,Every Once In A While,2Kpm9tFxblFm2nquieRdnZ,0.49,0.564,5,-9.201,1,0.0295,0.00012,0.152,0.857,149.87,277261,4,2upjmNmngAXZcra9dQRR2l,47.0,46.0
+Alex Maas,Luca,Been Struggling,0gqf9Si8wjPTxy3TP0avIy,0.223,0.646,7,-11.027,1,0.0552,0.0316,0.0836,0.167,191.84,200158,3,0dBNMuLxOUm6BEU0IiD5Fe,41.0,36.0
+Tobacco City,"Tobacco City, USA",Never on My Mind,4z9ViersKJgj1ZwTjjfhtk,0.425,0.338,9,-12.212,1,0.0299,0.558,0.0863,0.263,124.17,225297,4,00Af3oygT0HC6ld0c2HwFX,41.0,28.0
+Various Artists,"Lagniappe Sessions, Vol. 1",Allison Road,3TdoVy0NxH9x46dlFHSj5Y,0.778,0.702,9,-9.578,1,0.0283,0.959,0.342,0.818,124.805,222573,4,0LyfQWJT6nXafLPZqxe9Of,38.0,0.0
+Morning Teleportation,No Distance,No Distance,1uTbDazz2UxUDVNUYcuzke,0.717,0.875,4,-6.483,1,0.038,0.000428,0.311,0.974,121.063,138743,4,5jOwDRC4Ha9MLHxF9YELyV,38.0,34.0
+Charlotte Cornfield,Highs in the Minuses,Partner in Crime,5B6bIkuvNP6d9yvYIsMZq9,0.798,0.443,8,-7.8,1,0.0358,0.0534,0.102,0.722,147.832,270714,4,59aqTTQGnvttJ4BCThaABZ,35.0,32.0
+Alan Dunham,Flying Alone,Sally,2oCfdGzShLK4i7OcMKcLFM,0.321,0.228,5,-12.41,1,0.0279,0,0.0699,0.424,140.291,280861,4,0HyRfadsaqVv6kLRUMrBOY,11.0,25.0
+Cut Worms,Hollow Ground,Don't Want to Say Good-bye,2KOAvJEVENkb1he87yrgLC,0.756,0.844,0,-3.269,1,0.0288,0,0.132,0.781,119.965,171469,4,2upjmNmngAXZcra9dQRR2l,45.0,46.0
+Nixon Mask,BBQ Downer,Defection,0bXJRygxrZNviJXpQiPGDE,0.371,0.76,7,-7.617,1,0.0287,0.00051,0.105,0.625,129.362,284941,4,3qd7SVOfNjhMKmIOqDRbDC,35.0,19.0
+Dan & Drum,Heteroverheels,Heteroverheels,0hhFU4cjc13Azaifgh7Omc,0.405,0.278,7,-8.461,1,0.0288,0.0207,0.164,0.212,101.082,282816,4,1ZajCRAa7VEcTytwxzr20a,45.0,41.0
+Mapache,They Don't Know At The Beach,They Don't Know At The Beach,1z3JpopRPKyyHM6YNoq7kE,0.653,0.425,9,-8.818,1,0.0265,0.02,0.638,0.674,90.976,201400,4,5oBpxK3bSEGeENPP6C5QMO,41.0,44.0
+Skyway Man,The World Only Ends When You Die,Muddy Water,4hVkDQ63qEfoTcYm3RwVqp,0.568,0.401,2,-9.263,1,0.0284,0.0877,0.784,0.699,71.262,263300,4,5QaXPOeFBhSwhLxrmU2ghj,41.0,34.0
+The Greeting Committee,This Is It,Don't Go,4nz6Mx9m84P6Cn4cJp2BJR,0.611,0.629,10,-8.19,1,0.0383,0.000299,0.0961,0.542,158.017,246160,4,1MIe1z4RdqLqHSJsb7EBMm,52.0,58.0
+The Crystal Casino Band,Until the Sun Comes up,Twenty-something Socialist,0BXxrsh0yX7xnLaFGSOz0Q,0.459,0.728,10,-6.419,0,0.0413,0.00599,0.0977,0.615,119.967,228250,4,1ZOITEwKW2JCm6HDS96hwF,30.0,46.0
+Fruit Bats,Mouthfuls,When U Love Somebody,68Euox5QCQrf0sMI847CfC,0.723,0.763,7,-6.366,1,0.0262,0.00543,0.343,0.586,120.961,271160,4,6Qm9stX6XO1a4c7BXQDDgc,61.0,60.0
+Del Water Gap,Del Water Gap,Better Than I Know Myself,4PawewnYu8lyLk3DX1RCNu,0.571,0.691,3,-7.027,0,0.0312,0.0721,0.124,0.617,110.004,262511,4,0xPoVNPnxIIUS1vrxAYV00,57.0,62.0
+The Criticals,United States of Chemicals,Absinthe,76ODGYf9u04tYxBuwmkBI2,0.743,0.698,8,-5.629,0,0.032,0.00114,0.124,0.961,110.952,130572,4,6ArhcOX0zzUe8GDzLTgBrK,35.0,37.0
+Matt Duncan,Beacon,Good Times,397rM4wePe8bPJSMAwFNUO,0.386,0.557,0,-9.724,1,0.0445,8.99e-05,0.0946,0.244,110.014,145386,4,7gRH7pJQJaAvrwvi8STYEl,39.0,48.0
+Jeff Tweedy,Together At Last,I Am Trying To Break Your Heart,6dWH2t4GwPyo2uoSMbG1gI,0.666,0.189,4,-14.205,1,0.058,2.57e-05,0.0946,0.344,104.859,220867,4,2rDxtYUzTAYJJE3Bl3Z5IN,45.0,48.0
+The Greeting Committee,Dandelion,Make Out,6haLtXSts5wuG97Nyq4jI5,0.525,0.77,1,-4.926,1,0.0473,0.00108,0.0368,0.626,164.089,143493,4,1MIe1z4RdqLqHSJsb7EBMm,50.0,58.0
+My Morning Jacket,It Still Moves,Golden,3kQDykkw9HVowlm3HxTcuR,0.566,0.479,5,-11.128,1,0.0254,0.00388,0.357,0.28,109.748,279240,4,43O3c6wewpzPKwVaGEEtBM,59.0,60.0
+Fruit Bats,The Pet Parade,The Balcony,27GaPhdSkbvrfPTKZk2C6V,0.654,0.844,3,-7.63,1,0.0273,0.35,0.121,0.783,130.03,248925,4,6Qm9stX6XO1a4c7BXQDDgc,53.0,60.0
+j ember,Sleep Well,Sleep Well,3GWuPbPr5nT65fmew963zV,0.586,0.718,7,-7.834,1,0.0281,0.0273,0.197,0.763,90.972,248675,4,4UUDpbs7gikfzHz0CRvdnv,43.0,45.0
+The Crystal Casino Band,Someone When You Want It (The Album),Potomac,0jBn2Bc6ONGQzWwhwLHlsw,0.337,0.688,3,-8.06,1,0.0352,0.451,0.156,0.322,156.504,250632,4,1ZOITEwKW2JCm6HDS96hwF,37.0,46.0
+Kid Bloom,Does It Feel Real,Does It Feel Real,44f9F8DdO8URqNBOVBaW7U,0.788,0.746,4,-4.108,0,0.0477,4.82e-05,0.0611,0.806,102.03,149667,4,5CXdWANGwYYRPClH6hhC0P,47.0,61.0
+Mt. Joy,Lemon Tree,Lemon Tree,0SnCZci0wyVj0RZXknNaWq,0.365,0.748,10,-9.145,1,0.0881,0.503,0.303,0.475,121.285,248560,4,69tiO1fG8VWduDl3ji2qhI,64.0,67.0
+Cut Worms,Nobody Lives Here Anymore,The Heat Is On,41AYVZyvXHhY6Kr4ADhu4C,0.579,0.365,7,-9.856,1,0.0276,0.000704,0.101,0.442,129.977,335364,4,2upjmNmngAXZcra9dQRR2l,35.0,46.0
+The Greeting Committee,How Long? (Tune-Yards Remix),How Long? - Tune-Yards Remix,2I8SodiSsHsPyCR35dcJAF,0.719,0.772,7,-5.405,1,0.0413,0.0388,0.471,0.602,129.994,272250,4,1MIe1z4RdqLqHSJsb7EBMm,45.0,58.0
+Del Water Gap,Del Water Gap,Perfume,3W3GKw4by2pdPfG8bYQMVG,0.49,0.821,7,-7.711,1,0.0848,0.000841,0.198,0.642,195.128,232076,3,0xPoVNPnxIIUS1vrxAYV00,57.0,62.0
+Wallows,Tell Me That It’s Over,Especially You,4lTaOALACghmELb2QTPxn0,0.546,0.95,2,-3.386,1,0.133,6.3e-05,0.0942,0.757,94.923,181120,4,0NIPkIjTV8mB795yEIiPYL,62.0,77.0
+Kurt Vile,How Lucky,How Lucky,4iK3yOQKoby2b9gvCmUwsR,0.517,0.432,5,-9.956,1,0.0293,0.000798,0.362,0.539,171.175,203117,4,5gspAQIAH8nJUrMYgXjCJ2,60.0,62.0
+Loose Fur,Loose Fur,Laminated Cat,2yIGVr7Z3XmxCcvpsvH5j7,0.529,0.417,2,-17.532,1,0.0366,0.538,0.0894,0.376,133.79,438040,4,4OogVxC2vWAsXsTYXctXi1,37.0,32.0

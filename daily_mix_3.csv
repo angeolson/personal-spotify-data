@@ -1,51 +1,51 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artist_id,track_pop,artist_pop
-0,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),Suffragette City - 2012 Remaster,3YZa4IzxK2UtEKTvdTgsi8,0.455,0.883,2,-9.159,1,0.0384,0,0.277,0.782,142.638,208413,4,0oSGxfWSnnOXhD2fKuz2Gy,63.0,81.0
-1,Queen,A Day At The Races (Deluxe Remastered Version),Good Old-Fashioned Lover Boy - Remastered 2011,1mnQiO568zXIrUncttTZGp,0.545,0.454,3,-6.706,1,0.0302,0,0.0541,0.393,96.784,173173,4,1dfeR4HaWDbWqFHLkxsg1d,69.0,88.0
-2,The Beatles,Magical Mystery Tour (Remastered),Strawberry Fields Forever - Remastered 2009,3Am0IbOxmvlSXro7N5iSfZ,0.39,0.502,10,-12.277,1,0.178,0.000138,0.0713,0.289,97.871,247320,4,3WrFJ7ztbogyGnTHbHJFl2,72.0,88.0
-3,The Nerves,One Way Ticket,Many Roads to Follow (Demo),1LpSFi4bgbOohDRxrMoeNU,0.552,0.369,4,-10.582,1,0.0301,0.00624,0.106,0.601,127.188,134200,1,298i00ena8XMnm9O3qlHtU,40.0,40.0
-4,Billy Joel,52nd Street,My Life,4ZoBC5MhSEzuknIgAkBaoT,0.741,0.647,2,-12.878,1,0.0427,0.00139,0.0555,0.804,131.097,284000,4,6zFYqv1mOsgBRQbae3JJ9e,73.0,80.0
-5,T. Rex,Electric Warrior [Expanded & Remastered],Mambo Sun - 2003 Remaster,79dQwpXjJ4t3pILysdqFyB,0.518,0.611,11,-10.667,1,0.101,0.827,0.209,0.731,181.034,220960,4,3dBVyJ7JuOMt4GE9607Qin,52.0,65.0
-6,Ryan Scott,A Freak Grows in Brooklyn,Everything's Gonna Be Fine,2MOvdhC2Ve2kgiL1oG0i7e,0.669,0.613,10,-6.042,0,0.0936,0.5,0.0795,0.742,82.879,196592,4,5XhU9rfYBQBDGxujJiB3LJ,41.0,39.0
-7,Jellyfish,Spilt Milk,New Mistake,7a7y3aPXd5STF9BvCG6slI,0.653,0.606,11,-9.577,1,0.0292,1.52e-05,0.0564,0.882,121.641,242827,3,10flBVEy5MiUXOJWTaFsyL,45.0,38.0
-8,Kim Jung Mi,Now,Blow Spring Breeze,0NIh5j1CfLpDHvoOCaUnaU,0.66,0.304,0,-15.532,1,0.044,0.573,0.108,0.961,122.429,115040,4,0yxIUq0WFyaTmYyleG4Uca,39.0,35.0
-9,Grateful Dead,Go to Heaven,Althea - 2013 Remaster,7M7AwtGvWdMYudqx5Iuh1m,0.783,0.284,9,-14.307,1,0.0365,0.282,0.0767,0.584,82.676,412596,4,4TMHGUX5WI7OOm53PqSDAT,63.0,70.0
-10,Neal Francis,In Plain Sight,Problems,4WBs7J0btTQLsER9ouXW2I,0.687,0.818,10,-6.831,0,0.0337,0.000508,0.12,0.964,111.04,238813,4,2e5y5Gs5lgnDmiY4TKLsq3,41.0,47.0
-11,Colin Blunstone,One Year,She Loves the Way They Love Her,7MEGee2yq9oWZKpxjYlSyW,0.432,0.82,5,-7.179,1,0.0456,0,0.0932,0.653,131.787,169693,4,27DCwiPx5ocQsf4K43SlIL,35.0,37.0
-12,T. Rex,Electric Warrior [Expanded & Remastered],Monolith - 2003 Remaster,7jLYNCaTmEe1OnhYhGtfeC,0.5,0.557,0,-10.54,1,0.0526,5.34e-05,0.0826,0.48,81.764,229560,4,3dBVyJ7JuOMt4GE9607Qin,43.0,65.0
-13,Alan Hull,Pipedream,Breakfast - 2005 Digital Remaster,1hOoIh4ZFa6ixfKVXZOfCo,0.379,0.332,7,-13.859,1,0.0333,0,0.331,0.399,85.034,223453,4,1DtvquLh9kUOQHnOwuiHdv,32.0,32.0
-14,Jonathan Richman,"I, Jonathan",That Summer Feeling,5oOC6EBnSQ3PfRAQyfjAla,0.444,0.105,5,-17.271,1,0.0696,3e-06,0.121,0.453,202.689,366600,4,6hkch2KhRl0tywpeVK5xR5,47.0,51.0
-15,Jim Ford,Harlan County,Love On My Brain,64MDCxBEInYxmt4600EwJt,0.441,0.704,9,-7.091,1,0.0451,0.0838,0.043,0.685,149.444,194533,4,24caHjJclAtCI8Ld7Az8l1,42.0,40.0
-16,John Cale,Paris 1919,Paris 1919,5Zpy2HR2vYLjlTQVd81DLH,0.742,0.321,0,-13.728,1,0.0315,0.0432,0.11,0.613,107.349,246800,4,5MWBg16f5UYiaSlyVhzlIW,54.0,51.0
-17,Grateful Dead,Shakedown Street,Shakedown Street - 2013 Remaster,1lNRVjK8MukRZpeurYssIx,0.809,0.575,0,-12.176,1,0.0298,1.65e-06,0.0799,0.85,109.447,300209,4,4TMHGUX5WI7OOm53PqSDAT,59.0,70.0
-18,Tim Hill,Payador,"Paris, Texas",67C5gv4ouZqQ1hF3QbbD43,0.667,0.394,9,-6.494,1,0.0314,0.000221,0.11,0.443,114.677,309708,4,4LLOu8tVD2cTM5Lemff1bG,38.0,33.0
-19,The Nerves,One Way Ticket,Hanging on the Telephone,5LkI19KFtfJUjxOxvZavUf,0.58,0.914,5,-5.985,0,0.0455,2.06e-06,0.23,0.828,145.98,124893,4,298i00ena8XMnm9O3qlHtU,53.0,40.0
-20,Amanaz,Africa,Khala My Friend,5xevas4P14kVmD4St0X3yy,0.588,0.407,1,-14.169,1,0.0362,0.427,0.12,0.362,87.565,203716,4,7dZiPXbSCTAgUpmpgNoLjt,59.0,49.0
-21,Paul McCartney,Ram (Archive Collection),Ram On - Remastered 2012,6qZMXw0fs9qI8b4Nl9ntEQ,0.612,0.407,5,-12.197,0,0.0484,0.79,0.286,0.574,128.287,149587,4,4STHEaNw4mPZ2tzheohgXB,52.0,74.0
-22,The Modern Lovers,The Modern Lovers,Roadrunner,5E5HYgxGMp3BPakHGfKfIB,0.462,0.84,2,-6.666,1,0.0346,6.47e-05,0.0893,0.804,75.54,246440,4,2eRdPaLHWAL4d1WcNUO9Vz,59.0,50.0
-23,The Rolling Stones,She's A Rainbow / Dandelion / We Love You,She's A Rainbow,6KOtheMY0KN4s9TrQHr9It,0.464,0.824,10,-7.359,1,0.0374,0.018,0.33,0.539,109.298,253720,4,22bE4uQ6baNwSHPVcDxLCe,68.0,82.0
-24,Sir Woman,Blame It on the Water,Blame It on the Water,7xXIQiedfgExguYLFomda7,0.693,0.713,11,-6.508,0,0.0392,0.02,0.0802,0.848,101.034,203133,4,3H03S3ZtyYLdzsk6EYndUL,38.0,47.0
-25,Mott The Hoople,All The Young Dudes (Expanded Edition),All the Young Dudes,0WNGPpmWqzPnk0psUhJ3SX,0.429,0.668,4,-7.539,0,0.044,0,0.538,0.398,77.737,211067,4,6ysQi6NI88X627t2srsWz6,66.0,53.0
-26,Joe Walsh,There Goes the Neighborhood,A Life of Illusion,19P4fwkPhE6yVAXApFWDoF,0.692,0.613,2,-10.735,1,0.0282,0.0652,0.094,0.93,120.901,210533,4,5bDxAyJiTYBat1YnFJhvEK,64.0,62.0
-27,T. Rex,Electric Warrior [Expanded & Remastered],Cosmic Dancer - 2003 Remaster,5N4vVbNotNwWGG8KcCdstR,0.37,0.694,0,-11.713,1,0.0595,0.00363,0.182,0.65,155.072,270000,4,3dBVyJ7JuOMt4GE9607Qin,49.0,65.0
-28,Robert Lester Folsom,Ode to a Rainy Day: Archives 1972-1975,Heaven on the Beach With You,1aYDZpNwbkWa2ci01qbReB,0.534,0.532,11,-10.281,1,0.0339,0.953,0.0834,0.835,118.359,122859,4,5uQyXHg4ph7gNlnZHxt9kX,43.0,43.0
-29,Cut Worms,Song of the Highest Tower,Song of the Highest Tower,3EC8ap9G5z7tWIBH4e4GNl,0.571,0.444,5,-6.405,1,0.0242,6.52e-06,0.143,0.38,107.043,413578,4,2upjmNmngAXZcra9dQRR2l,49.0,46.0
-30,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",Strangers,7obb4s6A7gf0Lc2AGxodMy,0.47,0.397,0,-9.337,1,0.0345,1.35e-05,0.109,0.487,128.69,198373,4,1SQRv42e4PjEYfPhS0Tk9E,60.0,70.0
-31,The Beatles,The Beatles (Remastered),Happiness Is A Warm Gun - Remastered 2009,71LsKf3xISiOlY1mj7FFPP,0.431,0.54,9,-9.6,0,0.0589,1.34e-06,0.169,0.44,139.288,164547,4,3WrFJ7ztbogyGnTHbHJFl2,60.0,88.0
-32,David Bowie,The Man Who Sold the World (2015 Remaster),The Man Who Sold the World - 2015 Remaster,4mWahKerLaVddUjb8d1Q4Q,0.474,0.387,2,-14.416,0,0.0305,0.00557,0.143,0.545,118.486,241347,4,0oSGxfWSnnOXhD2fKuz2Gy,67.0,81.0
-33,New York Dolls,New York Dolls,Trash,2OQS3xvoKKSayJMJT8dVuZ,0.478,0.698,7,-9.255,1,0.0321,0,0.191,0.85,112.99,188307,4,0WhGV9lzljq2QKJ8ipw6jx,50.0,47.0
-34,Grateful Dead,American Beauty (2013 Remaster),Box of Rain - 2013 Remaster,7x2xjJV3YAPeLQJ7u3Kjet,0.52,0.49,2,-12.828,1,0.0286,0,0.121,0.76,117.755,318929,4,4TMHGUX5WI7OOm53PqSDAT,57.0,70.0
-35,T. Rex,Electric Warrior [Expanded & Remastered],Jeepster - 2003 Remaster,0v1wsyUb3UplLdgcdTbUEd,0.565,0.761,11,-9.88,0,0.0486,0.00315,0.0442,0.925,94.893,252440,4,3dBVyJ7JuOMt4GE9607Qin,49.0,65.0
-36,Fleetwood Mac,Mystery to Me,Hypnotized,1cHCG42MxckrXNFqyF8Uhr,0.437,0.54,0,-15.797,0,0.0469,0.00478,0.0815,0.966,162.236,289200,3,08GQAI4eElDnROBrJRGE0X,55.0,83.0
-37,The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",Lola,0UAJH0k4k3slcE83a9UGCe,0.474,0.917,9,-4.19,1,0.0395,0.231,0.201,0.902,152.113,241040,4,1SQRv42e4PjEYfPhS0Tk9E,72.0,70.0
-38,The Beatles,Let It Be (Remastered),Across The Universe - Remastered 2009,4dkoqJrP0L8FXftrMZongF,0.257,0.412,1,-11.788,1,0.0287,8.68e-05,0.0702,0.858,152.126,228133,4,3WrFJ7ztbogyGnTHbHJFl2,69.0,88.0
-39,Ryan Scott,A Freak Grows in Brooklyn,Real Thing,4qHgs5N2YnYPTXkqvSFXPZ,0.761,0.54,1,-6.14,1,0.102,0.208,0.116,0.706,131.872,282982,4,5XhU9rfYBQBDGxujJiB3LJ,28.0,39.0
-40,David Bowie,Diamond Dogs (2016 Remaster),Rebel Rebel - 2016 Remaster,2EC9IJj7g0mN1Q5VrZkiYY,0.635,0.686,9,-15.648,1,0.053,0.0176,0.282,0.464,125.988,274747,4,0oSGxfWSnnOXhD2fKuz2Gy,75.0,81.0
-41,Supertramp,Breakfast In America (Deluxe Edition),Goodbye Stranger - 2010 Remastered,67oyFnjJnn78fZP9KjeZx0,0.42,0.668,1,-7.35,1,0.0517,0.016,0.0585,0.338,125.391,350573,4,3JsMj0DEzyWc0VDlHuy9Bx,68.0,72.0
-42,T. Rex,Strange Orchestra Volume One,"Highways (Misty Mist) - Version 3, Early Studio Demos",0bGGOtRdMvQ6JOcopbqnHH,0.62,0.221,8,-10.762,1,0.0415,0,0.257,0.304,82.196,124247,4,3dBVyJ7JuOMt4GE9607Qin,37.0,65.0
-43,Queen,A Night At The Opera (Deluxe Remastered Version),Lazing On A Sunday Afternoon - Remastered 2011,12TZzfqJyY3UvtZ3lq1WmY,0.643,0.579,3,-9.165,1,0.0555,0.00107,0.109,0.712,131.901,67400,4,1dfeR4HaWDbWqFHLkxsg1d,45.0,88.0
-44,Captain Beefheart & His Magic Band,Clear Spot,Too Much Time,1TzUVJVzOPkX5i8BpoAiu4,0.844,0.39,9,-13.774,1,0.0634,0,0.107,0.963,110.834,170400,4,2k8kY9zHUWxuTtwV4UutHw,45.0,50.0
-45,The Beatles,Revolver (Remastered),For No One - Remastered 2009,1kDkaFlmkdEZiVUogaP9OZ,0.483,0.351,1,-10.487,0,0.0278,0,0.115,0.713,81.208,119813,4,3WrFJ7ztbogyGnTHbHJFl2,64.0,88.0
-46,Phish,Farmhouse,Heavy Things,12gHzpb83V2Eh6D2sKUPlU,0.571,0.875,0,-6.795,1,0.0332,0.00029,0.303,0.773,116.141,255800,4,5wbIWUzTPuTxTyG6ouQKqz,48.0,59.0
-47,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),Starman - 2012 Remaster,0pQskrTITgmCMyr85tb9qq,0.486,0.449,5,-10.298,1,0.0267,2.23e-06,0.54,0.549,100.456,254293,4,0oSGxfWSnnOXhD2fKuz2Gy,77.0,81.0
-48,The Rolling Stones,Goats Head Soup (Remastered 2009),Star Star - Remastered,6NtmoPmjG21kb1JfoiMMXJ,0.565,0.95,0,-4.285,1,0.103,0.448,0.359,0.751,142.27,263667,4,22bE4uQ6baNwSHPVcDxLCe,42.0,82.0
-49,Ted Hawkins,Watch Your Step,Sorry You're Sick,0bQfDEGIkkjrrbGkK4JLmF,0.716,0.251,8,-14.397,0,0.0791,0.000193,0.136,0.771,141.367,130933,4,1clAnI6PODaoVlbzlUPOfU,53.0,47.0
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artist_id,track_pop,artist_pop
+David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),Suffragette City - 2012 Remaster,3YZa4IzxK2UtEKTvdTgsi8,0.455,0.883,2,-9.159,1,0.0384,0,0.277,0.782,142.638,208413,4,0oSGxfWSnnOXhD2fKuz2Gy,63.0,81.0
+Queen,A Day At The Races (Deluxe Remastered Version),Good Old-Fashioned Lover Boy - Remastered 2011,1mnQiO568zXIrUncttTZGp,0.545,0.454,3,-6.706,1,0.0302,0,0.0541,0.393,96.784,173173,4,1dfeR4HaWDbWqFHLkxsg1d,69.0,88.0
+The Beatles,Magical Mystery Tour (Remastered),Strawberry Fields Forever - Remastered 2009,3Am0IbOxmvlSXro7N5iSfZ,0.39,0.502,10,-12.277,1,0.178,0.000138,0.0713,0.289,97.871,247320,4,3WrFJ7ztbogyGnTHbHJFl2,72.0,88.0
+The Nerves,One Way Ticket,Many Roads to Follow (Demo),1LpSFi4bgbOohDRxrMoeNU,0.552,0.369,4,-10.582,1,0.0301,0.00624,0.106,0.601,127.188,134200,1,298i00ena8XMnm9O3qlHtU,40.0,40.0
+Billy Joel,52nd Street,My Life,4ZoBC5MhSEzuknIgAkBaoT,0.741,0.647,2,-12.878,1,0.0427,0.00139,0.0555,0.804,131.097,284000,4,6zFYqv1mOsgBRQbae3JJ9e,73.0,80.0
+Ryan Scott,A Freak Grows in Brooklyn,Everything's Gonna Be Fine,2MOvdhC2Ve2kgiL1oG0i7e,0.669,0.613,10,-6.042,0,0.0936,0.5,0.0795,0.742,82.879,196592,4,5XhU9rfYBQBDGxujJiB3LJ,41.0,39.0
+Jellyfish,Spilt Milk,New Mistake,7a7y3aPXd5STF9BvCG6slI,0.653,0.606,11,-9.577,1,0.0292,1.52e-05,0.0564,0.882,121.641,242827,3,10flBVEy5MiUXOJWTaFsyL,45.0,38.0
+Kim Jung Mi,Now,Blow Spring Breeze,0NIh5j1CfLpDHvoOCaUnaU,0.66,0.304,0,-15.532,1,0.044,0.573,0.108,0.961,122.429,115040,4,0yxIUq0WFyaTmYyleG4Uca,39.0,35.0
+Neal Francis,In Plain Sight,Problems,4WBs7J0btTQLsER9ouXW2I,0.687,0.818,10,-6.831,0,0.0337,0.000508,0.12,0.964,111.04,238813,4,2e5y5Gs5lgnDmiY4TKLsq3,41.0,47.0
+Jonathan Richman,"I, Jonathan",That Summer Feeling,5oOC6EBnSQ3PfRAQyfjAla,0.444,0.105,5,-17.271,1,0.0696,3e-06,0.121,0.453,202.689,366600,4,6hkch2KhRl0tywpeVK5xR5,47.0,51.0
+Colin Blunstone,One Year,She Loves the Way They Love Her,7MEGee2yq9oWZKpxjYlSyW,0.432,0.82,5,-7.179,1,0.0456,0,0.0932,0.653,131.787,169693,4,27DCwiPx5ocQsf4K43SlIL,35.0,37.0
+Alan Hull,Pipedream,Breakfast - 2005 Digital Remaster,1hOoIh4ZFa6ixfKVXZOfCo,0.379,0.332,7,-13.859,1,0.0333,0,0.331,0.399,85.034,223453,4,1DtvquLh9kUOQHnOwuiHdv,32.0,32.0
+Jim Ford,Harlan County,Love On My Brain,64MDCxBEInYxmt4600EwJt,0.441,0.704,9,-7.091,1,0.0451,0.0838,0.043,0.685,149.444,194533,4,24caHjJclAtCI8Ld7Az8l1,42.0,40.0
+John Cale,Paris 1919,Paris 1919,5Zpy2HR2vYLjlTQVd81DLH,0.742,0.321,0,-13.728,1,0.0315,0.0432,0.11,0.613,107.349,246800,4,5MWBg16f5UYiaSlyVhzlIW,54.0,51.0
+The Nerves,One Way Ticket,Hanging on the Telephone,5LkI19KFtfJUjxOxvZavUf,0.58,0.914,5,-5.985,0,0.0455,2.06e-06,0.23,0.828,145.98,124893,4,298i00ena8XMnm9O3qlHtU,53.0,40.0
+Tim Hill,Payador,"Paris, Texas",67C5gv4ouZqQ1hF3QbbD43,0.667,0.394,9,-6.494,1,0.0314,0.000221,0.11,0.443,114.677,309708,4,4LLOu8tVD2cTM5Lemff1bG,38.0,33.0
+T. Rex,Electric Warrior [Expanded & Remastered],Mambo Sun - 2003 Remaster,79dQwpXjJ4t3pILysdqFyB,0.518,0.611,11,-10.667,1,0.101,0.827,0.209,0.731,181.034,220960,4,3dBVyJ7JuOMt4GE9607Qin,52.0,65.0
+Amanaz,Africa,Khala My Friend,5xevas4P14kVmD4St0X3yy,0.588,0.407,1,-14.169,1,0.0362,0.427,0.12,0.362,87.565,203716,4,7dZiPXbSCTAgUpmpgNoLjt,59.0,49.0
+Paul McCartney,Ram (Archive Collection),Ram On - Remastered 2012,6qZMXw0fs9qI8b4Nl9ntEQ,0.612,0.407,5,-12.197,0,0.0484,0.79,0.286,0.574,128.287,149587,4,4STHEaNw4mPZ2tzheohgXB,52.0,74.0
+Sir Woman,Blame It on the Water,Blame It on the Water,7xXIQiedfgExguYLFomda7,0.693,0.713,11,-6.508,0,0.0392,0.02,0.0802,0.848,101.034,203133,4,3H03S3ZtyYLdzsk6EYndUL,38.0,47.0
+The Modern Lovers,The Modern Lovers,Roadrunner,5E5HYgxGMp3BPakHGfKfIB,0.462,0.84,2,-6.666,1,0.0346,6.47e-05,0.0893,0.804,75.54,246440,4,2eRdPaLHWAL4d1WcNUO9Vz,59.0,50.0
+Mott The Hoople,All The Young Dudes (Expanded Edition),All the Young Dudes,0WNGPpmWqzPnk0psUhJ3SX,0.429,0.668,4,-7.539,0,0.044,0,0.538,0.398,77.737,211067,4,6ysQi6NI88X627t2srsWz6,66.0,53.0
+Joe Walsh,There Goes the Neighborhood,A Life of Illusion,19P4fwkPhE6yVAXApFWDoF,0.692,0.613,2,-10.735,1,0.0282,0.0652,0.094,0.93,120.901,210533,4,5bDxAyJiTYBat1YnFJhvEK,64.0,62.0
+T. Rex,Electric Warrior [Expanded & Remastered],Monolith - 2003 Remaster,7jLYNCaTmEe1OnhYhGtfeC,0.5,0.557,0,-10.54,1,0.0526,5.34e-05,0.0826,0.48,81.764,229560,4,3dBVyJ7JuOMt4GE9607Qin,43.0,65.0
+Cut Worms,Song of the Highest Tower,Song of the Highest Tower,3EC8ap9G5z7tWIBH4e4GNl,0.571,0.444,5,-6.405,1,0.0242,6.52e-06,0.143,0.38,107.043,413578,4,2upjmNmngAXZcra9dQRR2l,49.0,46.0
+Robert Lester Folsom,Ode to a Rainy Day: Archives 1972-1975,Heaven on the Beach With You,1aYDZpNwbkWa2ci01qbReB,0.534,0.532,11,-10.281,1,0.0339,0.953,0.0834,0.835,118.359,122859,4,5uQyXHg4ph7gNlnZHxt9kX,43.0,43.0
+The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",Strangers,7obb4s6A7gf0Lc2AGxodMy,0.47,0.397,0,-9.337,1,0.0345,1.35e-05,0.109,0.487,128.69,198373,4,1SQRv42e4PjEYfPhS0Tk9E,60.0,70.0
+Grateful Dead,Shakedown Street,Shakedown Street - 2013 Remaster,1lNRVjK8MukRZpeurYssIx,0.809,0.575,0,-12.176,1,0.0298,1.65e-06,0.0799,0.85,109.447,300209,4,4TMHGUX5WI7OOm53PqSDAT,59.0,70.0
+The Rolling Stones,She's A Rainbow / Dandelion / We Love You,She's A Rainbow,6KOtheMY0KN4s9TrQHr9It,0.464,0.824,10,-7.359,1,0.0374,0.018,0.33,0.539,109.298,253720,4,22bE4uQ6baNwSHPVcDxLCe,68.0,82.0
+Ryan Scott,A Freak Grows in Brooklyn,Real Thing,4qHgs5N2YnYPTXkqvSFXPZ,0.761,0.54,1,-6.14,1,0.102,0.208,0.116,0.706,131.872,282982,4,5XhU9rfYBQBDGxujJiB3LJ,28.0,39.0
+New York Dolls,New York Dolls,Trash,2OQS3xvoKKSayJMJT8dVuZ,0.478,0.698,7,-9.255,1,0.0321,0,0.191,0.85,112.99,188307,4,0WhGV9lzljq2QKJ8ipw6jx,50.0,47.0
+T. Rex,Electric Warrior [Expanded & Remastered],Cosmic Dancer - 2003 Remaster,5N4vVbNotNwWGG8KcCdstR,0.37,0.694,0,-11.713,1,0.0595,0.00363,0.182,0.65,155.072,270000,4,3dBVyJ7JuOMt4GE9607Qin,49.0,65.0
+Fleetwood Mac,Mystery to Me,Hypnotized,1cHCG42MxckrXNFqyF8Uhr,0.437,0.54,0,-15.797,0,0.0469,0.00478,0.0815,0.966,162.236,289200,3,08GQAI4eElDnROBrJRGE0X,55.0,83.0
+The Beatles,The Beatles (Remastered),Happiness Is A Warm Gun - Remastered 2009,71LsKf3xISiOlY1mj7FFPP,0.431,0.54,9,-9.6,0,0.0589,1.34e-06,0.169,0.44,139.288,164547,4,3WrFJ7ztbogyGnTHbHJFl2,60.0,88.0
+Grateful Dead,Go to Heaven,Althea - 2013 Remaster,7M7AwtGvWdMYudqx5Iuh1m,0.783,0.284,9,-14.307,1,0.0365,0.282,0.0767,0.584,82.676,412596,4,4TMHGUX5WI7OOm53PqSDAT,63.0,70.0
+The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",Lola,0UAJH0k4k3slcE83a9UGCe,0.474,0.917,9,-4.19,1,0.0395,0.231,0.201,0.902,152.113,241040,4,1SQRv42e4PjEYfPhS0Tk9E,72.0,70.0
+Supertramp,Breakfast In America (Deluxe Edition),Goodbye Stranger - 2010 Remastered,67oyFnjJnn78fZP9KjeZx0,0.42,0.668,1,-7.35,1,0.0517,0.016,0.0585,0.338,125.391,350573,4,3JsMj0DEzyWc0VDlHuy9Bx,68.0,72.0
+David Bowie,The Man Who Sold the World (2015 Remaster),The Man Who Sold the World - 2015 Remaster,4mWahKerLaVddUjb8d1Q4Q,0.474,0.387,2,-14.416,0,0.0305,0.00557,0.143,0.545,118.486,241347,4,0oSGxfWSnnOXhD2fKuz2Gy,67.0,81.0
+T. Rex,Electric Warrior [Expanded & Remastered],Jeepster - 2003 Remaster,0v1wsyUb3UplLdgcdTbUEd,0.565,0.761,11,-9.88,0,0.0486,0.00315,0.0442,0.925,94.893,252440,4,3dBVyJ7JuOMt4GE9607Qin,49.0,65.0
+Captain Beefheart & His Magic Band,Clear Spot,Too Much Time,1TzUVJVzOPkX5i8BpoAiu4,0.844,0.39,9,-13.774,1,0.0634,0,0.107,0.963,110.834,170400,4,2k8kY9zHUWxuTtwV4UutHw,45.0,50.0
+The Beatles,Let It Be (Remastered),Across The Universe - Remastered 2009,4dkoqJrP0L8FXftrMZongF,0.257,0.412,1,-11.788,1,0.0287,8.68e-05,0.0702,0.858,152.126,228133,4,3WrFJ7ztbogyGnTHbHJFl2,69.0,88.0
+Phish,Farmhouse,Heavy Things,12gHzpb83V2Eh6D2sKUPlU,0.571,0.875,0,-6.795,1,0.0332,0.00029,0.303,0.773,116.141,255800,4,5wbIWUzTPuTxTyG6ouQKqz,48.0,59.0
+Tom Petty and the Heartbreakers,Greatest Hits,Mary Jane's Last Dance,3dmqIB2Qxe2XZobw9gXxJ6,0.464,0.655,7,-9.058,0,0.0608,1.34e-06,0.328,0.531,169.515,273600,4,4tX2TplrkIP4v05BNC903e,75.0,71.0
+The Knack,Get The Knack,Maybe Tonight,2UFtcdHQnzDkLJ9a8GIUkU,0.468,0.331,2,-12.49,1,0.0363,0,0.091,0.677,168.805,243093,4,0Nn9YwJzcaeuU1jJL06e3r,24.0,61.0
+Ted Hawkins,Watch Your Step,Sorry You're Sick,0bQfDEGIkkjrrbGkK4JLmF,0.716,0.251,8,-14.397,0,0.0791,0.000193,0.136,0.771,141.367,130933,4,1clAnI6PODaoVlbzlUPOfU,53.0,47.0
+David Bowie,Diamond Dogs (2016 Remaster),Rebel Rebel - 2016 Remaster,2EC9IJj7g0mN1Q5VrZkiYY,0.635,0.686,9,-15.648,1,0.053,0.0176,0.282,0.464,125.988,274747,4,0oSGxfWSnnOXhD2fKuz2Gy,75.0,81.0
+T. Rex,Strange Orchestra Volume One,"Highways (Misty Mist) - Version 3, Early Studio Demos",0bGGOtRdMvQ6JOcopbqnHH,0.62,0.221,8,-10.762,1,0.0415,0,0.257,0.304,82.196,124247,4,3dBVyJ7JuOMt4GE9607Qin,37.0,65.0
+The Beatles,Revolver (Remastered),For No One - Remastered 2009,1kDkaFlmkdEZiVUogaP9OZ,0.483,0.351,1,-10.487,0,0.0278,0,0.115,0.713,81.208,119813,4,3WrFJ7ztbogyGnTHbHJFl2,64.0,88.0
+The Byrds,Turn! Turn! Turn!,Turn! Turn! Turn! (To Everything There Is a Season),5qBqBdfTEIWJwAS0Jm2F5R,0.451,0.818,2,-8.124,1,0.0439,2.92e-05,0.052,0.755,124.532,229360,4,1PCZpxHJz7WAMF8EEq8bfc,68.0,62.0
+Brian Eno,Wrong Way Up [Expanded Edition],Lay My Love,70MtQkoCPrL5LgI3ky6Jtw,0.67,0.743,5,-9.096,1,0.0383,0.0119,0.073,0.968,102.582,284133,4,7MSUfLeTdDEoZiJPDSBXgi,42.0,63.0

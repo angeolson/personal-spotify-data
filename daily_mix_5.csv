@@ -1,51 +1,51 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artist_id,track_pop,artist_pop
-0,The Clash,Sandinista! (Remastered),Charlie Don't Surf - Remastered,5T4j3Uv33fQO7tsR2lMl4y,0.51,0.595,2,-11.023,1,0.0383,0.0186,0.338,0.632,131.762,294093,4,3RGLhK1IP9jnYFH4BRFJBS,55.0,73.0
-1,The Cramps,Off The Bone,Lonesome Town,219MvPH5qmEcC8992LzVEE,0.285,0.5,4,-15.844,0,0.191,0.372,0.391,0.388,161.982,183200,5,4lYtGx5NZQJHsMyhHc5iz3,33.0,54.0
-2,elricfd,cable hogue soundtrack,But I Am Different,45qvEtRBZIcEpHsPauZnkP,0.359,0.64,3,-4.911,1,0.0296,0.812,0.0865,0.511,71.042,372947,4,2SapY6v9gD93Lwesf4varA,37.0,32.0
-3,Surface To Air Missive,A V,Time Being,4CmaFXqjc4tas5WFrSc6om,0.43,0.859,2,-6.04,1,0.0504,7.58e-05,0.0853,0.709,168.964,233984,4,1jABwUGVW3WcyzPF7aQ5FR,43.0,30.0
-4,Smushie,Complete Annihilation!,Complete Annihilation!,252brHktw7kGAdCCahQpW8,0.687,0.578,4,-10.483,1,0.0336,0.016,0.148,0.789,90.013,301265,4,0XGgpBKj7u2MMX2kqUVLaH,47.0,32.0
-5,The Replacements,Tim (Expanded),Swingin Party - 2008 Remaster,14g6foD6sxO1qgkDKuPgWv,0.647,0.69,6,-8.657,0,0.0454,0,0.147,0.682,117.514,233573,4,4WPY0N74T3KUja57xMQTZ3,60.0,56.0
-6,The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition,Who Loves the Sun - 2015 Remaster,1rJi8cf8OWsrX4CqBnMSoQ,0.441,0.568,4,-8.833,1,0.0298,0,0.368,0.721,130.131,166213,4,1nJvji2KIlWSseXRSlNYsC,57.0,67.0
-7,Pixies,Doolittle,Hey,0p5eZCY0R7uNCZS1YDtIYI,0.59,0.372,7,-12.37,1,0.0318,0.00929,0.316,0.306,99.887,210907,4,6zvul52xwTWzilBZl6BUbT,71.0,73.0
-8,Karate,Some Boots,Original Spies,451AZfnRTHCr8tP2GDynlE,0.599,0.608,8,-5.989,1,0.0316,1.15e-05,0.0768,0.648,117.662,398907,4,6U26vGPwnCQcNDr9Dpj0Y0,39.0,38.0
-9,King Missile,Mystical Shit/Fluting on the Hump,Sensitive Artist,54UPoHNQuqAqOQAZ2hl1il,0.458,0.557,5,-13.445,1,0.0375,0.105,0.496,0.893,121.715,158227,4,4ab0zJgTZPWz00v2PrdJI4,44.0,38.0
-10,Jerry Paper,Kno Me,Kno Me,6XaMOKR9NHzIFIgNQrpYvU,0.617,0.617,8,-7.008,1,0.0296,0.769,0.291,0.734,134.93,216537,4,2gzxBoK71ohENPlxlshHV7,43.0,46.0
-11,5ive Style,5ive Style,Deep Marsh,1589JkTKSHcTlsFBkO41gI,0.644,0.567,11,-6.563,1,0.0343,0.871,0.164,0.693,74.548,196107,4,6hQXeK9vIfU31u72NdFZ7Q,41.0,28.0
-12,The Replacements,Let It Be (Expanded),Androgynous,3fnL2JDgy4QD04araOl0eY,0.476,0.361,11,-9.312,1,0.0287,0,0.0817,0.389,106.484,190853,4,4WPY0N74T3KUja57xMQTZ3,54.0,56.0
-13,The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition,Rock and Roll - Full Length Version; 2015 Remaster,1o6DclZHw0HomxXEQR1ijX,0.494,0.735,5,-8.347,1,0.0345,3.14e-06,0.544,0.742,132.526,283000,4,1nJvji2KIlWSseXRSlNYsC,60.0,67.0
-14,Pixies,Human Crime,Human Crime,1a1Mk18Fh0eba27uRe9fh4,0.433,0.88,9,-3.566,1,0.0459,0.118,0.124,0.39,148.965,187956,4,6zvul52xwTWzilBZl6BUbT,61.0,73.0
-15,Anthony Moore,Out,Stitch in Time,1IrrcAS7VL8gUcOF0KHBfU,0.454,0.699,7,-8.488,1,0.0299,2.54e-05,0.415,0.289,146.597,188027,3,4uJt75N8u4RRQQ6hKYYIaS,40.0,27.0
-16,Jonathan Richman & The Modern Lovers,Roadrunner: The Beserkley Collection,The Morning of Our Lives,2rneJaaVTvpEnq22TiCzE9,0.602,0.292,9,-15.337,1,0.0785,0.00146,0.714,0.315,104.192,326853,4,0NjdXlUziaK1qv3kgZV4Jy,45.0,43.0
-17,Balkans,Balkans,Flowers Everywhere,14TC9zbh5C4K6ey8J2ZCdS,0,0.858,3,-5.892,1,0,0.000534,0.232,0,0,246987,0,6ozbYaDYh9AFYciPvk6iBO,38.0,31.0
-18,Television,Adventure,Carried Away - 2003 Remaster,4t87dWb7q5e7TtWMFeV0Z8,0.616,0.367,2,-11.135,1,0.0323,0.177,0.246,0.366,116.526,312253,4,0S7Zur2g8YhqlzqtlYStli,36.0,49.0
-19,Karate,The Bed Is In The Ocean,There Are Ghosts,6mBhzvszzmVcwG2lCOuuT4,0.556,0.369,9,-10.797,0,0.0346,0.028,0.355,0.238,115.076,219933,4,6U26vGPwnCQcNDr9Dpj0Y0,40.0,38.0
-20,The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition,Oh! Sweet Nuthin' - 2015 Remaster,0i19MAZbyn8uTir7FprXId,0.399,0.467,5,-11.763,1,0.0284,0.0186,0.124,0.525,75.601,445187,4,1nJvji2KIlWSseXRSlNYsC,64.0,67.0
-21,Pixies,Doolittle,Here Comes Your Man,4IvZLDtwBHmBmwgDIUbuwa,0.669,0.795,2,-10.865,1,0.0285,0.0781,0.401,0.882,124.594,201187,4,6zvul52xwTWzilBZl6BUbT,71.0,73.0
-22,The Clash,Combat Rock (Remastered),Straight to Hell - Remastered,2ax1vei61BzRGsEn6ckEdL,0.802,0.596,7,-11.663,1,0.06,1.17e-05,0.0695,0.702,90.275,330507,4,3RGLhK1IP9jnYFH4BRFJBS,58.0,73.0
-23,The Replacements,Pleased to Meet Me (Expanded),Nightclub Jitters - 2008 Remaster,0NYs3fResVqrOVUEPd8Q4k,0.677,0.277,0,-14.324,1,0.0421,1.99e-05,0.111,0.326,114.534,166023,4,4WPY0N74T3KUja57xMQTZ3,37.0,56.0
-24,Silver Jews,The Natural Bridge,The Right to Remain Silent,3jWYXvTSGEZhEaJEZYnG42,0.481,0.351,9,-15.11,0,0.0399,0.902,0.114,0.608,174.534,156600,4,4ePunOqQbOYoQwd1298g3Z,42.0,48.0
-25,The Strokes,Comedown Machine,"Call It Fate, Call It Karma",3Y4rUyw7XBCK6hGHCOt6rp,0.544,0.241,4,-14.779,0,0.03,0.774,0.101,0.359,109.437,204773,4,0epOFNiUfyON9EYx7Tpr6V,73.0,80.0
-26,Talking Heads,Speaking in Tongues (Deluxe Version),This Must Be the Place (Naive Melody) - 2005 Remaster,6aBUnkXuCEQQHAlTokv9or,0.942,0.641,7,-10.15,1,0.0333,0.179,0.028,0.966,114.443,296147,4,2x9SpqnPi8rlE9pjHBwmSC,72.0,71.0
-27,The Velvet Underground,The Velvet Underground (45th Anniversary),Pale Blue Eyes,11VwZwNF29HrqwalYUMitb,0.637,0.107,5,-18.759,1,0.0349,0.00146,0.103,0.296,82.879,339533,4,1nJvji2KIlWSseXRSlNYsC,67.0,67.0
-28,Pixies,Complete B Sides,Wave of Mutilation - UK Surf,6DdqhtrLTNnOePpOm3OH7S,0.642,0.355,5,-14.196,1,0.0329,3.44e-05,0.0865,0.725,180.26,180133,4,6zvul52xwTWzilBZl6BUbT,59.0,73.0
-29,Sonic Youth,Rather Ripped,Incinerate,0lDoG5fQ9cmpvpenwR7Jln,0.446,0.866,8,-8.016,1,0.0342,0.543,0.137,0.455,152.172,295813,4,5UqTO8smerMvxHYA5xsXb6,61.0,64.0
-30,The Clash,London Calling (Remastered),Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,0.762,0.722,2,-8.712,1,0.0428,0.000368,0.132,0.966,122.769,194667,4,3RGLhK1IP9jnYFH4BRFJBS,66.0,73.0
-31,Television,Marquee Moon,Venus,3x0iCzjgf0v9lnwvAhU9P2,0.55,0.631,0,-11.493,1,0.0385,0.18,0.0503,0.908,114.553,229027,4,0S7Zur2g8YhqlzqtlYStli,46.0,49.0
-32,Minutemen,Double Nickels on the Dime,History Lesson Part 2,45fq6kIQtooot7WVRsXAum,0.683,0.241,0,-16.192,1,0.0475,0.522,0.085,0.727,121.213,132133,4,0z6zRFzl5njXWLVAisXQBz,43.0,49.0
-33,The Replacements,Pleased to Meet Me (Expanded),Alex Chilton - 2008 Remaster,2g9EvzLR2sYscJQubwKGqu,0.443,0.924,4,-7.384,1,0.0476,3.73e-05,0.323,0.793,165.64,193980,4,4WPY0N74T3KUja57xMQTZ3,53.0,56.0
-34,The Velvet Underground,The Velvet Underground (45th Anniversary),After Hours,6cA1usDL8nTHeSgFewQat3,0.608,0.152,7,-20.989,0,0.172,0,0.182,0.472,120.834,127453,4,1nJvji2KIlWSseXRSlNYsC,60.0,67.0
-35,Pixies,Surfer Rosa,Where Is My Mind? - Remastered,7wCmS9TTVUcIhRalDYFgPy,0.519,0.441,4,-14.178,1,0.0353,0.000453,0.076,0.25,81.334,234973,4,6zvul52xwTWzilBZl6BUbT,79.0,73.0
-36,Various Artists,If I Were A Carpenter,Superstar,5Ext9ObPEi7wIcv5AiQWJy,0.317,0.498,5,-9.137,0,0.0315,0.306,0.121,0.141,84.563,246000,4,0LyfQWJT6nXafLPZqxe9Of,64.0,0.0
-37,The Clash,Combat Rock (Remastered),Rock the Casbah - Remastered,56KqaFSGTb7ifpt16t5Y1N,0.797,0.872,9,-6.727,0,0.0575,0,0.284,0.866,129.885,222427,4,3RGLhK1IP9jnYFH4BRFJBS,73.0,73.0
-38,Television,Marquee Moon,See No Evil,2OaXmeYBJ0hcTmS3kxjJOx,0.398,0.782,7,-7.944,1,0.0322,0.0684,0.0912,0.806,144.965,232960,4,0S7Zur2g8YhqlzqtlYStli,49.0,49.0
-39,Jonathan Richman & The Modern Lovers,Jonathan Sings!,That Summer Feeling,0yULzvtl2NIahJiej2fVPi,0.638,0.279,9,-11.536,1,0.078,0,0.116,0.62,110.076,236733,4,0NjdXlUziaK1qv3kgZV4Jy,40.0,43.0
-40,The Cramps,Off The Bone,Garbageman,65CkxnwiaLvC6FbVrRNAqT,0.651,0.945,0,-9.611,1,0.0561,0.596,0.345,0.807,139.044,211067,4,4lYtGx5NZQJHsMyhHc5iz3,39.0,54.0
-41,The Velvet Underground,White Light / White Heat,Stephanie Says,7EMLBaRaM5pLPSoX1vWfar,0.553,0.282,0,-15.007,1,0.0325,4.99e-05,0.109,0.226,112.871,169560,4,1nJvji2KIlWSseXRSlNYsC,21.0,67.0
-42,Talking Heads,Remain in Light (Deluxe Version),Once in a Lifetime - 2005 Remaster,38Ngied9rBORlAbLYNCl4k,0.644,0.919,2,-6.289,1,0.0561,0.134,0.622,0.871,117.459,259907,4,2x9SpqnPi8rlE9pjHBwmSC,70.0,71.0
-43,Sonic Youth,In/Out/In,Basement Contender,49DGW1MChfFmX10S2AYB3w,0.604,0.528,7,-11.293,1,0.0297,0.802,0.274,0.285,120.971,574720,4,5UqTO8smerMvxHYA5xsXb6,48.0,64.0
-44,Pixies,Head Carrier,All I Think About Now,5kMiMqkz9T8fwvWhAFgGNG,0.253,0.575,8,-7.833,1,0.0311,0.00193,0.141,0.214,185.717,187320,4,6zvul52xwTWzilBZl6BUbT,67.0,73.0
-45,Television,Marquee Moon,Friction,7wfvl1kiZJNvhx6HNTyefX,0.576,0.781,4,-8.6,1,0.0479,0.194,0.468,0.723,121.197,283627,4,0S7Zur2g8YhqlzqtlYStli,42.0,49.0
-46,The Smiths,Hatful of Hollow,How Soon Is Now? - 2011 Remaster,1YrnDTqvcnUKxAIeXyaEmU,0.398,0.93,11,-6.76,1,0.0615,0.121,0.0874,0.725,190.818,408173,4,3yY2gUcIsjMr8hjo51PoJ8,72.0,76.0
-47,The Cramps,Off The Bone,Human Fly,0ElRzK07sc9eszyk1ea9Ab,0.531,0.849,9,-10.754,1,0.111,0.00763,0.186,0.305,119.516,136427,4,4lYtGx5NZQJHsMyhHc5iz3,59.0,54.0
-48,The Velvet Underground,The Velvet Underground & Nico 45th Anniversary,Sunday Morning,11607FzqoipskTsXrwEHnJ,0.506,0.442,5,-13.268,0,0.0276,0.00239,0.0846,0.532,105.826,175893,4,1nJvji2KIlWSseXRSlNYsC,66.0,67.0
-49,The Replacements,Don't Tell a Soul (Expanded),Portland - 2008 Remaster,5Hbfkjjq5PQtDPzLaUb9Ql,0.587,0.651,9,-10.68,1,0.0368,0.00475,0.297,0.811,132.556,268800,4,4WPY0N74T3KUja57xMQTZ3,43.0,56.0
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artist_id,track_pop,artist_pop
+The Clash,Sandinista! (Remastered),Charlie Don't Surf - Remastered,5T4j3Uv33fQO7tsR2lMl4y,0.51,0.595,2,-11.023,1,0.0383,0.0186,0.338,0.632,131.762,294093,4,3RGLhK1IP9jnYFH4BRFJBS,55.0,73.0
+The Cramps,Off The Bone,Lonesome Town,219MvPH5qmEcC8992LzVEE,0.285,0.5,4,-15.844,0,0.191,0.372,0.391,0.388,161.982,183200,5,4lYtGx5NZQJHsMyhHc5iz3,33.0,54.0
+elricfd,cable hogue soundtrack,But I Am Different,45qvEtRBZIcEpHsPauZnkP,0.359,0.64,3,-4.911,1,0.0296,0.812,0.0865,0.511,71.042,372947,4,2SapY6v9gD93Lwesf4varA,37.0,32.0
+Surface To Air Missive,A V,Time Being,4CmaFXqjc4tas5WFrSc6om,0.43,0.859,2,-6.04,1,0.0504,7.58e-05,0.0853,0.709,168.964,233984,4,1jABwUGVW3WcyzPF7aQ5FR,43.0,30.0
+Smushie,Complete Annihilation!,Complete Annihilation!,252brHktw7kGAdCCahQpW8,0.687,0.578,4,-10.483,1,0.0336,0.016,0.148,0.789,90.013,301265,4,0XGgpBKj7u2MMX2kqUVLaH,47.0,32.0
+Karate,Some Boots,Original Spies,451AZfnRTHCr8tP2GDynlE,0.599,0.608,8,-5.989,1,0.0316,1.15e-05,0.0768,0.648,117.662,398907,4,6U26vGPwnCQcNDr9Dpj0Y0,39.0,38.0
+King Missile,Mystical Shit/Fluting on the Hump,Sensitive Artist,54UPoHNQuqAqOQAZ2hl1il,0.458,0.557,5,-13.445,1,0.0375,0.105,0.496,0.893,121.715,158227,4,4ab0zJgTZPWz00v2PrdJI4,44.0,38.0
+Jerry Paper,Kno Me,Kno Me,6XaMOKR9NHzIFIgNQrpYvU,0.617,0.617,8,-7.008,1,0.0296,0.769,0.291,0.734,134.93,216537,4,2gzxBoK71ohENPlxlshHV7,43.0,46.0
+Balkans,Balkans,Flowers Everywhere,14TC9zbh5C4K6ey8J2ZCdS,0,0.858,3,-5.892,1,0,0.000534,0.232,0,0,246987,0,6ozbYaDYh9AFYciPvk6iBO,38.0,31.0
+5ive Style,5ive Style,Deep Marsh,1589JkTKSHcTlsFBkO41gI,0.644,0.567,11,-6.563,1,0.0343,0.871,0.164,0.693,74.548,196107,4,6hQXeK9vIfU31u72NdFZ7Q,41.0,28.0
+Anthony Moore,Out,Stitch in Time,1IrrcAS7VL8gUcOF0KHBfU,0.454,0.699,7,-8.488,1,0.0299,2.54e-05,0.415,0.289,146.597,188027,3,4uJt75N8u4RRQQ6hKYYIaS,40.0,27.0
+Jonathan Richman & The Modern Lovers,Roadrunner: The Beserkley Collection,The Morning of Our Lives,2rneJaaVTvpEnq22TiCzE9,0.602,0.292,9,-15.337,1,0.0785,0.00146,0.714,0.315,104.192,326853,4,0NjdXlUziaK1qv3kgZV4Jy,45.0,43.0
+The Replacements,Tim (Expanded),Swingin Party - 2008 Remaster,14g6foD6sxO1qgkDKuPgWv,0.647,0.69,6,-8.657,0,0.0454,0,0.147,0.682,117.514,233573,4,4WPY0N74T3KUja57xMQTZ3,60.0,56.0
+The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition,Who Loves the Sun - 2015 Remaster,1rJi8cf8OWsrX4CqBnMSoQ,0.441,0.568,4,-8.833,1,0.0298,0,0.368,0.721,130.131,166213,4,1nJvji2KIlWSseXRSlNYsC,57.0,67.0
+Karate,The Bed Is In The Ocean,There Are Ghosts,6mBhzvszzmVcwG2lCOuuT4,0.556,0.369,9,-10.797,0,0.0346,0.028,0.355,0.238,115.076,219933,4,6U26vGPwnCQcNDr9Dpj0Y0,40.0,38.0
+Pixies,Doolittle,Hey,0p5eZCY0R7uNCZS1YDtIYI,0.59,0.372,7,-12.37,1,0.0318,0.00929,0.316,0.306,99.887,210907,4,6zvul52xwTWzilBZl6BUbT,71.0,73.0
+The Strokes,Comedown Machine,"Call It Fate, Call It Karma",3Y4rUyw7XBCK6hGHCOt6rp,0.544,0.241,4,-14.779,0,0.03,0.774,0.101,0.359,109.437,204773,4,0epOFNiUfyON9EYx7Tpr6V,73.0,80.0
+Talking Heads,Speaking in Tongues (Deluxe Version),This Must Be the Place (Naive Melody) - 2005 Remaster,6aBUnkXuCEQQHAlTokv9or,0.942,0.641,7,-10.15,1,0.0333,0.179,0.028,0.966,114.443,296147,4,2x9SpqnPi8rlE9pjHBwmSC,72.0,71.0
+Television,Adventure,Carried Away - 2003 Remaster,4t87dWb7q5e7TtWMFeV0Z8,0.616,0.367,2,-11.135,1,0.0323,0.177,0.246,0.366,116.526,312253,4,0S7Zur2g8YhqlzqtlYStli,36.0,49.0
+Silver Jews,The Natural Bridge,The Right to Remain Silent,3jWYXvTSGEZhEaJEZYnG42,0.481,0.351,9,-15.11,0,0.0399,0.902,0.114,0.608,174.534,156600,4,4ePunOqQbOYoQwd1298g3Z,42.0,48.0
+The Replacements,Let It Be (Expanded),Androgynous,3fnL2JDgy4QD04araOl0eY,0.476,0.361,11,-9.312,1,0.0287,0,0.0817,0.389,106.484,190853,4,4WPY0N74T3KUja57xMQTZ3,54.0,56.0
+The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition,Rock and Roll - Full Length Version; 2015 Remaster,1o6DclZHw0HomxXEQR1ijX,0.494,0.735,5,-8.347,1,0.0345,3.14e-06,0.544,0.742,132.526,283000,4,1nJvji2KIlWSseXRSlNYsC,60.0,67.0
+Pixies,Doolittle,Here Comes Your Man,4IvZLDtwBHmBmwgDIUbuwa,0.669,0.795,2,-10.865,1,0.0285,0.0781,0.401,0.882,124.594,201187,4,6zvul52xwTWzilBZl6BUbT,71.0,73.0
+Various Artists,If I Were A Carpenter,Superstar,5Ext9ObPEi7wIcv5AiQWJy,0.317,0.498,5,-9.137,0,0.0315,0.306,0.121,0.141,84.563,246000,4,0LyfQWJT6nXafLPZqxe9Of,64.0,0.0
+Jonathan Richman & The Modern Lovers,Jonathan Sings!,That Summer Feeling,0yULzvtl2NIahJiej2fVPi,0.638,0.279,9,-11.536,1,0.078,0,0.116,0.62,110.076,236733,4,0NjdXlUziaK1qv3kgZV4Jy,40.0,43.0
+The Clash,Combat Rock (Remastered),Straight to Hell - Remastered,2ax1vei61BzRGsEn6ckEdL,0.802,0.596,7,-11.663,1,0.06,1.17e-05,0.0695,0.702,90.275,330507,4,3RGLhK1IP9jnYFH4BRFJBS,58.0,73.0
+Talking Heads,Remain in Light (Deluxe Version),Once in a Lifetime - 2005 Remaster,38Ngied9rBORlAbLYNCl4k,0.644,0.919,2,-6.289,1,0.0561,0.134,0.622,0.871,117.459,259907,4,2x9SpqnPi8rlE9pjHBwmSC,70.0,71.0
+The Replacements,Pleased to Meet Me (Expanded),Nightclub Jitters - 2008 Remaster,0NYs3fResVqrOVUEPd8Q4k,0.677,0.277,0,-14.324,1,0.0421,1.99e-05,0.111,0.326,114.534,166023,4,4WPY0N74T3KUja57xMQTZ3,37.0,56.0
+The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition,Oh! Sweet Nuthin' - 2015 Remaster,0i19MAZbyn8uTir7FprXId,0.399,0.467,5,-11.763,1,0.0284,0.0186,0.124,0.525,75.601,445187,4,1nJvji2KIlWSseXRSlNYsC,64.0,67.0
+Chris Spedding,Guitar Graffiti (Expanded Edition),Video Life,64bWAl2OJFilKBf8bl5rXx,0.532,0.675,4,-5.914,1,0.0311,0.000535,0.643,0.64,67.911,192960,4,306XaY1dO5UhXQOWSjKIwQ,43.0,32.0
+Pixies,Complete B Sides,Wave of Mutilation - UK Surf,6DdqhtrLTNnOePpOm3OH7S,0.642,0.355,5,-14.196,1,0.0329,3.44e-05,0.0865,0.725,180.26,180133,4,6zvul52xwTWzilBZl6BUbT,59.0,73.0
+Sonic Youth,In/Out/In,Basement Contender,49DGW1MChfFmX10S2AYB3w,0.604,0.528,7,-11.293,1,0.0297,0.802,0.274,0.285,120.971,574720,4,5UqTO8smerMvxHYA5xsXb6,48.0,64.0
+The Clash,London Calling (Remastered),Train in Vain (Stand by Me) - Remastered,6ITuEsxEy2qPhqMowdDAeI,0.762,0.722,2,-8.712,1,0.0428,0.000368,0.132,0.966,122.769,194667,4,3RGLhK1IP9jnYFH4BRFJBS,66.0,73.0
+The Smiths,Hatful of Hollow,How Soon Is Now? - 2011 Remaster,1YrnDTqvcnUKxAIeXyaEmU,0.398,0.93,11,-6.76,1,0.0615,0.121,0.0874,0.725,190.818,408173,4,3yY2gUcIsjMr8hjo51PoJ8,72.0,76.0
+Karate,The Bed Is In The Ocean,The Same Stars,6iesdoytyWTToCaEJJnkDL,0.579,0.299,4,-13.071,0,0.0383,0.0103,0.142,0.405,112.918,380093,4,6U26vGPwnCQcNDr9Dpj0Y0,34.0,38.0
+The Velvet Underground,The Velvet Underground (45th Anniversary),Pale Blue Eyes,11VwZwNF29HrqwalYUMitb,0.637,0.107,5,-18.759,1,0.0349,0.00146,0.103,0.296,82.879,339533,4,1nJvji2KIlWSseXRSlNYsC,67.0,67.0
+Buzzcocks,Singles Going Steady,Why Can't I Touch It? - 2001 Remastered Version,037DAJ2ClglNQbEvXpGav4,0.587,0.613,0,-9.444,0,0.0341,0.151,0.178,0.655,85.693,396333,4,2DxlS3lTLFIq70S7ap5H3y,52.0,55.0
+Pixies,Surfer Rosa,Where Is My Mind? - Remastered,7wCmS9TTVUcIhRalDYFgPy,0.519,0.441,4,-14.178,1,0.0353,0.000453,0.076,0.25,81.334,234973,4,6zvul52xwTWzilBZl6BUbT,79.0,73.0
+Television,Marquee Moon,Venus,3x0iCzjgf0v9lnwvAhU9P2,0.55,0.631,0,-11.493,1,0.0385,0.18,0.0503,0.908,114.553,229027,4,0S7Zur2g8YhqlzqtlYStli,46.0,49.0
+Sonic Youth,Rather Ripped,Incinerate,0lDoG5fQ9cmpvpenwR7Jln,0.446,0.866,8,-8.016,1,0.0342,0.543,0.137,0.455,152.172,295813,4,5UqTO8smerMvxHYA5xsXb6,61.0,64.0
+The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",Lola,0UAJH0k4k3slcE83a9UGCe,0.474,0.917,9,-4.19,1,0.0395,0.231,0.201,0.902,152.113,241040,4,1SQRv42e4PjEYfPhS0Tk9E,72.0,70.0
+Minutemen,Double Nickels on the Dime,History Lesson Part 2,45fq6kIQtooot7WVRsXAum,0.683,0.241,0,-16.192,1,0.0475,0.522,0.085,0.727,121.213,132133,4,0z6zRFzl5njXWLVAisXQBz,43.0,49.0
+The Velvet Underground,White Light / White Heat,Stephanie Says,7EMLBaRaM5pLPSoX1vWfar,0.553,0.282,0,-15.007,1,0.0325,4.99e-05,0.109,0.226,112.871,169560,4,1nJvji2KIlWSseXRSlNYsC,21.0,67.0
+Siouxsie and the Banshees,The Scream,Hong Kong Garden,5bxBosfOC3upyOK9tjxZ35,0.614,0.721,0,-8.962,1,0.0322,0.0817,0.167,0.708,146.629,175907,4,1n65zfwYIj5kKEtNgxUlWb,59.0,61.0
+Jonathan Richman,"I, Jonathan",That Summer Feeling,5oOC6EBnSQ3PfRAQyfjAla,0.444,0.105,5,-17.271,1,0.0696,3e-06,0.121,0.453,202.689,366600,4,6hkch2KhRl0tywpeVK5xR5,47.0,51.0
+Television,Marquee Moon,See No Evil,2OaXmeYBJ0hcTmS3kxjJOx,0.398,0.782,7,-7.944,1,0.0322,0.0684,0.0912,0.806,144.965,232960,4,0S7Zur2g8YhqlzqtlYStli,49.0,49.0
+Lou Reed,Transformer,Satellite of Love,5WyuRWUcOOhAic0tj9Pl28,0.458,0.502,5,-10.186,1,0.0294,5.51e-06,0.299,0.571,121.861,221120,4,42TFhl7WlMRXiNqzSrnzPL,63.0,66.0
+Buzzcocks,Senses Out Of Control,Senses Out Of Control,03RuoL8tIUm7Gu0hYObTid,0.48,0.822,11,-6.311,0,0.032,6.44e-06,0.62,0.838,91.939,155267,4,2DxlS3lTLFIq70S7ap5H3y,40.0,55.0
+The Cramps,Off The Bone,Garbageman,65CkxnwiaLvC6FbVrRNAqT,0.651,0.945,0,-9.611,1,0.0561,0.596,0.345,0.807,139.044,211067,4,4lYtGx5NZQJHsMyhHc5iz3,39.0,54.0
+Peter Ivers,Nirvana Peter,Miraculous Weekend,5Up7kKnSg7Z1YHRToUbZ1p,0.576,0.285,8,-10.04,1,0.122,4.21e-06,0.133,0.56,199.991,200773,4,55tLEUlrzGNtACuMVJZHNf,42.0,32.0

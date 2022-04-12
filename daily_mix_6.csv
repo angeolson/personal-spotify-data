@@ -1,51 +1,51 @@
-,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artist_id,track_pop,artist_pop
-0,The Growlers,Try Hard Fool,Try Hard Fool,2HMTLM3uA0NsOU1IkNufSj,0.503,0.825,10,-5.786,1,0.0323,0.000411,0.144,0.421,125.825,190581,4,2RhgnQNC74QoBlaUvT4MEe,48.0,65.0
-1,Mindchatter,Imaginary Audience,It's Been You,7e1dQ6se0Ordm8sNCdEkkn,0.767,0.427,0,-12.462,1,0.0674,0.776,0.113,0.688,102.036,193956,4,1He0ZKninbT4FMEV9hUZKn,50.0,53.0
-2,Sports,Damn I'm Tired,Damn I'm Tired,3HyzMwZ7JHVp07a9YQnpWJ,0.541,0.73,2,-5.223,1,0.0301,0.0736,0.117,0.5,106.01,225732,4,4AGNJdJiVltImYk1UTLE0K,47.0,58.0
-3,Subject,Worried for Nothing,Worried for Nothing,3QcWLlzSUFFWotRzxv6rbQ,0.523,0.706,4,-4.984,1,0.0341,1.71e-05,0.254,0.399,100.214,180338,4,6f07DRHqXu0b3Mu5QXBro1,39.0,24.0
-4,Charlie Brand,Monsoons,Baby Blue Motorcycle,6d1vSCnS8uE8H59FDgEr7W,0.488,0.597,9,-7.166,0,0.031,0.39,0.14,0.493,122.753,246344,4,2vjPQjB03iwrMJvl3jFW6W,44.0,15.0
-5,Blac Rabbit,Blac Rabbit,The Way the Wind Whips,4nf3NsPcr9Gy0qg9Fsiu4M,0.153,0.644,8,-8.528,1,0.0366,0.209,0.127,0.52,167.746,271429,4,0UvgR4VckgdEkBhTOjxwCc,37.0,37.0
-6,Smushie,Complete Annihilation!,Complete Annihilation!,252brHktw7kGAdCCahQpW8,0.687,0.578,4,-10.483,1,0.0336,0.016,0.148,0.789,90.013,301265,4,0XGgpBKj7u2MMX2kqUVLaH,47.0,32.0
-7,rogov,She's a Tangerine,She's a Tangerine,01MuDnWhgEFVVj5JhcOyNr,0.335,0.573,7,-8.869,1,0.0341,1.37e-05,0.0833,0.357,148.927,211204,4,3Q6t1nrrE1QGvPqCR45iIH,38.0,28.0
-8,Self-Help,Adult Cartoons,Sick on a Saturday,6pn91D1O0EOA4QxOD92NB7,0.387,0.609,0,-12.551,1,0.0288,0.864,0.107,0.809,118.1,223852,4,6wI83RGyqZKQ6nJ3aKiLOz,42.0,28.0
-9,Salvia Plath,The Bardo Story,This American Life,4vCVu9oq5lnmBbtpZL9CXR,0.455,0.386,10,-11.75,0,0.0306,0.00221,0.101,0.37,90.345,145267,4,4Ojq8WaaD3QA7dS8v9Ypf3,43.0,29.0
-10,The Shivas,You Know What to Do,You Make Me Wanna Die,0b3FB8b2fXSDgHLGppFJUN,0.723,0.551,5,-4.446,1,0.0365,0.00449,0.186,0.964,112.166,170507,4,2OZfuhYQm8IY95egVPC1U9,54.0,42.0
-11,The Nude Party,Midnight Manor,Shine Your Light,1ZqZjCd6gSNz4q8tq1eU5X,0.427,0.829,9,-5.758,0,0.0419,0.561,0.522,0.515,122.152,268278,4,5BxtbtwwHXC3HA5kAn06sK,40.0,48.0
-12,Worn-Tin,Something's Coming,Something's Coming,5gwe7jX8fDBFAWQL4bMBxO,0.648,0.413,1,-10.366,0,0.0827,3.75e-05,0.145,0.504,74.886,230467,4,7j8ds7BnqaEKuz1a1GN0J9,43.0,45.0
-13,The Murlocs,Young Blindness,Rolling On,5Cra5G974PUHma5AJJrtNK,0.246,0.792,9,-4.986,1,0.0323,0.000142,0.09,0.394,187.583,199787,4,0rH93aHDYyJfMAcPB9OKus,54.0,48.0
-14,Insomnia Beach Club,Staring at the Sun,Staring at the Sun,66R2Xq3K0h7QkIxfbS6Kkk,0.696,0.736,7,-8.371,1,0.0434,0.629,0.117,0.664,151.959,166695,4,1umHIOxvWY6aZIVrIUaP3W,40.0,24.0
-15,Post Animal,Puppy Dog,Puppy Dog,6d73p4S5nsFPWaAyfOluEa,0.46,0.675,0,-8.178,0,0.0389,0.0348,0.105,0.374,144.907,280190,4,4iaDWP59Z3e62DW7YWDbIE,44.0,47.0
-16,The Velveteins,A Hot Second With The Velveteins,Hanging from the Ceiling,2OMH9Em0QhTxLt5e4kBmqE,0.318,0.736,11,-7.982,1,0.0456,0.00534,0.14,0.364,200.051,272387,3,1jUEqf1F3oW4JGoMfYxCvN,45.0,39.0
-17,Hinds,Leave Me Alone,Solar Gap,262RP3tcfodyNqGCgiMtFJ,0.421,0.475,9,-4.844,1,0.0381,0.108,0.0897,0.232,80.977,145333,3,4piFCokRN13muTud5Y2lhz,38.0,43.0
-18,The Nude Party,The Nude Party,Feels Alright,0QRPnkRK35yM6wYCQ1seo9,0.53,0.901,6,-5.761,1,0.0344,0.0175,0.0937,0.867,129.075,237253,4,5BxtbtwwHXC3HA5kAn06sK,50.0,48.0
-19,Self-Help,If I Left the Country...,Whippits,4ZpogCvkBfWLNxxa8nXkMA,0.437,0.626,11,-10.213,1,0.0387,0.0005,0.119,0.653,144.308,208810,4,6wI83RGyqZKQ6nJ3aKiLOz,22.0,28.0
-20,The Murlocs,Manic Candid Episode,Comfort Zone,7BnmRy2ivxW28hoApDWFKX,0.485,0.578,10,-6.157,1,0.0353,0.00222,0.105,0.346,127.135,239667,4,0rH93aHDYyJfMAcPB9OKus,34.0,48.0
-21,The Shivas,Feels So Good // Feels So Bad,If I Could Choose,54eGgIfV3RvgUVgKpr4Fuw,0.37,0.685,7,-7.836,1,0.0327,0.00461,0.156,0.819,183.768,189734,4,2OZfuhYQm8IY95egVPC1U9,26.0,42.0
-22,Jeffrey Lewis,A Turn in the Dream-Songs,Cult Boyfriend,4yYkAGcxY6H0NtNaRTzmpH,0.584,0.71,9,-7.64,1,0.198,0,0.307,0.924,79.34,156800,4,2Icsf5D1lAs2EFx6kggg5D,44.0,43.0
-23,Habibi,Habibi,Sweetest Talk,3Xt9sp779WQWqLYPVbLU0q,0.553,0.556,5,-9.98,1,0.0421,0.0447,0.123,0.763,172.869,137760,4,600GgDUq9kzGJgNIrVsWfz,37.0,39.0
-24,Worn-Tin,Thanatophobia,Sensitivity,1F9WFVKQ0PT4EiZNoZQu2d,0.705,0.529,4,-6.585,1,0.029,0.00338,0.42,0.931,110.207,237742,4,7j8ds7BnqaEKuz1a1GN0J9,55.0,45.0
-25,Mister Heavenly,Out of Love,Charlyne,0DES3wFg1uswVzfCt5kNNs,0.447,0.716,9,-7.646,1,0.0381,8.72e-05,0.101,0.597,181.39,145480,4,2HoWH2v3xB11oIAoQIWBBi,34.0,31.0
-26,Balkans,Balkans,Flowers Everywhere,14TC9zbh5C4K6ey8J2ZCdS,0,0.858,3,-5.892,1,0,0.000534,0.232,0,0,246987,0,6ozbYaDYh9AFYciPvk6iBO,38.0,31.0
-27,The Murlocs,Old Locomotive,Noble Soldier,0qEJ3whHtdY11skgNa2zmD,0.468,0.734,6,-5.108,0,0.0337,0.000926,0.3,0.769,122.342,164560,4,0rH93aHDYyJfMAcPB9OKus,47.0,48.0
-28,Moses Gunn Collective,Mercy Mountain,Shalala,0Bl1Gt8R9kjz7JO7SYAuhe,0.452,0.729,7,-5.6,1,0.0304,0.0583,0.115,0.46,84.005,228015,4,66riSKDVOc3vPkeyju0q0o,59.0,47.0
-29,The Nude Party,The Nude Party,Chevrolet Van,5QpkOt3hpNf4zns6FJ7JRH,0.577,0.81,4,-5.822,0,0.0412,8.41e-05,0.267,0.76,118.352,258147,4,5BxtbtwwHXC3HA5kAn06sK,53.0,48.0
-30,Ceramic Animal,Sweet Unknown,Tangled,4LbzdtRMTssvtEiGaf1lnS,0.649,0.683,5,-8.113,1,0.0378,0.000299,0.0796,0.803,121.71,227373,4,42PLkpL4mM4Szp7fiyj15X,49.0,45.0
-31,Orions Belte,Scared of Heights,Scared of Heights,0ECSnAbvi4Vy2lalXJpklV,0.616,0.816,2,-5.757,1,0.0486,0.655,0.0796,0.529,155.993,219480,4,3Kzo2BzQIPQW0397gx9rRp,43.0,48.0
-32,Oracle Sisters,Asc. Scorpio,Asc. Scorpio,13zkVsNIyXsagdlbg7ulWO,0.762,0.6,2,-6.636,1,0.0431,0.00703,0.0995,0.819,80.204,166601,4,2S11VlKvbvSKyyb7Wk4YP1,63.0,50.0
-33,Loving,If I Am Only My Thoughts,Visions,1rcxltU3Mzn8gN6Z8ly9Zh,0.658,0.67,7,-7.093,0,0.0255,0.0071,0.256,0.696,95.3,233559,4,4ftctxasGrW5Ud5Pbw6kWq,61.0,55.0
-34,Post Animal,When I Think Of You In A Castle,Ralphie,0ubtINXSfA7mFoza07BBap,0.442,0.824,5,-4.569,1,0.0486,2.35e-06,0.224,0.389,144.249,275933,4,4iaDWP59Z3e62DW7YWDbIE,47.0,47.0
-35,Blood Cultures,LUNO,Set it on Fire,77vUGvFLe3au334u9yBsGC,0.586,0.851,2,-4.287,1,0.0302,0.000608,0.106,0.435,112.062,213053,4,1kDqy7SpqyJ7aZi7cqSBis,46.0,51.0
-36,Babe Rainbow,The Babe Rainbow,Peace Blossom Boogy,0Mfcw67Xb68PJJNsfxRi7L,0.662,0.822,2,-4.565,1,0.0306,0.0342,0.105,0.861,112.036,194292,4,2UmG7WphL1CMN7mVWyhE7u,60.0,57.0
-37,Beach Fossils,Somersault,Down the Line,05ZUxHiGT7VR6ShJjhwJxn,0.615,0.743,7,-6.569,1,0.041,0.00431,0.148,0.528,162.22,158474,4,1bwUhKRmEkOZ1wuTnV9XjC,70.0,63.0
-38,Miynt,Nothing personal,Nothing personal,65L7hHIrNPHfaWGwWfWDSm,0.625,0.571,11,-9.279,1,0.0379,0.235,0.055,0.0542,119.967,271410,4,4grFkvUAEj8IWdGDEJ2F4b,38.0,41.0
-39,The Nude Party,The Nude Party,Wild Coyote,4LSPsnhIlQxoEgmL1ptu1M,0.362,0.774,6,-6.367,0,0.0455,0.0122,0.108,0.597,126.044,244867,4,5BxtbtwwHXC3HA5kAn06sK,48.0,48.0
-40,Temples,Sun Structures (Deluxe Version),Shelter Song,2nDkHJPY0vpydGiiDABaS6,0.491,0.899,9,-3.315,1,0.0373,8.52e-05,0.167,0.537,126.061,190558,4,4ogwGU9VPWrnVBs1GEwZVV,47.0,50.0
-41,King Gizzard & The Lizard Wizard,Magenta Mountain,Magenta Mountain,1mTZgUSvyG3I3O9onu3p5V,0.666,0.657,1,-8.726,1,0.0318,0.819,0.0981,0.434,92.747,364600,4,6XYvaoDGE0VmRt83Jss9Sn,61.0,67.0
-42,The Growlers,Gay Thoughts - EP,Gay Thoughts,2HtRQoycUasDCpCsteWiwr,0.346,0.728,9,-7.747,0,0.0326,0.00485,0.154,0.966,204.732,280347,4,2RhgnQNC74QoBlaUvT4MEe,46.0,65.0
-43,Babe Rainbow,Today,Something New,24eMGcmzxR64yf45pN4K8i,0.629,0.597,11,-10.571,1,0.0273,0.0344,0.531,0.737,87.847,193251,4,2UmG7WphL1CMN7mVWyhE7u,58.0,57.0
-44,Diners,Three,Fifteen on a Skateboard,1F3jwY8g6tNGpIctctYu4D,0.367,0.533,3,-8.897,1,0.0369,0.0542,0.175,0.308,96.182,199053,4,5d5zCtQbxnmPLkOZAuw9lp,44.0,36.0
-45,Current Joys,Kids,Kids,3pyyGVqWvRMq43qtJBzxe0,0.828,0.66,6,-9.669,1,0.0337,0.403,0.0755,0.904,113.45,269143,4,0m5FakHKCQdA7UN0PIzMcL,76.0,72.0
-46,Cage The Elephant,Thank You Happy Birthday,Flow,0MUzalPwRItswsuNThydQg,0.745,0.619,4,-10.939,0,0.0331,0.0126,0.133,0.0906,107.025,208200,4,26T3LtbuGT1Fu9m0eRq5X3,54.0,79.0
-47,Surf Curse,Disco,Disco,2Lumsra3kuU61wXkEKzKaK,0.473,0.621,11,-8.698,0,0.0291,0.000366,0.19,0.782,173.083,152761,4,1gl0S9pS0Zw0qfa14rDD3D,72.0,75.0
-48,No Vacation,Waltzing Back,Waltzing Back,3Q1DprZauQyNo8KGlY8brZ,0.558,0.579,7,-8.065,0,0.0272,0.916,0.0935,0.487,104.972,192000,4,32zeX1IoVKAGWMyy1isKUq,61.0,62.0
-49,The Nude Party,The Nude Party,Astral Man,4Ig9HspUaKy2cz6YA8pb6O,0.371,0.683,9,-7.769,1,0.0293,0.019,0.343,0.537,130.231,334880,4,5BxtbtwwHXC3HA5kAn06sK,52.0,48.0
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,artist_id,track_pop,artist_pop
+The Growlers,Try Hard Fool,Try Hard Fool,2HMTLM3uA0NsOU1IkNufSj,0.503,0.825,10,-5.786,1,0.0323,0.000411,0.144,0.421,125.825,190581,4,2RhgnQNC74QoBlaUvT4MEe,48.0,65.0
+Mindchatter,Imaginary Audience,It's Been You,7e1dQ6se0Ordm8sNCdEkkn,0.767,0.427,0,-12.462,1,0.0674,0.776,0.113,0.688,102.036,193956,4,1He0ZKninbT4FMEV9hUZKn,50.0,53.0
+Sports,Damn I'm Tired,Damn I'm Tired,3HyzMwZ7JHVp07a9YQnpWJ,0.541,0.73,2,-5.223,1,0.0301,0.0736,0.117,0.5,106.01,225732,4,4AGNJdJiVltImYk1UTLE0K,47.0,58.0
+Subject,Worried for Nothing,Worried for Nothing,3QcWLlzSUFFWotRzxv6rbQ,0.523,0.706,4,-4.984,1,0.0341,1.71e-05,0.254,0.399,100.214,180338,4,6f07DRHqXu0b3Mu5QXBro1,39.0,24.0
+Charlie Brand,Monsoons,Baby Blue Motorcycle,6d1vSCnS8uE8H59FDgEr7W,0.488,0.597,9,-7.166,0,0.031,0.39,0.14,0.493,122.753,246344,4,2vjPQjB03iwrMJvl3jFW6W,44.0,15.0
+Blac Rabbit,Blac Rabbit,The Way the Wind Whips,4nf3NsPcr9Gy0qg9Fsiu4M,0.153,0.644,8,-8.528,1,0.0366,0.209,0.127,0.52,167.746,271429,4,0UvgR4VckgdEkBhTOjxwCc,37.0,37.0
+Smushie,Complete Annihilation!,Complete Annihilation!,252brHktw7kGAdCCahQpW8,0.687,0.578,4,-10.483,1,0.0336,0.016,0.148,0.789,90.013,301265,4,0XGgpBKj7u2MMX2kqUVLaH,47.0,32.0
+rogov,She's a Tangerine,She's a Tangerine,01MuDnWhgEFVVj5JhcOyNr,0.335,0.573,7,-8.869,1,0.0341,1.37e-05,0.0833,0.357,148.927,211204,4,3Q6t1nrrE1QGvPqCR45iIH,38.0,28.0
+Self-Help,Adult Cartoons,Sick on a Saturday,6pn91D1O0EOA4QxOD92NB7,0.387,0.609,0,-12.551,1,0.0288,0.864,0.107,0.809,118.1,223852,4,6wI83RGyqZKQ6nJ3aKiLOz,42.0,28.0
+Salvia Plath,The Bardo Story,This American Life,4vCVu9oq5lnmBbtpZL9CXR,0.455,0.386,10,-11.75,0,0.0306,0.00221,0.101,0.37,90.345,145267,4,4Ojq8WaaD3QA7dS8v9Ypf3,43.0,29.0
+Mister Heavenly,Out of Love,Charlyne,0DES3wFg1uswVzfCt5kNNs,0.447,0.716,9,-7.646,1,0.0381,8.72e-05,0.101,0.597,181.39,145480,4,2HoWH2v3xB11oIAoQIWBBi,34.0,31.0
+The Shivas,You Know What to Do,You Make Me Wanna Die,0b3FB8b2fXSDgHLGppFJUN,0.723,0.551,5,-4.446,1,0.0365,0.00449,0.186,0.964,112.166,170507,4,2OZfuhYQm8IY95egVPC1U9,54.0,42.0
+The Nude Party,Midnight Manor,Shine Your Light,1ZqZjCd6gSNz4q8tq1eU5X,0.427,0.829,9,-5.758,0,0.0419,0.561,0.522,0.515,122.152,268278,4,5BxtbtwwHXC3HA5kAn06sK,40.0,48.0
+Worn-Tin,Something's Coming,Something's Coming,5gwe7jX8fDBFAWQL4bMBxO,0.648,0.413,1,-10.366,0,0.0827,3.75e-05,0.145,0.504,74.886,230467,4,7j8ds7BnqaEKuz1a1GN0J9,43.0,45.0
+Insomnia Beach Club,Staring at the Sun,Staring at the Sun,66R2Xq3K0h7QkIxfbS6Kkk,0.696,0.736,7,-8.371,1,0.0434,0.629,0.117,0.664,151.959,166695,4,1umHIOxvWY6aZIVrIUaP3W,40.0,24.0
+The Murlocs,Young Blindness,Rolling On,5Cra5G974PUHma5AJJrtNK,0.246,0.792,9,-4.986,1,0.0323,0.000142,0.09,0.394,187.583,199787,4,0rH93aHDYyJfMAcPB9OKus,54.0,48.0
+Post Animal,Puppy Dog,Puppy Dog,6d73p4S5nsFPWaAyfOluEa,0.46,0.675,0,-8.178,0,0.0389,0.0348,0.105,0.374,144.907,280190,4,4iaDWP59Z3e62DW7YWDbIE,44.0,47.0
+The Velveteins,A Hot Second With The Velveteins,Hanging from the Ceiling,2OMH9Em0QhTxLt5e4kBmqE,0.318,0.736,11,-7.982,1,0.0456,0.00534,0.14,0.364,200.051,272387,3,1jUEqf1F3oW4JGoMfYxCvN,45.0,39.0
+Hinds,Leave Me Alone,Solar Gap,262RP3tcfodyNqGCgiMtFJ,0.421,0.475,9,-4.844,1,0.0381,0.108,0.0897,0.232,80.977,145333,3,4piFCokRN13muTud5Y2lhz,38.0,43.0
+Balkans,Balkans,Troubled And Done,3wsyIaE9IU0OhaIB2FbowI,0.52,0.835,6,-4.897,0,0.0278,7.55e-05,0.175,0.575,142.065,224933,4,6ozbYaDYh9AFYciPvk6iBO,41.0,31.0
+The Nude Party,The Nude Party,Feels Alright,0QRPnkRK35yM6wYCQ1seo9,0.53,0.901,6,-5.761,1,0.0344,0.0175,0.0937,0.867,129.075,237253,4,5BxtbtwwHXC3HA5kAn06sK,50.0,48.0
+The Shivas,Feels So Good // Feels So Bad,If I Could Choose,54eGgIfV3RvgUVgKpr4Fuw,0.37,0.685,7,-7.836,1,0.0327,0.00461,0.156,0.819,183.768,189734,4,2OZfuhYQm8IY95egVPC1U9,26.0,42.0
+The Murlocs,Manic Candid Episode,Comfort Zone,7BnmRy2ivxW28hoApDWFKX,0.485,0.578,10,-6.157,1,0.0353,0.00222,0.105,0.346,127.135,239667,4,0rH93aHDYyJfMAcPB9OKus,34.0,48.0
+Jeffrey Lewis,A Turn in the Dream-Songs,Cult Boyfriend,4yYkAGcxY6H0NtNaRTzmpH,0.584,0.71,9,-7.64,1,0.198,0,0.307,0.924,79.34,156800,4,2Icsf5D1lAs2EFx6kggg5D,44.0,43.0
+Self-Help,If I Left the Country...,Whippits,4ZpogCvkBfWLNxxa8nXkMA,0.437,0.626,11,-10.213,1,0.0387,0.0005,0.119,0.653,144.308,208810,4,6wI83RGyqZKQ6nJ3aKiLOz,22.0,28.0
+Habibi,Habibi,Sweetest Talk,3Xt9sp779WQWqLYPVbLU0q,0.553,0.556,5,-9.98,1,0.0421,0.0447,0.123,0.763,172.869,137760,4,600GgDUq9kzGJgNIrVsWfz,37.0,39.0
+Balkans,Balkans,Flowers Everywhere,14TC9zbh5C4K6ey8J2ZCdS,0,0.858,3,-5.892,1,0,0.000534,0.232,0,0,246987,0,6ozbYaDYh9AFYciPvk6iBO,38.0,31.0
+Moses Gunn Collective,Mercy Mountain,Shalala,0Bl1Gt8R9kjz7JO7SYAuhe,0.452,0.729,7,-5.6,1,0.0304,0.0583,0.115,0.46,84.005,228015,4,66riSKDVOc3vPkeyju0q0o,59.0,47.0
+Ceramic Animal,Sweet Unknown,Tangled,4LbzdtRMTssvtEiGaf1lnS,0.649,0.683,5,-8.113,1,0.0378,0.000299,0.0796,0.803,121.71,227373,4,42PLkpL4mM4Szp7fiyj15X,49.0,45.0
+The Nude Party,The Nude Party,Chevrolet Van,5QpkOt3hpNf4zns6FJ7JRH,0.577,0.81,4,-5.822,0,0.0412,8.41e-05,0.267,0.76,118.352,258147,4,5BxtbtwwHXC3HA5kAn06sK,53.0,48.0
+The Murlocs,Old Locomotive,Noble Soldier,0qEJ3whHtdY11skgNa2zmD,0.468,0.734,6,-5.108,0,0.0337,0.000926,0.3,0.769,122.342,164560,4,0rH93aHDYyJfMAcPB9OKus,47.0,48.0
+Orions Belte,Scared of Heights,Scared of Heights,0ECSnAbvi4Vy2lalXJpklV,0.616,0.816,2,-5.757,1,0.0486,0.655,0.0796,0.529,155.993,219480,4,3Kzo2BzQIPQW0397gx9rRp,43.0,48.0
+Oracle Sisters,Asc. Scorpio,Asc. Scorpio,13zkVsNIyXsagdlbg7ulWO,0.762,0.6,2,-6.636,1,0.0431,0.00703,0.0995,0.819,80.204,166601,4,2S11VlKvbvSKyyb7Wk4YP1,63.0,50.0
+Loving,If I Am Only My Thoughts,Visions,1rcxltU3Mzn8gN6Z8ly9Zh,0.658,0.67,7,-7.093,0,0.0255,0.0071,0.256,0.696,95.3,233559,4,4ftctxasGrW5Ud5Pbw6kWq,61.0,55.0
+Worn-Tin,Thanatophobia,Sensitivity,1F9WFVKQ0PT4EiZNoZQu2d,0.705,0.529,4,-6.585,1,0.029,0.00338,0.42,0.931,110.207,237742,4,7j8ds7BnqaEKuz1a1GN0J9,55.0,45.0
+Blood Cultures,LUNO,Set it on Fire,77vUGvFLe3au334u9yBsGC,0.586,0.851,2,-4.287,1,0.0302,0.000608,0.106,0.435,112.062,213053,4,1kDqy7SpqyJ7aZi7cqSBis,46.0,51.0
+Babe Rainbow,The Babe Rainbow,Peace Blossom Boogy,0Mfcw67Xb68PJJNsfxRi7L,0.662,0.822,2,-4.565,1,0.0306,0.0342,0.105,0.861,112.036,194292,4,2UmG7WphL1CMN7mVWyhE7u,60.0,57.0
+Beach Fossils,Somersault,Down the Line,05ZUxHiGT7VR6ShJjhwJxn,0.615,0.743,7,-6.569,1,0.041,0.00431,0.148,0.528,162.22,158474,4,1bwUhKRmEkOZ1wuTnV9XjC,70.0,63.0
+Miynt,Nothing personal,Nothing personal,65L7hHIrNPHfaWGwWfWDSm,0.625,0.571,11,-9.279,1,0.0379,0.235,0.055,0.0542,119.967,271410,4,4grFkvUAEj8IWdGDEJ2F4b,38.0,41.0
+The Nude Party,The Nude Party,Wild Coyote,4LSPsnhIlQxoEgmL1ptu1M,0.362,0.774,6,-6.367,0,0.0455,0.0122,0.108,0.597,126.044,244867,4,5BxtbtwwHXC3HA5kAn06sK,48.0,48.0
+The Growlers,Gay Thoughts - EP,Gay Thoughts,2HtRQoycUasDCpCsteWiwr,0.346,0.728,9,-7.747,0,0.0326,0.00485,0.154,0.966,204.732,280347,4,2RhgnQNC74QoBlaUvT4MEe,46.0,65.0
+Temples,Sun Structures (Deluxe Version),Shelter Song,2nDkHJPY0vpydGiiDABaS6,0.491,0.899,9,-3.315,1,0.0373,8.52e-05,0.167,0.537,126.061,190558,4,4ogwGU9VPWrnVBs1GEwZVV,47.0,50.0
+King Gizzard & The Lizard Wizard,Magenta Mountain,Magenta Mountain,1mTZgUSvyG3I3O9onu3p5V,0.666,0.657,1,-8.726,1,0.0318,0.819,0.0981,0.434,92.747,364600,4,6XYvaoDGE0VmRt83Jss9Sn,61.0,67.0
+Babe Rainbow,Today,Something New,24eMGcmzxR64yf45pN4K8i,0.629,0.597,11,-10.571,1,0.0273,0.0344,0.531,0.737,87.847,193251,4,2UmG7WphL1CMN7mVWyhE7u,58.0,57.0
+Post Animal,When I Think Of You In A Castle,Ralphie,0ubtINXSfA7mFoza07BBap,0.442,0.824,5,-4.569,1,0.0486,2.35e-06,0.224,0.389,144.249,275933,4,4iaDWP59Z3e62DW7YWDbIE,47.0,47.0
+Current Joys,Kids,Kids,3pyyGVqWvRMq43qtJBzxe0,0.828,0.66,6,-9.669,1,0.0337,0.403,0.0755,0.904,113.45,269143,4,0m5FakHKCQdA7UN0PIzMcL,76.0,72.0
+Cage The Elephant,Thank You Happy Birthday,Flow,0MUzalPwRItswsuNThydQg,0.745,0.619,4,-10.939,0,0.0331,0.0126,0.133,0.0906,107.025,208200,4,26T3LtbuGT1Fu9m0eRq5X3,54.0,79.0
+The Growlers,City Club,I'll Be Around,1EXMtjti643XyQLiGDdki0,0.485,0.904,8,-3.48,0,0.0465,0,0.182,0.898,92.067,287136,4,2RhgnQNC74QoBlaUvT4MEe,54.0,65.0
+Surf Curse,Disco,Disco,2Lumsra3kuU61wXkEKzKaK,0.473,0.621,11,-8.698,0,0.0291,0.000366,0.19,0.782,173.083,152761,4,1gl0S9pS0Zw0qfa14rDD3D,72.0,75.0
+The Nude Party,The Nude Party,Astral Man,4Ig9HspUaKy2cz6YA8pb6O,0.371,0.683,9,-7.769,1,0.0293,0.019,0.343,0.537,130.231,334880,4,5BxtbtwwHXC3HA5kAn06sK,52.0,48.0
