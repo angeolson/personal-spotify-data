@@ -1,6 +1,6 @@
 #%%
 # installation/import
-%pip install spotipy
+#%pip install spotipy
 import spotipy
 import os
 import pandas as pd
@@ -78,11 +78,22 @@ daily_mix_4 = analyze_playlist("spotify", "37i9dQZF1E35LNXdDLD15S")
 daily_mix_5 = analyze_playlist("spotify", "37i9dQZF1E35p2s1cxpHHa")
 daily_mix_6 = analyze_playlist("spotify", "37i9dQZF1E384ZHvJG0MdO")
 
+
+#%% export to .csv
 count = 0 
 for df in (daily_mix_1, daily_mix_2, daily_mix_3, daily_mix_4, daily_mix_5, daily_mix_6):
     count = count + 1
     df.to_csv("daily_mix_" + str(count) + ".csv")
 
 # %%
+daily_mix_1['name'] = 'daily_mix_1'
+daily_mix_2['name'] = 'daily_mix_2'
+daily_mix_3['name'] = 'daily_mix_3'
+daily_mix_4['name'] = 'daily_mix_4'
+daily_mix_5['name'] = 'daily_mix_5'
+daily_mix_6['name'] = 'daily_mix_6'
 
+# %%
+all_mixes = pd.concat([daily_mix_1, daily_mix_2, daily_mix_3, daily_mix_4, daily_mix_5, daily_mix_6], ignore_index = True)
+all_mixes.to_csv("all_mixes.csv")
 # %%
