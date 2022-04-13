@@ -31,9 +31,12 @@ for var in list:
     plt.show()
 
 # %%
+df[ df['name'] == 'daily_mix_1'].head()
 df[ df['name'] == 'daily_mix_2'].head()
-df[ df['name'] == 'daily_mix_4'].head()
 df[ df['name'] == 'daily_mix_3'].head()
+df[ df['name'] == 'daily_mix_4'].head()
+df[ df['name'] == 'daily_mix_5'].head()
+df[ df['name'] == 'daily_mix_6'].head()
 
 # %%
 # nice plot
@@ -43,6 +46,19 @@ ax.set_xticklabels(["1", "2", "3", "4", "5", "6", "Top 50"])
 plt.show()
 
 # %%
-bx = sns.scatterplot(x='artist_pop',y='track_pop', hue = 'name', alpha = 1, data=df)
+sns.scatterplot(x='artist_pop',y='track_pop', hue = 'name', alpha = 1, data=df)
 plt.show()
+
+sns.scatterplot(x='loudness',y='danceability', hue = 'name', alpha = 1, data=df)
+plt.show()
+
+
+sns.scatterplot(x='valence',y='danceability', hue = 'name', alpha = 1, data=df)
+plt.show()
+
+sns.scatterplot(x='track_pop',y='speechiness', hue = 'name', alpha = 1, data=df)
+plt.show()
+# %%
+matrix = df.corr().round(2)
+matrix
 # %%
