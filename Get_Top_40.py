@@ -71,10 +71,11 @@ def analyze_playlist(creator, playlist_id):
 
 #%%
 # apply function to data 
-popular_50 = analyze_playlist("spotify", "37i9dQZF1E37uW6y8HRcG0")
+popular_50 = analyze_playlist("spotify", "37i9dQZEVXbLRQDuF5jeBp")
 popular_50['name'] = 'popular_50'
 
 # %%
+origdf = pd.read_csv("all_mixes.csv")
 all_mixes = pd.concat([origdf, popular_50], ignore_index = True)
 all_mixes.to_csv("all_mixes.csv", index = False)
 

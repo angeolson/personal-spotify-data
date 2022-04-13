@@ -13,7 +13,7 @@ Do Nothing,Handshakes,Handshakes,25lJGQuHWeFhYt7ffpF2xz,0.574,0.567,7,-10.513,1,
 Parquet Courts,Wide Awake!,Tenderness,5S6spUAa7hNeJCP48786fm,0.717,0.72,7,-4.269,1,0.0364,0.000216,0.0774,0.951,97.958,186107,4,23NIwARd4vPbxt3wwNnJ6k,58.0,58.0,daily_mix_1
 Spoon,Wild EP,Wild,5Gzn78ypGH9p9HLFPWnd6g,0.647,0.701,4,-8.043,1,0.0375,0.000142,0.0765,0.813,97.003,193277,4,0K1q0nXQ8is36PzOKAMbNe,43.0,64.0,daily_mix_1
 Frog,Kind of Blah,Judy Garland,3df6rRK1s42yvZ38VxqBqE,0.385,0.725,6,-7.501,1,0.104,0.00459,0.12,0.104,129.777,217177,4,3ME5MgDqwM6G3UDLmwjftA,46.0,36.0,daily_mix_1
-Fell Runner,Talking,Dog Inside a Car,2CAhV5ZuA7v309SspF5K5S,0.478,0.696,11,-6.144,1,0.0634,0,0.0748,0.63,130.224,256000,4,0teb8J1T7OwcAQlBxRnPVd,49.0,33.0,daily_mix_1
+Fell Runner,Talking,Dog Inside a Car,2CAhV5ZuA7v309SspF5K5S,0.478,0.696,11,-6.144,1,0.0634,0.0,0.0748,0.63,130.224,256000,4,0teb8J1T7OwcAQlBxRnPVd,49.0,33.0,daily_mix_1
 Mini Mansions,The Great Pretenders,Creeps,1Li4Kez6rKh0fuslQd3yks,0.456,0.513,7,-8.122,1,0.0274,0.0771,0.251,0.572,111.946,211187,4,07xbJ7SM1JopFtI1qXvSww,43.0,45.0,daily_mix_1
 TOLEDO,FOMO,FOMO,4bRjFZH5jCrPASyxqbF1yr,0.663,0.845,10,-5.449,1,0.119,3.76e-05,0.184,0.656,117.664,219381,4,2xK3hBpuuHSxmHr96TzgDO,41.0,48.0,daily_mix_1
 NewDad,Waves,I Don't Recognise You,2W94sTwflT0Fg2tQc0vlfG,0.534,0.623,11,-7.144,1,0.0247,0.379,0.121,0.395,82.487,275013,4,1yz8XixOiIJJ9IxjbnfYV6,54.0,47.0,daily_mix_1
@@ -45,7 +45,7 @@ The Strokes,The New Abnormal,The Adults Are Talking,5ruzrDWcT0vuJIOMW7gMnW,0.593
 The Walkmen,Everyone Who Pretended To Like Me Is Gone,We've Been Had,1K5wIDgNBgT7lVOMibiRAE,0.434,0.581,4,-7.449,1,0.0313,0.0002,0.338,0.447,100.219,204347,4,6kFay2DQ5aZfeu5OsrF3Pw,45.0,50.0,daily_mix_1
 Peach Pit,From 2 to 3,Look Out!,72BIYdOmoytW14M7BQYyZu,0.462,0.394,10,-8.402,1,0.0271,5.5e-06,0.134,0.286,100.692,176506,4,6fC2AcsQtd9h4BWELbbire,59.0,71.0,daily_mix_1
 Cage The Elephant,Melophobia,Telescope,0tkBOcK7oRVXQJY97zzSvr,0.589,0.481,0,-4.801,1,0.0285,1.33e-05,0.0986,0.176,93.568,228293,4,26T3LtbuGT1Fu9m0eRq5X3,68.0,79.0,daily_mix_1
-Jealous of the Birds,Peninsula,Something Holy,2YAp3Kb8Xb6iVMk8Zp8jAH,0.678,0.691,2,-5.187,1,0.0281,0,0.334,0.843,120.066,198160,4,3S8P24WjZtVNaPLeXjaCJm,39.0,44.0,daily_mix_1
+Jealous of the Birds,Peninsula,Something Holy,2YAp3Kb8Xb6iVMk8Zp8jAH,0.678,0.691,2,-5.187,1,0.0281,0.0,0.334,0.843,120.066,198160,4,3S8P24WjZtVNaPLeXjaCJm,39.0,44.0,daily_mix_1
 Portugal. The Man,"What, Me Worry?","What, Me Worry?",0ePX6rVjeql7Bt1KurTbAG,0.722,0.889,3,-2.564,0,0.0416,4.77e-06,0.124,0.743,139.965,177397,4,4kI8Ie27vjvonwaB2ePh8T,69.0,70.0,daily_mix_1
 Public Access T.V.,Public Access,All We Want,1sv1NjtrXX3N4VXBAsljeZ,0.617,0.83,2,-4.382,1,0.0427,0.000426,0.19,0.629,101.986,234840,4,2GfytjuWiJoRLsYZlF6saQ,31.0,24.0,daily_mix_1
 The Flaming Lips,Yoshimi Battles the Pink Robots,Do You Realize??,2DFRFqWNahKtFD112H2iEZ,0.464,0.797,0,-5.244,1,0.0333,0.000304,0.392,0.547,129.964,213173,4,16eRpMNXSQ15wuJoeqguaB,64.0,60.0,daily_mix_1
@@ -59,7 +59,7 @@ Ray Bull,Love Is Hate,Love Is Hate,5V0MkBLevt9CmtlvqVvEjM,0.788,0.407,4,-9.776,1
 Andrew Bird,Are You Serious (Deluxe Edition),Pulaski,1tGRfoeKD06YvZr6l3uwEk,0.453,0.717,7,-7.724,1,0.0753,0.00243,0.12,0.393,111.023,242147,4,4uSftVc3FPWe6RJuMZNEe9,50.0,61.0,daily_mix_2
 Star Parks,The New Sounds of Late Capitalism,Palm Sunday,6rN3MviTNZD3Fc1QABVGt9,0.357,0.564,5,-6.658,1,0.0298,0.852,0.216,0.264,125.127,323773,3,0yRum3Q7Dqnt8kl4MdO7TH,30.0,34.0,daily_mix_2
 Pardoner,Came Down Different,I Wanna Get High To The Music,2cmrMxNXwbCgGX3Fx0YodQ,0.566,0.836,11,-6.848,1,0.0297,0.18,0.118,0.788,146.794,72974,4,2cvOvqNfn14qVRgGEw29PQ,39.0,32.0,daily_mix_2
-Sons of Raphael,Full-Throated Messianic Homage,Yeah Yeah Yeah,56FAGq0ar7AEpNqK6r7SHo,0.578,0.636,1,-5.024,1,0.0464,0,0.135,0.598,116.049,272867,4,1stGFX6w6VMHQPDPlBqX74,39.0,27.0,daily_mix_2
+Sons of Raphael,Full-Throated Messianic Homage,Yeah Yeah Yeah,56FAGq0ar7AEpNqK6r7SHo,0.578,0.636,1,-5.024,1,0.0464,0.0,0.135,0.598,116.049,272867,4,1stGFX6w6VMHQPDPlBqX74,39.0,27.0,daily_mix_2
 The Convenience,Accelerator,Kiss Me In Heaven,3H5pElWVrTWGqLhqo7LxQM,0.687,0.55,4,-7.595,1,0.0819,0.266,0.104,0.962,157.801,219823,4,2PKfkrNktahdkVFB47NjGv,42.0,29.0,daily_mix_2
 The Beths,A Real Thing,A Real Thing,5cHFMi5m8FTcYOjzgzmXt1,0.244,0.932,0,-7.926,1,0.0486,0.0131,0.345,0.627,159.891,215180,4,7DjwIxbe8kpw4pqnzAMoin,42.0,50.0,daily_mix_2
 Ryan Pollie,Stars,The Shore House,0dgGeB2y2wkGfOc8bxnBrp,0.742,0.326,2,-12.016,1,0.0329,0.0349,0.299,0.397,110.01,293251,4,5cZo7U5yKYEWzcaR8ZKhNw,38.0,26.0,daily_mix_2
@@ -83,7 +83,7 @@ Teenage Cool Kids,Denton After Sunset,Landlocked State,0UEukOdvxTzs4RtiQwDBr4,0.
 Bartees Strange,Lady Luck,Lady Luck,3FuuTusOlyjDt3prN4D6ev,0.454,0.464,9,-8.274,1,0.0363,1.99e-05,0.1,0.61,185.673,300936,4,6Gl4Q3ePw6HKMfIOix5QpG,37.0,42.0,daily_mix_2
 Pinc Louds,Delancey St. Station,Scrambled Inside,0uHl5YfXmJc9FcIyz6oGVl,0.366,0.776,0,-5.198,1,0.0549,0.0118,0.311,0.409,141.58,337667,4,5G4Nw3oz2lzx4gneIDs3YX,46.0,40.0,daily_mix_2
 Pregnant,She Noticed,She Noticed,4H0U5Uceg2WMhMhJxnhj1C,0.655,0.978,5,-8.493,0,0.0431,0.0329,0.08,0.927,146.01,181500,4,4LkFDNJcZpdCU8AvZ68DNO,26.0,13.0,daily_mix_2
-Future Crib,Friends,Astronaut,2N9Mt1z4ZINZsP7K4y2Qbu,0.48,0.327,6,-12.123,1,0.06,0,0.0816,0.609,153.324,186253,3,2QeQIlUXOsBbZGniOCJweR,41.0,29.0,daily_mix_2
+Future Crib,Friends,Astronaut,2N9Mt1z4ZINZsP7K4y2Qbu,0.48,0.327,6,-12.123,1,0.06,0.0,0.0816,0.609,153.324,186253,3,2QeQIlUXOsBbZGniOCJweR,41.0,29.0,daily_mix_2
 French Cassettes,Rolodex,Santa Cruz Tomorrow,3USTw0XqjY9L5LwDQF912R,0.617,0.578,8,-10.804,0,0.0364,0.324,0.354,0.795,165.972,169027,4,0VcpOwnjkQaqDeEiVa9cu5,40.0,44.0,daily_mix_2
 Tōth,You and Me and Everything,I Might Be,5uKH4nY6ALq8jGNZ0BYlBH,0.688,0.548,11,-11.038,1,0.0286,0.589,0.336,0.632,127.997,216902,4,02nqs3YdfX7Th3gYTYFrqc,42.0,44.0,daily_mix_2
 pizzagirl,cape canaveral,cape canaveral,1T1XMARxNMquM1K6WevjFG,0.972,0.532,7,-8.421,0,0.0635,0.00227,0.0785,0.901,130.004,221908,4,0ef7Q5r0NAMicEugmtYxjA,45.0,43.0,daily_mix_2
@@ -98,9 +98,9 @@ Jamws,Toronto,Toronto,7gM7OSSKozedhoigEvPaQ7,0.658,0.479,0,-8.048,1,0.0248,0.005
 alt-J,The Dream,The Actor,2nNuK9VEgzGMq2lFLAg7S3,0.625,0.604,2,-8.33,1,0.0375,0.0941,0.0607,0.624,147.987,240893,4,3XHO7cRUPCLOr6jwp8vsx5,59.0,76.0,daily_mix_2
 Buck Meek,Two Saviors,Second Sight,5Igdq12AwzNoFCIvCi1xAJ,0.578,0.695,0,-6.141,1,0.0268,0.894,0.0975,0.645,98.238,237898,4,4mYY0UqYdvgdz60psupYBR,38.0,50.0,daily_mix_2
 Tobacco City,"Tobacco City, USA",Never on My Mind,4z9ViersKJgj1ZwTjjfhtk,0.425,0.338,9,-12.212,1,0.0299,0.558,0.0863,0.263,124.17,225297,4,00Af3oygT0HC6ld0c2HwFX,41.0,28.0,daily_mix_2
-Heatmiser,Mic City Sons,Plainclothes Man,7yYf5GF0jX6M6KywKygE0c,0.532,0.38,10,-10.526,1,0.0298,0,0.359,0.317,84.494,208000,4,59IPo3F7aZifhZtHnoGHbo,51.0,45.0,daily_mix_2
-David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),Suffragette City - 2012 Remaster,3YZa4IzxK2UtEKTvdTgsi8,0.455,0.883,2,-9.159,1,0.0384,0,0.277,0.782,142.638,208413,4,0oSGxfWSnnOXhD2fKuz2Gy,63.0,81.0,daily_mix_3
-Queen,A Day At The Races (Deluxe Remastered Version),Good Old-Fashioned Lover Boy - Remastered 2011,1mnQiO568zXIrUncttTZGp,0.545,0.454,3,-6.706,1,0.0302,0,0.0541,0.393,96.784,173173,4,1dfeR4HaWDbWqFHLkxsg1d,69.0,88.0,daily_mix_3
+Heatmiser,Mic City Sons,Plainclothes Man,7yYf5GF0jX6M6KywKygE0c,0.532,0.38,10,-10.526,1,0.0298,0.0,0.359,0.317,84.494,208000,4,59IPo3F7aZifhZtHnoGHbo,51.0,45.0,daily_mix_2
+David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),Suffragette City - 2012 Remaster,3YZa4IzxK2UtEKTvdTgsi8,0.455,0.883,2,-9.159,1,0.0384,0.0,0.277,0.782,142.638,208413,4,0oSGxfWSnnOXhD2fKuz2Gy,63.0,81.0,daily_mix_3
+Queen,A Day At The Races (Deluxe Remastered Version),Good Old-Fashioned Lover Boy - Remastered 2011,1mnQiO568zXIrUncttTZGp,0.545,0.454,3,-6.706,1,0.0302,0.0,0.0541,0.393,96.784,173173,4,1dfeR4HaWDbWqFHLkxsg1d,69.0,88.0,daily_mix_3
 The Beatles,Magical Mystery Tour (Remastered),Strawberry Fields Forever - Remastered 2009,3Am0IbOxmvlSXro7N5iSfZ,0.39,0.502,10,-12.277,1,0.178,0.000138,0.0713,0.289,97.871,247320,4,3WrFJ7ztbogyGnTHbHJFl2,72.0,88.0,daily_mix_3
 The Nerves,One Way Ticket,Many Roads to Follow (Demo),1LpSFi4bgbOohDRxrMoeNU,0.552,0.369,4,-10.582,1,0.0301,0.00624,0.106,0.601,127.188,134200,1,298i00ena8XMnm9O3qlHtU,40.0,40.0,daily_mix_3
 Billy Joel,52nd Street,My Life,4ZoBC5MhSEzuknIgAkBaoT,0.741,0.647,2,-12.878,1,0.0427,0.00139,0.0555,0.804,131.097,284000,4,6zFYqv1mOsgBRQbae3JJ9e,73.0,80.0,daily_mix_3
@@ -109,8 +109,8 @@ Jellyfish,Spilt Milk,New Mistake,7a7y3aPXd5STF9BvCG6slI,0.653,0.606,11,-9.577,1,
 Kim Jung Mi,Now,Blow Spring Breeze,0NIh5j1CfLpDHvoOCaUnaU,0.66,0.304,0,-15.532,1,0.044,0.573,0.108,0.961,122.429,115040,4,0yxIUq0WFyaTmYyleG4Uca,39.0,35.0,daily_mix_3
 Neal Francis,In Plain Sight,Problems,4WBs7J0btTQLsER9ouXW2I,0.687,0.818,10,-6.831,0,0.0337,0.000508,0.12,0.964,111.04,238813,4,2e5y5Gs5lgnDmiY4TKLsq3,41.0,47.0,daily_mix_3
 Jonathan Richman,"I, Jonathan",That Summer Feeling,5oOC6EBnSQ3PfRAQyfjAla,0.444,0.105,5,-17.271,1,0.0696,3e-06,0.121,0.453,202.689,366600,4,6hkch2KhRl0tywpeVK5xR5,47.0,51.0,daily_mix_3
-Colin Blunstone,One Year,She Loves the Way They Love Her,7MEGee2yq9oWZKpxjYlSyW,0.432,0.82,5,-7.179,1,0.0456,0,0.0932,0.653,131.787,169693,4,27DCwiPx5ocQsf4K43SlIL,35.0,37.0,daily_mix_3
-Alan Hull,Pipedream,Breakfast - 2005 Digital Remaster,1hOoIh4ZFa6ixfKVXZOfCo,0.379,0.332,7,-13.859,1,0.0333,0,0.331,0.399,85.034,223453,4,1DtvquLh9kUOQHnOwuiHdv,32.0,32.0,daily_mix_3
+Colin Blunstone,One Year,She Loves the Way They Love Her,7MEGee2yq9oWZKpxjYlSyW,0.432,0.82,5,-7.179,1,0.0456,0.0,0.0932,0.653,131.787,169693,4,27DCwiPx5ocQsf4K43SlIL,35.0,37.0,daily_mix_3
+Alan Hull,Pipedream,Breakfast - 2005 Digital Remaster,1hOoIh4ZFa6ixfKVXZOfCo,0.379,0.332,7,-13.859,1,0.0333,0.0,0.331,0.399,85.034,223453,4,1DtvquLh9kUOQHnOwuiHdv,32.0,32.0,daily_mix_3
 Jim Ford,Harlan County,Love On My Brain,64MDCxBEInYxmt4600EwJt,0.441,0.704,9,-7.091,1,0.0451,0.0838,0.043,0.685,149.444,194533,4,24caHjJclAtCI8Ld7Az8l1,42.0,40.0,daily_mix_3
 John Cale,Paris 1919,Paris 1919,5Zpy2HR2vYLjlTQVd81DLH,0.742,0.321,0,-13.728,1,0.0315,0.0432,0.11,0.613,107.349,246800,4,5MWBg16f5UYiaSlyVhzlIW,54.0,51.0,daily_mix_3
 The Nerves,One Way Ticket,Hanging on the Telephone,5LkI19KFtfJUjxOxvZavUf,0.58,0.914,5,-5.985,0,0.0455,2.06e-06,0.23,0.828,145.98,124893,4,298i00ena8XMnm9O3qlHtU,53.0,40.0,daily_mix_3
@@ -120,7 +120,7 @@ Amanaz,Africa,Khala My Friend,5xevas4P14kVmD4St0X3yy,0.588,0.407,1,-14.169,1,0.0
 Paul McCartney,Ram (Archive Collection),Ram On - Remastered 2012,6qZMXw0fs9qI8b4Nl9ntEQ,0.612,0.407,5,-12.197,0,0.0484,0.79,0.286,0.574,128.287,149587,4,4STHEaNw4mPZ2tzheohgXB,52.0,74.0,daily_mix_3
 Sir Woman,Blame It on the Water,Blame It on the Water,7xXIQiedfgExguYLFomda7,0.693,0.713,11,-6.508,0,0.0392,0.02,0.0802,0.848,101.034,203133,4,3H03S3ZtyYLdzsk6EYndUL,38.0,47.0,daily_mix_3
 The Modern Lovers,The Modern Lovers,Roadrunner,5E5HYgxGMp3BPakHGfKfIB,0.462,0.84,2,-6.666,1,0.0346,6.47e-05,0.0893,0.804,75.54,246440,4,2eRdPaLHWAL4d1WcNUO9Vz,59.0,50.0,daily_mix_3
-Mott The Hoople,All The Young Dudes (Expanded Edition),All the Young Dudes,0WNGPpmWqzPnk0psUhJ3SX,0.429,0.668,4,-7.539,0,0.044,0,0.538,0.398,77.737,211067,4,6ysQi6NI88X627t2srsWz6,66.0,53.0,daily_mix_3
+Mott The Hoople,All The Young Dudes (Expanded Edition),All the Young Dudes,0WNGPpmWqzPnk0psUhJ3SX,0.429,0.668,4,-7.539,0,0.044,0.0,0.538,0.398,77.737,211067,4,6ysQi6NI88X627t2srsWz6,66.0,53.0,daily_mix_3
 Joe Walsh,There Goes the Neighborhood,A Life of Illusion,19P4fwkPhE6yVAXApFWDoF,0.692,0.613,2,-10.735,1,0.0282,0.0652,0.094,0.93,120.901,210533,4,5bDxAyJiTYBat1YnFJhvEK,64.0,62.0,daily_mix_3
 T. Rex,Electric Warrior [Expanded & Remastered],Monolith - 2003 Remaster,7jLYNCaTmEe1OnhYhGtfeC,0.5,0.557,0,-10.54,1,0.0526,5.34e-05,0.0826,0.48,81.764,229560,4,3dBVyJ7JuOMt4GE9607Qin,43.0,65.0,daily_mix_3
 Cut Worms,Song of the Highest Tower,Song of the Highest Tower,3EC8ap9G5z7tWIBH4e4GNl,0.571,0.444,5,-6.405,1,0.0242,6.52e-06,0.143,0.38,107.043,413578,4,2upjmNmngAXZcra9dQRR2l,49.0,46.0,daily_mix_3
@@ -129,7 +129,7 @@ The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",Strangers,7obb4s6
 Grateful Dead,Shakedown Street,Shakedown Street - 2013 Remaster,1lNRVjK8MukRZpeurYssIx,0.809,0.575,0,-12.176,1,0.0298,1.65e-06,0.0799,0.85,109.447,300209,4,4TMHGUX5WI7OOm53PqSDAT,59.0,70.0,daily_mix_3
 The Rolling Stones,She's A Rainbow / Dandelion / We Love You,She's A Rainbow,6KOtheMY0KN4s9TrQHr9It,0.464,0.824,10,-7.359,1,0.0374,0.018,0.33,0.539,109.298,253720,4,22bE4uQ6baNwSHPVcDxLCe,68.0,82.0,daily_mix_3
 Ryan Scott,A Freak Grows in Brooklyn,Real Thing,4qHgs5N2YnYPTXkqvSFXPZ,0.761,0.54,1,-6.14,1,0.102,0.208,0.116,0.706,131.872,282982,4,5XhU9rfYBQBDGxujJiB3LJ,28.0,39.0,daily_mix_3
-New York Dolls,New York Dolls,Trash,2OQS3xvoKKSayJMJT8dVuZ,0.478,0.698,7,-9.255,1,0.0321,0,0.191,0.85,112.99,188307,4,0WhGV9lzljq2QKJ8ipw6jx,50.0,47.0,daily_mix_3
+New York Dolls,New York Dolls,Trash,2OQS3xvoKKSayJMJT8dVuZ,0.478,0.698,7,-9.255,1,0.0321,0.0,0.191,0.85,112.99,188307,4,0WhGV9lzljq2QKJ8ipw6jx,50.0,47.0,daily_mix_3
 T. Rex,Electric Warrior [Expanded & Remastered],Cosmic Dancer - 2003 Remaster,5N4vVbNotNwWGG8KcCdstR,0.37,0.694,0,-11.713,1,0.0595,0.00363,0.182,0.65,155.072,270000,4,3dBVyJ7JuOMt4GE9607Qin,49.0,65.0,daily_mix_3
 Fleetwood Mac,Mystery to Me,Hypnotized,1cHCG42MxckrXNFqyF8Uhr,0.437,0.54,0,-15.797,0,0.0469,0.00478,0.0815,0.966,162.236,289200,3,08GQAI4eElDnROBrJRGE0X,55.0,83.0,daily_mix_3
 The Beatles,The Beatles (Remastered),Happiness Is A Warm Gun - Remastered 2009,71LsKf3xISiOlY1mj7FFPP,0.431,0.54,9,-9.6,0,0.0589,1.34e-06,0.169,0.44,139.288,164547,4,3WrFJ7ztbogyGnTHbHJFl2,60.0,88.0,daily_mix_3
@@ -138,15 +138,15 @@ The Kinks,"Lola Versus Powerman and the Moneygoround, Pt. One",Lola,0UAJH0k4k3sl
 Supertramp,Breakfast In America (Deluxe Edition),Goodbye Stranger - 2010 Remastered,67oyFnjJnn78fZP9KjeZx0,0.42,0.668,1,-7.35,1,0.0517,0.016,0.0585,0.338,125.391,350573,4,3JsMj0DEzyWc0VDlHuy9Bx,68.0,72.0,daily_mix_3
 David Bowie,The Man Who Sold the World (2015 Remaster),The Man Who Sold the World - 2015 Remaster,4mWahKerLaVddUjb8d1Q4Q,0.474,0.387,2,-14.416,0,0.0305,0.00557,0.143,0.545,118.486,241347,4,0oSGxfWSnnOXhD2fKuz2Gy,67.0,81.0,daily_mix_3
 T. Rex,Electric Warrior [Expanded & Remastered],Jeepster - 2003 Remaster,0v1wsyUb3UplLdgcdTbUEd,0.565,0.761,11,-9.88,0,0.0486,0.00315,0.0442,0.925,94.893,252440,4,3dBVyJ7JuOMt4GE9607Qin,49.0,65.0,daily_mix_3
-Captain Beefheart & His Magic Band,Clear Spot,Too Much Time,1TzUVJVzOPkX5i8BpoAiu4,0.844,0.39,9,-13.774,1,0.0634,0,0.107,0.963,110.834,170400,4,2k8kY9zHUWxuTtwV4UutHw,45.0,50.0,daily_mix_3
+Captain Beefheart & His Magic Band,Clear Spot,Too Much Time,1TzUVJVzOPkX5i8BpoAiu4,0.844,0.39,9,-13.774,1,0.0634,0.0,0.107,0.963,110.834,170400,4,2k8kY9zHUWxuTtwV4UutHw,45.0,50.0,daily_mix_3
 The Beatles,Let It Be (Remastered),Across The Universe - Remastered 2009,4dkoqJrP0L8FXftrMZongF,0.257,0.412,1,-11.788,1,0.0287,8.68e-05,0.0702,0.858,152.126,228133,4,3WrFJ7ztbogyGnTHbHJFl2,69.0,88.0,daily_mix_3
 Phish,Farmhouse,Heavy Things,12gHzpb83V2Eh6D2sKUPlU,0.571,0.875,0,-6.795,1,0.0332,0.00029,0.303,0.773,116.141,255800,4,5wbIWUzTPuTxTyG6ouQKqz,48.0,59.0,daily_mix_3
 Tom Petty and the Heartbreakers,Greatest Hits,Mary Jane's Last Dance,3dmqIB2Qxe2XZobw9gXxJ6,0.464,0.655,7,-9.058,0,0.0608,1.34e-06,0.328,0.531,169.515,273600,4,4tX2TplrkIP4v05BNC903e,75.0,71.0,daily_mix_3
-The Knack,Get The Knack,Maybe Tonight,2UFtcdHQnzDkLJ9a8GIUkU,0.468,0.331,2,-12.49,1,0.0363,0,0.091,0.677,168.805,243093,4,0Nn9YwJzcaeuU1jJL06e3r,24.0,61.0,daily_mix_3
+The Knack,Get The Knack,Maybe Tonight,2UFtcdHQnzDkLJ9a8GIUkU,0.468,0.331,2,-12.49,1,0.0363,0.0,0.091,0.677,168.805,243093,4,0Nn9YwJzcaeuU1jJL06e3r,24.0,61.0,daily_mix_3
 Ted Hawkins,Watch Your Step,Sorry You're Sick,0bQfDEGIkkjrrbGkK4JLmF,0.716,0.251,8,-14.397,0,0.0791,0.000193,0.136,0.771,141.367,130933,4,1clAnI6PODaoVlbzlUPOfU,53.0,47.0,daily_mix_3
 David Bowie,Diamond Dogs (2016 Remaster),Rebel Rebel - 2016 Remaster,2EC9IJj7g0mN1Q5VrZkiYY,0.635,0.686,9,-15.648,1,0.053,0.0176,0.282,0.464,125.988,274747,4,0oSGxfWSnnOXhD2fKuz2Gy,75.0,81.0,daily_mix_3
-T. Rex,Strange Orchestra Volume One,"Highways (Misty Mist) - Version 3, Early Studio Demos",0bGGOtRdMvQ6JOcopbqnHH,0.62,0.221,8,-10.762,1,0.0415,0,0.257,0.304,82.196,124247,4,3dBVyJ7JuOMt4GE9607Qin,37.0,65.0,daily_mix_3
-The Beatles,Revolver (Remastered),For No One - Remastered 2009,1kDkaFlmkdEZiVUogaP9OZ,0.483,0.351,1,-10.487,0,0.0278,0,0.115,0.713,81.208,119813,4,3WrFJ7ztbogyGnTHbHJFl2,64.0,88.0,daily_mix_3
+T. Rex,Strange Orchestra Volume One,"Highways (Misty Mist) - Version 3, Early Studio Demos",0bGGOtRdMvQ6JOcopbqnHH,0.62,0.221,8,-10.762,1,0.0415,0.0,0.257,0.304,82.196,124247,4,3dBVyJ7JuOMt4GE9607Qin,37.0,65.0,daily_mix_3
+The Beatles,Revolver (Remastered),For No One - Remastered 2009,1kDkaFlmkdEZiVUogaP9OZ,0.483,0.351,1,-10.487,0,0.0278,0.0,0.115,0.713,81.208,119813,4,3WrFJ7ztbogyGnTHbHJFl2,64.0,88.0,daily_mix_3
 The Byrds,Turn! Turn! Turn!,Turn! Turn! Turn! (To Everything There Is a Season),5qBqBdfTEIWJwAS0Jm2F5R,0.451,0.818,2,-8.124,1,0.0439,2.92e-05,0.052,0.755,124.532,229360,4,1PCZpxHJz7WAMF8EEq8bfc,68.0,62.0,daily_mix_3
 Brian Eno,Wrong Way Up [Expanded Edition],Lay My Love,70MtQkoCPrL5LgI3ky6Jtw,0.67,0.743,5,-9.096,1,0.0383,0.0119,0.073,0.968,102.582,284133,4,7MSUfLeTdDEoZiJPDSBXgi,42.0,63.0,daily_mix_3
 Wallows,Tell Me That It’s Over,I Don't Want to Talk,1JiaqVxC0ZKjazNSjjJsnk,0.461,0.908,7,-3.222,1,0.0768,1.4e-06,0.309,0.636,162.042,223533,4,0NIPkIjTV8mB795yEIiPYL,63.0,77.0,daily_mix_4
@@ -173,8 +173,8 @@ Tobacco City,"Tobacco City, USA",Never on My Mind,4z9ViersKJgj1ZwTjjfhtk,0.425,0
 Various Artists,"Lagniappe Sessions, Vol. 1",Allison Road,3TdoVy0NxH9x46dlFHSj5Y,0.778,0.702,9,-9.578,1,0.0283,0.959,0.342,0.818,124.805,222573,4,0LyfQWJT6nXafLPZqxe9Of,38.0,0.0,daily_mix_4
 Morning Teleportation,No Distance,No Distance,1uTbDazz2UxUDVNUYcuzke,0.717,0.875,4,-6.483,1,0.038,0.000428,0.311,0.974,121.063,138743,4,5jOwDRC4Ha9MLHxF9YELyV,38.0,34.0,daily_mix_4
 Charlotte Cornfield,Highs in the Minuses,Partner in Crime,5B6bIkuvNP6d9yvYIsMZq9,0.798,0.443,8,-7.8,1,0.0358,0.0534,0.102,0.722,147.832,270714,4,59aqTTQGnvttJ4BCThaABZ,35.0,32.0,daily_mix_4
-Alan Dunham,Flying Alone,Sally,2oCfdGzShLK4i7OcMKcLFM,0.321,0.228,5,-12.41,1,0.0279,0,0.0699,0.424,140.291,280861,4,0HyRfadsaqVv6kLRUMrBOY,11.0,25.0,daily_mix_4
-Cut Worms,Hollow Ground,Don't Want to Say Good-bye,2KOAvJEVENkb1he87yrgLC,0.756,0.844,0,-3.269,1,0.0288,0,0.132,0.781,119.965,171469,4,2upjmNmngAXZcra9dQRR2l,45.0,46.0,daily_mix_4
+Alan Dunham,Flying Alone,Sally,2oCfdGzShLK4i7OcMKcLFM,0.321,0.228,5,-12.41,1,0.0279,0.0,0.0699,0.424,140.291,280861,4,0HyRfadsaqVv6kLRUMrBOY,11.0,25.0,daily_mix_4
+Cut Worms,Hollow Ground,Don't Want to Say Good-bye,2KOAvJEVENkb1he87yrgLC,0.756,0.844,0,-3.269,1,0.0288,0.0,0.132,0.781,119.965,171469,4,2upjmNmngAXZcra9dQRR2l,45.0,46.0,daily_mix_4
 Nixon Mask,BBQ Downer,Defection,0bXJRygxrZNviJXpQiPGDE,0.371,0.76,7,-7.617,1,0.0287,0.00051,0.105,0.625,129.362,284941,4,3qd7SVOfNjhMKmIOqDRbDC,35.0,19.0,daily_mix_4
 Dan & Drum,Heteroverheels,Heteroverheels,0hhFU4cjc13Azaifgh7Omc,0.405,0.278,7,-8.461,1,0.0288,0.0207,0.164,0.212,101.082,282816,4,1ZajCRAa7VEcTytwxzr20a,45.0,41.0,daily_mix_4
 Mapache,They Don't Know At The Beach,They Don't Know At The Beach,1z3JpopRPKyyHM6YNoq7kE,0.653,0.425,9,-8.818,1,0.0265,0.02,0.638,0.674,90.976,201400,4,5oBpxK3bSEGeENPP6C5QMO,41.0,44.0,daily_mix_4
@@ -207,23 +207,23 @@ Smushie,Complete Annihilation!,Complete Annihilation!,252brHktw7kGAdCCahQpW8,0.6
 Karate,Some Boots,Original Spies,451AZfnRTHCr8tP2GDynlE,0.599,0.608,8,-5.989,1,0.0316,1.15e-05,0.0768,0.648,117.662,398907,4,6U26vGPwnCQcNDr9Dpj0Y0,39.0,38.0,daily_mix_5
 King Missile,Mystical Shit/Fluting on the Hump,Sensitive Artist,54UPoHNQuqAqOQAZ2hl1il,0.458,0.557,5,-13.445,1,0.0375,0.105,0.496,0.893,121.715,158227,4,4ab0zJgTZPWz00v2PrdJI4,44.0,38.0,daily_mix_5
 Jerry Paper,Kno Me,Kno Me,6XaMOKR9NHzIFIgNQrpYvU,0.617,0.617,8,-7.008,1,0.0296,0.769,0.291,0.734,134.93,216537,4,2gzxBoK71ohENPlxlshHV7,43.0,46.0,daily_mix_5
-Balkans,Balkans,Flowers Everywhere,14TC9zbh5C4K6ey8J2ZCdS,0,0.858,3,-5.892,1,0,0.000534,0.232,0,0,246987,0,6ozbYaDYh9AFYciPvk6iBO,38.0,31.0,daily_mix_5
+Balkans,Balkans,Flowers Everywhere,14TC9zbh5C4K6ey8J2ZCdS,0.0,0.858,3,-5.892,1,0.0,0.000534,0.232,0.0,0.0,246987,0,6ozbYaDYh9AFYciPvk6iBO,38.0,31.0,daily_mix_5
 5ive Style,5ive Style,Deep Marsh,1589JkTKSHcTlsFBkO41gI,0.644,0.567,11,-6.563,1,0.0343,0.871,0.164,0.693,74.548,196107,4,6hQXeK9vIfU31u72NdFZ7Q,41.0,28.0,daily_mix_5
 Anthony Moore,Out,Stitch in Time,1IrrcAS7VL8gUcOF0KHBfU,0.454,0.699,7,-8.488,1,0.0299,2.54e-05,0.415,0.289,146.597,188027,3,4uJt75N8u4RRQQ6hKYYIaS,40.0,27.0,daily_mix_5
 Jonathan Richman & The Modern Lovers,Roadrunner: The Beserkley Collection,The Morning of Our Lives,2rneJaaVTvpEnq22TiCzE9,0.602,0.292,9,-15.337,1,0.0785,0.00146,0.714,0.315,104.192,326853,4,0NjdXlUziaK1qv3kgZV4Jy,45.0,43.0,daily_mix_5
-The Replacements,Tim (Expanded),Swingin Party - 2008 Remaster,14g6foD6sxO1qgkDKuPgWv,0.647,0.69,6,-8.657,0,0.0454,0,0.147,0.682,117.514,233573,4,4WPY0N74T3KUja57xMQTZ3,60.0,56.0,daily_mix_5
-The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition,Who Loves the Sun - 2015 Remaster,1rJi8cf8OWsrX4CqBnMSoQ,0.441,0.568,4,-8.833,1,0.0298,0,0.368,0.721,130.131,166213,4,1nJvji2KIlWSseXRSlNYsC,57.0,67.0,daily_mix_5
+The Replacements,Tim (Expanded),Swingin Party - 2008 Remaster,14g6foD6sxO1qgkDKuPgWv,0.647,0.69,6,-8.657,0,0.0454,0.0,0.147,0.682,117.514,233573,4,4WPY0N74T3KUja57xMQTZ3,60.0,56.0,daily_mix_5
+The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition,Who Loves the Sun - 2015 Remaster,1rJi8cf8OWsrX4CqBnMSoQ,0.441,0.568,4,-8.833,1,0.0298,0.0,0.368,0.721,130.131,166213,4,1nJvji2KIlWSseXRSlNYsC,57.0,67.0,daily_mix_5
 Karate,The Bed Is In The Ocean,There Are Ghosts,6mBhzvszzmVcwG2lCOuuT4,0.556,0.369,9,-10.797,0,0.0346,0.028,0.355,0.238,115.076,219933,4,6U26vGPwnCQcNDr9Dpj0Y0,40.0,38.0,daily_mix_5
 Pixies,Doolittle,Hey,0p5eZCY0R7uNCZS1YDtIYI,0.59,0.372,7,-12.37,1,0.0318,0.00929,0.316,0.306,99.887,210907,4,6zvul52xwTWzilBZl6BUbT,71.0,73.0,daily_mix_5
 The Strokes,Comedown Machine,"Call It Fate, Call It Karma",3Y4rUyw7XBCK6hGHCOt6rp,0.544,0.241,4,-14.779,0,0.03,0.774,0.101,0.359,109.437,204773,4,0epOFNiUfyON9EYx7Tpr6V,73.0,80.0,daily_mix_5
 Talking Heads,Speaking in Tongues (Deluxe Version),This Must Be the Place (Naive Melody) - 2005 Remaster,6aBUnkXuCEQQHAlTokv9or,0.942,0.641,7,-10.15,1,0.0333,0.179,0.028,0.966,114.443,296147,4,2x9SpqnPi8rlE9pjHBwmSC,72.0,71.0,daily_mix_5
 Television,Adventure,Carried Away - 2003 Remaster,4t87dWb7q5e7TtWMFeV0Z8,0.616,0.367,2,-11.135,1,0.0323,0.177,0.246,0.366,116.526,312253,4,0S7Zur2g8YhqlzqtlYStli,36.0,49.0,daily_mix_5
 Silver Jews,The Natural Bridge,The Right to Remain Silent,3jWYXvTSGEZhEaJEZYnG42,0.481,0.351,9,-15.11,0,0.0399,0.902,0.114,0.608,174.534,156600,4,4ePunOqQbOYoQwd1298g3Z,42.0,48.0,daily_mix_5
-The Replacements,Let It Be (Expanded),Androgynous,3fnL2JDgy4QD04araOl0eY,0.476,0.361,11,-9.312,1,0.0287,0,0.0817,0.389,106.484,190853,4,4WPY0N74T3KUja57xMQTZ3,54.0,56.0,daily_mix_5
+The Replacements,Let It Be (Expanded),Androgynous,3fnL2JDgy4QD04araOl0eY,0.476,0.361,11,-9.312,1,0.0287,0.0,0.0817,0.389,106.484,190853,4,4WPY0N74T3KUja57xMQTZ3,54.0,56.0,daily_mix_5
 The Velvet Underground,Loaded: Re-Loaded 45th Anniversary Edition,Rock and Roll - Full Length Version; 2015 Remaster,1o6DclZHw0HomxXEQR1ijX,0.494,0.735,5,-8.347,1,0.0345,3.14e-06,0.544,0.742,132.526,283000,4,1nJvji2KIlWSseXRSlNYsC,60.0,67.0,daily_mix_5
 Pixies,Doolittle,Here Comes Your Man,4IvZLDtwBHmBmwgDIUbuwa,0.669,0.795,2,-10.865,1,0.0285,0.0781,0.401,0.882,124.594,201187,4,6zvul52xwTWzilBZl6BUbT,71.0,73.0,daily_mix_5
 Various Artists,If I Were A Carpenter,Superstar,5Ext9ObPEi7wIcv5AiQWJy,0.317,0.498,5,-9.137,0,0.0315,0.306,0.121,0.141,84.563,246000,4,0LyfQWJT6nXafLPZqxe9Of,64.0,0.0,daily_mix_5
-Jonathan Richman & The Modern Lovers,Jonathan Sings!,That Summer Feeling,0yULzvtl2NIahJiej2fVPi,0.638,0.279,9,-11.536,1,0.078,0,0.116,0.62,110.076,236733,4,0NjdXlUziaK1qv3kgZV4Jy,40.0,43.0,daily_mix_5
+Jonathan Richman & The Modern Lovers,Jonathan Sings!,That Summer Feeling,0yULzvtl2NIahJiej2fVPi,0.638,0.279,9,-11.536,1,0.078,0.0,0.116,0.62,110.076,236733,4,0NjdXlUziaK1qv3kgZV4Jy,40.0,43.0,daily_mix_5
 The Clash,Combat Rock (Remastered),Straight to Hell - Remastered,2ax1vei61BzRGsEn6ckEdL,0.802,0.596,7,-11.663,1,0.06,1.17e-05,0.0695,0.702,90.275,330507,4,3RGLhK1IP9jnYFH4BRFJBS,58.0,73.0,daily_mix_5
 Talking Heads,Remain in Light (Deluxe Version),Once in a Lifetime - 2005 Remaster,38Ngied9rBORlAbLYNCl4k,0.644,0.919,2,-6.289,1,0.0561,0.134,0.622,0.871,117.459,259907,4,2x9SpqnPi8rlE9pjHBwmSC,70.0,71.0,daily_mix_5
 The Replacements,Pleased to Meet Me (Expanded),Nightclub Jitters - 2008 Remaster,0NYs3fResVqrOVUEPd8Q4k,0.677,0.277,0,-14.324,1,0.0421,1.99e-05,0.111,0.326,114.534,166023,4,4WPY0N74T3KUja57xMQTZ3,37.0,56.0,daily_mix_5
@@ -272,10 +272,10 @@ Balkans,Balkans,Troubled And Done,3wsyIaE9IU0OhaIB2FbowI,0.52,0.835,6,-4.897,0,0
 The Nude Party,The Nude Party,Feels Alright,0QRPnkRK35yM6wYCQ1seo9,0.53,0.901,6,-5.761,1,0.0344,0.0175,0.0937,0.867,129.075,237253,4,5BxtbtwwHXC3HA5kAn06sK,50.0,48.0,daily_mix_6
 The Shivas,Feels So Good // Feels So Bad,If I Could Choose,54eGgIfV3RvgUVgKpr4Fuw,0.37,0.685,7,-7.836,1,0.0327,0.00461,0.156,0.819,183.768,189734,4,2OZfuhYQm8IY95egVPC1U9,26.0,42.0,daily_mix_6
 The Murlocs,Manic Candid Episode,Comfort Zone,7BnmRy2ivxW28hoApDWFKX,0.485,0.578,10,-6.157,1,0.0353,0.00222,0.105,0.346,127.135,239667,4,0rH93aHDYyJfMAcPB9OKus,34.0,48.0,daily_mix_6
-Jeffrey Lewis,A Turn in the Dream-Songs,Cult Boyfriend,4yYkAGcxY6H0NtNaRTzmpH,0.584,0.71,9,-7.64,1,0.198,0,0.307,0.924,79.34,156800,4,2Icsf5D1lAs2EFx6kggg5D,44.0,43.0,daily_mix_6
+Jeffrey Lewis,A Turn in the Dream-Songs,Cult Boyfriend,4yYkAGcxY6H0NtNaRTzmpH,0.584,0.71,9,-7.64,1,0.198,0.0,0.307,0.924,79.34,156800,4,2Icsf5D1lAs2EFx6kggg5D,44.0,43.0,daily_mix_6
 Self-Help,If I Left the Country...,Whippits,4ZpogCvkBfWLNxxa8nXkMA,0.437,0.626,11,-10.213,1,0.0387,0.0005,0.119,0.653,144.308,208810,4,6wI83RGyqZKQ6nJ3aKiLOz,22.0,28.0,daily_mix_6
 Habibi,Habibi,Sweetest Talk,3Xt9sp779WQWqLYPVbLU0q,0.553,0.556,5,-9.98,1,0.0421,0.0447,0.123,0.763,172.869,137760,4,600GgDUq9kzGJgNIrVsWfz,37.0,39.0,daily_mix_6
-Balkans,Balkans,Flowers Everywhere,14TC9zbh5C4K6ey8J2ZCdS,0,0.858,3,-5.892,1,0,0.000534,0.232,0,0,246987,0,6ozbYaDYh9AFYciPvk6iBO,38.0,31.0,daily_mix_6
+Balkans,Balkans,Flowers Everywhere,14TC9zbh5C4K6ey8J2ZCdS,0.0,0.858,3,-5.892,1,0.0,0.000534,0.232,0.0,0.0,246987,0,6ozbYaDYh9AFYciPvk6iBO,38.0,31.0,daily_mix_6
 Moses Gunn Collective,Mercy Mountain,Shalala,0Bl1Gt8R9kjz7JO7SYAuhe,0.452,0.729,7,-5.6,1,0.0304,0.0583,0.115,0.46,84.005,228015,4,66riSKDVOc3vPkeyju0q0o,59.0,47.0,daily_mix_6
 Ceramic Animal,Sweet Unknown,Tangled,4LbzdtRMTssvtEiGaf1lnS,0.649,0.683,5,-8.113,1,0.0378,0.000299,0.0796,0.803,121.71,227373,4,42PLkpL4mM4Szp7fiyj15X,49.0,45.0,daily_mix_6
 The Nude Party,The Nude Party,Chevrolet Van,5QpkOt3hpNf4zns6FJ7JRH,0.577,0.81,4,-5.822,0,0.0412,8.41e-05,0.267,0.76,118.352,258147,4,5BxtbtwwHXC3HA5kAn06sK,53.0,48.0,daily_mix_6
@@ -296,6 +296,56 @@ Babe Rainbow,Today,Something New,24eMGcmzxR64yf45pN4K8i,0.629,0.597,11,-10.571,1
 Post Animal,When I Think Of You In A Castle,Ralphie,0ubtINXSfA7mFoza07BBap,0.442,0.824,5,-4.569,1,0.0486,2.35e-06,0.224,0.389,144.249,275933,4,4iaDWP59Z3e62DW7YWDbIE,47.0,47.0,daily_mix_6
 Current Joys,Kids,Kids,3pyyGVqWvRMq43qtJBzxe0,0.828,0.66,6,-9.669,1,0.0337,0.403,0.0755,0.904,113.45,269143,4,0m5FakHKCQdA7UN0PIzMcL,76.0,72.0,daily_mix_6
 Cage The Elephant,Thank You Happy Birthday,Flow,0MUzalPwRItswsuNThydQg,0.745,0.619,4,-10.939,0,0.0331,0.0126,0.133,0.0906,107.025,208200,4,26T3LtbuGT1Fu9m0eRq5X3,54.0,79.0,daily_mix_6
-The Growlers,City Club,I'll Be Around,1EXMtjti643XyQLiGDdki0,0.485,0.904,8,-3.48,0,0.0465,0,0.182,0.898,92.067,287136,4,2RhgnQNC74QoBlaUvT4MEe,54.0,65.0,daily_mix_6
+The Growlers,City Club,I'll Be Around,1EXMtjti643XyQLiGDdki0,0.485,0.904,8,-3.48,0,0.0465,0.0,0.182,0.898,92.067,287136,4,2RhgnQNC74QoBlaUvT4MEe,54.0,65.0,daily_mix_6
 Surf Curse,Disco,Disco,2Lumsra3kuU61wXkEKzKaK,0.473,0.621,11,-8.698,0,0.0291,0.000366,0.19,0.782,173.083,152761,4,1gl0S9pS0Zw0qfa14rDD3D,72.0,75.0,daily_mix_6
 The Nude Party,The Nude Party,Astral Man,4Ig9HspUaKy2cz6YA8pb6O,0.371,0.683,9,-7.769,1,0.0293,0.019,0.343,0.537,130.231,334880,4,5BxtbtwwHXC3HA5kAn06sK,52.0,48.0,daily_mix_6
+Jack Harlow,First Class,First Class,1rDQ4oMwGJI7B4tovsBOxc,0.905,0.563,8,-6.135,1,0.102,9.71e-06,0.113,0.324,106.998,173948,4,2LIk90788K0zvyj2JJVwkJ,92.0,90.0,popular_50
+Harry Styles,As It Was,As It Was,4LRPiXqCikLlN15c3yImP7,0.52,0.731,6,-5.338,0,0.0557,0.00101,0.311,0.662,173.93,167303,4,6KImCVD70vtIoJWnq6nGn3,100.0,91.0,popular_50
+Glass Animals,Dreamland (+ Bonus Levels),Heat Waves,02MWAaffLxlfxAUY7c5dvx,0.761,0.525,11,-6.9,1,0.0944,6.7e-06,0.0921,0.531,80.87,238805,4,4yvcSjfu4PC0CYQyLy4wSq,94.0,87.0,popular_50
+Lil Nas X,MONTERO,INDUSTRY BABY (feat. Jack Harlow),5Z9KJZvQzH6PFmb8SNkxuk,0.741,0.691,10,-7.395,0,0.0672,0,0.0476,0.892,150.087,212353,4,7jVv8c5Fj3E9VhNjxT4snq,89.0,89.0,popular_50
+The Kid LAROI,F*CK LOVE 3: OVER YOU,STAY (with Justin Bieber),5PjdY0CKGZdEuoNab3yDmX,0.591,0.764,1,-5.484,1,0.0483,0,0.103,0.478,169.928,141806,4,2tIP7SsRs7vjIcLrU85W8J,92.0,88.0,popular_50
+Olivia Rodrigo,SOUR,good 4 u,4ZtFanR9U6ndgddUvNcjcG,0.563,0.664,9,-5.044,1,0.154,0,0.0849,0.688,166.928,178147,4,1McMsnEElThX1knmY4oliG,94.0,91.0,popular_50
+Jack Harlow,Nail Tech,Nail Tech,62Yo3FDddWY8ydu6PW2wyz,0.647,0.581,4,-7.678,0,0.0884,7.76e-06,0.119,0.113,150.149,206385,4,2LIk90788K0zvyj2JJVwkJ,89.0,90.0,popular_50
+Imagine Dragons,Mercury - Act 1,Enemy (with JID) - from the series Arcane League of Legends,1HhNoOuqm1a5MXYEgAFl8o,0.728,0.783,11,-4.424,0,0.266,0,0.434,0.555,77.011,173381,4,53XhwfbYqKCa1cC15pYq2q,88.0,92.0,popular_50
+Kodak Black,Back For Everything,Super Gremlin,1Y5Jvi3eLi4Chwqch9GMem,0.825,0.414,2,-6.634,1,0.144,0,0.357,0.106,72.993,200548,4,46SHBwWsqBkxI7EeeBEQG7,77.0,86.0,popular_50
+Doja Cat,Planet Her,Woman,6Uj1ctrBOjOas8xZXGqKk4,0.824,0.764,5,-4.175,0,0.0854,0.00294,0.117,0.881,107.998,172627,4,5cj0lLjcoR7YOSnhnX0Po5,95.0,94.0,popular_50
+Justin Bieber,Justice,Ghost,6I3mqTwhRpn34SLVafSH7G,0.601,0.741,2,-5.569,1,0.0478,2.91e-05,0.415,0.441,153.96,153190,4,1uNFoZAHBGtllmzznpCI3s,92.0,96.0,popular_50
+J. Cole,2014 Forest Hills Drive,No Role Modelz,68Dni7IE4VyPkTOH9mRWHr,0.69,0.521,10,-8.492,0,0.339,0,0.0534,0.494,100.028,292799,4,6l3HvQ5sa6mXTsMTB19rO5,89.0,90.0,popular_50
+Lil Baby,Right On,Right On,6ws54n2IzyrIxxyzlG2bVJ,0.535,0.618,2,-5.668,1,0.382,0,0.103,0.211,165.991,213976,4,5f7VJjfbwm532GiveGC0ZK,77.0,92.0,popular_50
+Lin-Manuel Miranda,Encanto (Original Motion Picture Soundtrack),We Don't Talk About Bruno,52xJxFP6TqMuO4Yt0eOkMz,0.577,0.45,0,-8.516,0,0.0834,0,0.111,0.83,205.863,216120,4,4aXXDj9aZnlshx7mzj3W1N,92.0,78.0,popular_50
+Drake,Certified Lover Boy,Knife Talk (with 21 Savage ft. Project Pat),2BcMwX1MPV6ZHP4tUT9uq6,0.849,0.424,5,-9.579,0,0.324,0,0.0834,0.153,145.887,242966,4,3TVXtAsR1Inumwj472S9r4,88.0,98.0,popular_50
+Doja Cat,Planet Her,Need to Know,3Vi5XqYrmQgOYBajMWSvCi,0.664,0.609,1,-6.509,1,0.0707,0,0.0926,0.194,130.041,210560,4,5cj0lLjcoR7YOSnhnX0Po5,91.0,94.0,popular_50
+Camila Cabello,Familia,Bam Bam (feat. Ed Sheeran),2DB4DdfCFMw1iaR6JaR03a,0.756,0.697,8,-6.377,1,0.0401,0,0.333,0.956,94.996,206071,4,4nDoRrQiYLoBzwC5BhVJzF,68.0,88.0,popular_50
+The Walters,I Love You So,I Love You So,4SqWKzw0CbA05TGszDgMlc,0.575,0.648,10,-4.891,1,0.0358,0,0.115,0.466,75.977,160240,4,027TpXKGwdXP7iwbjUSpV8,93.0,78.0,popular_50
+Lil Nas X,MONTERO,THATS WHAT I WANT,0e8nrvls4Qqv5Rfa2UhqmO,0.737,0.846,1,-4.51,0,0.22,0,0.0486,0.546,87.981,143901,4,7jVv8c5Fj3E9VhNjxT4snq,94.0,89.0,popular_50
+Lil Tjay,In My Head,In My Head,1HvTxgCj0mTzQlEo0zLvFb,0.684,0.545,1,-6.885,1,0.121,0,0.102,0.407,143.049,135264,4,6jGMq4yGs7aQzuGsMgVgZR,87.0,86.0,popular_50
+Arctic Monkeys,Favourite Worst Nightmare (Standard Version),505,58ge6dfP91o9oXMzq3XkIS,0.52,0.852,0,-5.866,1,0.0543,5.79e-05,0.0733,0.234,140.267,253587,4,7Ln80lUS6He07XvHI8qqHH,84.0,88.0,popular_50
+Steve Lacy,Dark Red,Dark Red,37y7iDayfwm3WXn5BiAoRk,0.603,0.783,6,-4.023,1,0.062,7.96e-06,0.119,0.775,172.041,173104,4,57vWImR43h4CaDao012Ofp,89.0,81.0,popular_50
+Dove Cameron,Boyfriend,Boyfriend,59CfNbkERJ3NoTXDvoURjj,0.345,0.612,7,-6.543,0,0.0608,0,0.194,0.232,179.773,153000,3,2W8yFh0Ga6Yf3jiayVxwkE,93.0,80.0,popular_50
+"Tyler, The Creator",Flower Boy,See You Again (feat. Kali Uchis),7KA4W4McWYRpgf0fWsJZWB,0.558,0.559,6,-9.222,1,0.0959,7.49e-06,0.109,0.62,78.558,180387,4,4V8LLVI7PbaPR0K2TGSxFF,87.0,90.0,popular_50
+Olivia Rodrigo,SOUR,traitor,5CZ40GBx1sQ9agT82CLQCT,0.38,0.339,3,-7.885,1,0.0338,0,0.12,0.0849,100.607,229227,4,1McMsnEElThX1knmY4oliG,92.0,91.0,popular_50
+Baby Keem,The Melodic Blue,family ties (with Kendrick Lamar),3QFInJAm9eyaho5vBzxInN,0.711,0.611,1,-5.453,1,0.33,0,0.23,0.144,134.093,252262,4,5SXuuuRpukkTvsLuUknva1,81.0,82.0,popular_50
+The Neighbourhood,I Love You.,Sweater Weather,2QjOHCTQ1Jl3zawyYOpxh6,0.612,0.807,10,-2.81,1,0.0336,0.0177,0.101,0.398,124.053,240400,4,77SW9BnxLY8rJ0RciFqkHh,92.0,89.0,popular_50
+WILLOW,ARDIPITHECUS,Wait a Minute!,0y60itmpH0aPKsFiGxmtnh,0.764,0.705,3,-5.279,0,0.0278,1.94e-05,0.0943,0.672,101.003,196520,4,3rWZHrfrsPBxVy692yAIxF,88.0,83.0,popular_50
+Elton John,The Lockdown Sessions,Cold Heart - PNAU Remix,7rglLriMNBPAyuJOMGwi39,0.795,0.8,1,-6.32,1,0.0309,7.25e-05,0.0915,0.934,116.032,202735,4,3PhoLpVuITZKcymswpck5b,77.0,88.0,popular_50
+Ed Sheeran,=,Shivers,50nfwKoDiSYg8zOCREWAm5,0.788,0.859,2,-2.724,1,0.0856,0,0.0424,0.822,141.02,207853,4,6eUKZXaKkcviH0Ku9w2n3V,94.0,96.0,popular_50
+Doja Cat,Planet Her,Kiss Me More (feat. SZA),3DarAbFujv6eYNliUTyqtz,0.764,0.705,8,-3.463,1,0.0284,8.92e-05,0.12,0.781,110.97,208667,4,5cj0lLjcoR7YOSnhnX0Po5,87.0,94.0,popular_50
+Gunna,DS4EVER,pushin P (feat. Young Thug),3XOalgusokruzA5ZBA2Qcb,0.773,0.422,1,-4.572,0,0.187,0.00693,0.129,0.488,77.502,136267,1,2hlmm7s2ICUX0LVIhVFlZQ,89.0,91.0,popular_50
+Yeat,Up 2 Më,Monëy so big,7BbaIYAdi3pg4MGl6PHwPv,0.693,0.575,2,-7.633,1,0.0906,0,0.104,0.353,138.016,160052,4,3qiHUAX7zY4Qnjx8TNUzVx,87.0,86.0,popular_50
+Shawn Mendes,When You're Gone,When You're Gone,0U1W2LZVUX7qTm7dDpqxh6,0.603,0.691,5,-5.805,1,0.0372,0,0.583,0.577,147.148,172267,4,7n2wHs1TKAczGzO7Dd2rGr,88.0,89.0,popular_50
+Frank Ocean,channel ORANGE,Lost,3GZD6HmiNUhxXYf8Gch723,0.913,0.603,8,-4.892,1,0.226,0.000503,0.167,0.497,123.061,234093,4,2h93pZq0e7k5yf4dywlkpM,89.0,87.0,popular_50
+Billie Eilish,Happier Than Ever,Happier Than Ever,4RVwu0g32PAqgUiJoXsdF8,0.332,0.225,0,-8.697,1,0.0348,0.00349,0.128,0.297,81.055,298899,3,6qqNVTkY8uBg9cP3Jd7DAH,91.0,92.0,popular_50
+Adele,30,Easy On Me,46IZ0fSY2mpAiktS3KOqds,0.604,0.366,5,-7.519,1,0.0282,0,0.133,0.13,141.981,224695,4,4dpARuHxo51G3z768sgnrY,88.0,91.0,popular_50
+Morgan Wallen,Dangerous: The Double Album,Wasted On You,3cBsEDNhFI9E82vPj3kvi3,0.505,0.657,11,-5.24,0,0.0318,0.00107,0.126,0.252,196.0,178520,3,4oUHIQIBe0LHzYfvXNW4QM,82.0,86.0,popular_50
+Olivia Rodrigo,SOUR,deja vu,6HU7h9RYOaPRFeh0R3UeAr,0.442,0.612,2,-7.222,1,0.112,5.7e-06,0.37,0.178,180.917,215507,4,1McMsnEElThX1knmY4oliG,90.0,91.0,popular_50
+Em Beihold,Numb Little Bug,Numb Little Bug,3o9kpgkIcffx0iSwxhuNI2,0.742,0.527,8,-6.892,0,0.0769,0,0.25,0.638,84.974,169238,4,7o2ZQYM7nTsaVdkXY38UAA,89.0,74.0,popular_50
+GAYLE,abcdefu,abcdefu,4fouWK6XVHhzl78KzQ1UjL,0.695,0.54,4,-5.692,1,0.0493,0,0.367,0.415,121.932,168602,4,2VSHKHBTiXWplO8lxcnUC9,97.0,83.0,popular_50
+Elley Duhé,MIDDLE OF THE NIGHT,MIDDLE OF THE NIGHT,58HvfVOeJY7lUuCqF0m3ly,0.41,0.611,4,-8.271,0,0.0467,0,0.116,0.0899,185.727,184448,3,67MNhiAICFY6Pwc2YxCO0K,94.0,80.0,popular_50
+Charlie Puth,Light Switch (Instrumental),Light Switch,3AVXwaOGCEL8cmBecfcsFJ,0.69,0.626,6,-5.693,1,0.306,0.000335,0.0881,0.912,184.009,185681,4,6VuMaDnrHyPL1p4EHjYLi7,82.0,85.0,popular_50
+Lil Durk,7220,Broadway Girls (feat. Morgan Wallen),2pOUHNwZJrFffS42SxPwt0,0.659,0.745,10,-3.599,1,0.0347,0,0.296,0.54,74.967,185600,4,3hcs9uc56yIGFCSy9leWe7,74.0,90.0,popular_50
+Yahritza Y Su Esencia,Soy El Unico,Soy El Unico,6QBqlD1zfGNZa7dNTLcx4B,0.625,0.457,4,-4.397,0,0.0296,0,0.109,0.67,168.753,213972,3,51ZSh80McCt7vbqHouzW0A,0.0,69.0,popular_50
+"Tyler, The Creator",IGOR,NEW MAGIC WAND,0fv2KH6hac06J86hBUTcSf,0.621,0.73,5,-5.414,0,0.107,0.000131,0.673,0.464,139.566,195320,4,4V8LLVI7PbaPR0K2TGSxFF,87.0,90.0,popular_50
+Lil Durk,7220,What Happened To Virgil (feat. Gunna),7ohROa13QK43JBRqfCmz4P,0.795,0.526,6,-9.086,0,0.204,2e-06,0.134,0.194,140.037,181393,4,3hcs9uc56yIGFCSy9leWe7,81.0,90.0,popular_50
+Becky G,MAMIII,MAMIII,1ri9ZUkBJVFUdgwzCnfcYs,0.843,0.7,4,-3.563,0,0.0803,0,0.14,0.899,93.991,226088,4,4obzFoKoKRHIphyHzJ35G3,95.0,86.0,popular_50
+Lil Uzi Vert,Luv Is Rage 2 (Deluxe),20 Min,0uxSUdBrJy9Un0EYoBowng,0.773,0.75,8,-4.009,0,0.117,0,0.174,0.783,123.426,220587,4,4O15NlyKLIASxsJ0PrXPfz,86.0,90.0,popular_50
+NEIKED,Better Days (NEIKED x Mae Muller x Polo G),Better Days (NEIKED x Mae Muller x Polo G),6f5ExP43esnvdKPddwKXJH,0.717,0.671,0,-5.077,0,0.0337,2.54e-06,0.0921,0.699,110.054,160657,4,5H6xmHXjsq98NLbEjuE29f,88.0,74.0,popular_50
