@@ -43,3 +43,6 @@ ax.set_xticklabels(["1", "2", "3", "4", "5", "6", "Top 50"])
 plt.show()
 
 # %%
+bx = sns.scatterplot(x='artist_pop',y='track_pop', hue = 'name', alpha = 1, data=df)
+plt.show()
+# %%
