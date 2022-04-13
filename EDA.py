@@ -32,4 +32,14 @@ for var in list:
 
 # %%
 df[ df['name'] == 'daily_mix_2'].head()
+df[ df['name'] == 'daily_mix_4'].head()
+df[ df['name'] == 'daily_mix_3'].head()
+
+# %%
+# nice plot
+ax = sns.boxplot(x='name',y='track_pop', data=df)
+ax.set(title = 'Average Track Popularity by Playlist', xlabel = 'Playlist', ylabel = 'Popularity')
+ax.set_xticklabels(["1", "2", "3", "4", "5", "6", "Top 50"])
+plt.show()
+
 # %%
