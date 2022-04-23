@@ -58,3 +58,9 @@ def grabMore(file):
 # test 
 grabMore('daily_mix_1.csv')
 # %%
+# run 
+all_mixes = grabMore('all_mixes.csv')
+all_mixes.to_csv("all_mixes.csv", index = False)
+
+
+# %%
