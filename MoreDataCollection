@@ -43,28 +43,18 @@ sp.track('0WTq8iUzSlGDAbowEdRKKD')['album']['release_date']
 # define function to grab genre and release date data from previous dataframe
 def grabMore(file):
     
-    # Create empty dataframe
-    playlist_features_list = []
-    
-    playlist_df = pd.DataFrame(file)
+    playlist_df = pd.read_csv(file)
     
     # Loop through every track in the dataframe, extract features and append the features to the playlist df
     
     tracklist = playlist_df['track_id']
     for track in tracklist:        # Create empty dict
-        playlist_features = {}        # Get metadata
-        playlist_features["artist_pop"] = sp.artist(playlist_features["artist_id"])['popularity']
-        
-        # Get audio features
-        audio_features = sp.audio_features(playlist_features["track_id"])[0]
-        for feature in playlist_features_list[4:]:
-            playlist_features[feature] = audio_features[feature]
-        
-        # Get artist popularity
-        
-
-        # Concat the dfs
-        track_df = pd.DataFrame(playlist_features, index = [0])
-        playlist_df = pd.concat([playlist_df, track_df], ignore_index = True)
+        playlist_df["album_id"] = sp.track(track)['album']['id']
+        playlist_df["release_date"] = sp.track(track)['album']['release_date']
         
     return playlist_df
+
+# %%
+# test 
+grabMore('daily_mix_1.csv')
+# %%
