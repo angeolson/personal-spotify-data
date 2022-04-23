@@ -7,6 +7,17 @@ import matplotlib.pyplot as plt
 df = pd.read_csv("all_mixes.csv")
 sns.set_theme(style="darkgrid", palette="Paired")
 
+# clean  date 
+from datetime import datetime
+
+def cleanDfDate(row):
+  date = row["release_date"]
+
+  date = date.strip()
+  return datetime.strptime(date, '%Y-%m-%d')
+
+df["release_date"] = df.apply(cleanDfDate, axis=1)
+
 #%%
 df['popDif'] = df['artist_pop'] - df['track_pop']
  # if positive, artist is more pop. than the given track
