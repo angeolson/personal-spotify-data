@@ -49,9 +49,13 @@ def grabMore(file):
     
     tracklist = playlist_df['track_id']
     for track in tracklist:        # Create empty dict
-        playlist_df["album_id"] = sp.track(track)['album']['id']
-        playlist_df["release_date"] = sp.track(track)['album']['release_date']
-        
+        track_features = {}   
+        track_features["album_id"] = sp.track(track)['album']['id']
+        track_features["release_date"] = sp.track(track)['album']['release_date']
+
+    playlist_df["album_id"] = track_features["album_id"]
+    playlist_df["release_date"] = track_features["release_date"]
+
     return playlist_df
 
 # %%
@@ -63,4 +67,8 @@ all_mixes = grabMore('all_mixes.csv')
 all_mixes.to_csv("all_mixes.csv", index = False)
 
 
+# %%
+for id in tracklist:
+    print(sp.track(id)['album']['id'])
+    print(sp.track(id)['album']['release_date'])
 # %%
