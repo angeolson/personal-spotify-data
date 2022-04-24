@@ -10,13 +10,24 @@ sns.set_theme(style="darkgrid", palette="Paired")
 # clean  date 
 from datetime import datetime
 
-def cleanDfDate(row):
+#def cleanDfDate(row):
+  #date = row["release_date"]
+
+  #date = date.strip()
+  #if len(date) > 6: return datetime.strptime(date, '%Y-%m-%d')
+  #return
+
+#df["release_date"] = df.apply(cleanDfDate, axis=1)
+
+def extractYear(row):
   date = row["release_date"]
-
+  date = date[0:4]
   date = date.strip()
-  return datetime.strptime(date, '%Y-%m-%d')
+  if len(date) > 3: return datetime.strptime(date, '%Y').year
+  
+  return np.NaN
 
-df["release_date"] = df.apply(cleanDfDate, axis=1)
+df["release_year"] = df.apply(extractYear, axis=1)
 
 #%%
 df['popDif'] = df['artist_pop'] - df['track_pop']
@@ -69,7 +80,24 @@ plt.show()
 
 sns.scatterplot(x='track_pop',y='speechiness', hue = 'name', alpha = 1, data=df)
 plt.show()
+
 # %%
 matrix = df.corr().round(2)
 matrix
+
+
 # %%
+table = pd.pivot_table(df, index = 'release_year')
+
+# %%
+sns.lineplot(data=table, x="release_year", y="danceability")
+
+# %%
+sns.kdeplot(data = df, x= 'release_year').set(title = "release year")
+plt.show()
+
+
+ax = sns.boxplot(x='name',y='release_year', data=df)
+ax.set(title = "release year")
+ax.set_xticklabels(["1", "2", "3", "4", "5", "6", "Top 50"])
+plt.show()
