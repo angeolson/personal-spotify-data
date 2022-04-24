@@ -46,29 +46,26 @@ def grabMore(file):
     playlist_df = pd.read_csv(file)
     
     # Loop through every track in the dataframe, extract features and append the features to the playlist df
-    
+    return_df = pd.DataFrame()
+
     tracklist = playlist_df['track_id']
     for track in tracklist:        # Create empty dict
-        track_features = {}   
+        track_features = {}
         track_features["album_id"] = sp.track(track)['album']['id']
         track_features["release_date"] = sp.track(track)['album']['release_date']
-
-    playlist_df["album_id"] = track_features["album_id"]
-    playlist_df["release_date"] = track_features["release_date"]
-
+        track_df = pd.DataFrame(track_features, index = [0])
+        return_df = pd.concat([return_df, track_df], ignore_index = True)
+    
+    playlist_df = playlist_df.join(return_df)
     return playlist_df
 
 # %%
 # test 
-grabMore('daily_mix_1.csv')
+test1 = grabMore('daily_mix_1.csv')
+test1
 # %%
 # run 
 all_mixes = grabMore('all_mixes.csv')
 all_mixes.to_csv("all_mixes.csv", index = False)
 
-
-# %%
-for id in tracklist:
-    print(sp.track(id)['album']['id'])
-    print(sp.track(id)['album']['release_date'])
 # %%
