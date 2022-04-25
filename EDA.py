@@ -101,3 +101,6 @@ ax = sns.boxplot(x='name',y='release_year', data=df)
 ax.set(title = "release year")
 ax.set_xticklabels(["1", "2", "3", "4", "5", "6", "Top 50"])
 plt.show()
+
+#%%
+df.to_csv("all_mixes.csv", index = False)
