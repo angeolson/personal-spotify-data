@@ -12,20 +12,8 @@ os.environ['SPOTIPY_CLIENT_SECRET']='abb7798983df4103a7ad4d56a2c2e819'
 os.environ['SPOTIPY_REDIRECT_URI']='http://example.com/callback/'
 
 # %%
-# test run
-import spotipy
-from spotipy.oauth2 import SpotifyOAuth
+# create list of date playlists 
 
-scope = 'user-top-read'
-ranges = 'medium_term'
+playlists = ('1sqxQtlqaFdkzwgBWmAOj0', '4BH2iSSn6gp2Y7aoXE2418', '78WCgiYA6PTyozjEXf6w2q', '5DotuNGy338Chs7Qan1RSZ', '2w57HwX2uuSixDB2ko1zAn', '4N935x4PuErFNtjFFPoGEd', '4s8Nx83Kly4oz7Qn3QnFe7', '6ItJCHdi4Kk0rThHygLDfh', '68UvcatEae7JeIpSytxday', '3ULyaonWCIkfYsCT2NaiJG', '5WIDJyuXLsR6K0lSdc3qQA', '3g8L4XA4MqeHNkXAArX5va', '476YCNLHYFrA3TZv6ndsWc', '4hSTlJNsR2UmqG1m5Xg0SQ', '51XKnbtB5NsVs2DVSizZM9', '1DiSxOs2MsrClMiPlUK8VU', '5aF03xQPOkaYRqrhkrYZTg', '0lfYsJ4GOn0boOWqOUyAz1', '4mmzmY4JtcaPTJrrJxVtyK', '6QAtrtbSXnRMfUYrMTgrmu', '0dEaX5Yfs6ApBFpUlrIOid', '6Dk8SL4Nq6R492dIVHD0TH', '2MxAdckQqIZ5D03MLk1xHt', '2XLSQ1QKAO5boMNT0N6CeQ', '68GFaCmAFnlOZRd4Umwn49', '7BkGzCDd1WCAp1gvvUUZqh', '6E2bpee1u9rziK22BoB75F', '556J7Afa4MfMCOH4ZazGcx', '5h8YQjMAsonYVEGwQsfKpb', '5tbU6vENeAutDc7xL2ADWJ', '2Vi2u0SCMmHjVv81ytD9r2', '6vbBtYP8wCz3H1zrJgIafD', '1c4K9nzb4YaNJMAgWbxMsZ', '1DR9ItQMcv0OhzRafcdr2K', '5Pr3LgXjbVsu1rmEt2ngAc', '5dKfAhYli7zFZUVs13utDH', '1GgsGZ7ksyj09YE8T65B3Q', '0BQIdJk7LL3XPGIzxunH52', '2wE2tIXdswOcFgsjo9z2Od', '4ewmZo8lxYX7f0MrEEgdt4', '3K6QCHEEcq4M8Gg8OL9LNf', '6SMPEMjwqcXyogYs2ZdsOF', '4DGw52F60UP0H3kRw0onQu', '0zh15Pq2AXBpGYc4YwMcYc', '48qayzt1e5wZ4WI3TgM6ty', '5pGozCnIUoiO0nZrMa22nl', '40YahyGd432zziug7eqzuR', '5tL4Fy8Vjqs46REGC4iCq8', '2eR2S0zjnVTSr3RDYyrJ76', '162ojf1ESxZjOQ0AkmAtPK', '4Eayfp1Dek6tyoHTU8yqCd', '20YkCJJ6tiHMLeRgLSSX0m')
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
-
-sp_range = 'medium_term'
-
-results = sp.current_user_top_artists(time_range=sp_range, limit=50)
-
-for i, item in enumerate(results['items']):
-    print(i, item['name'])
-
-# works!
+# %%
