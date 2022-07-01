@@ -46,10 +46,15 @@ def playlistMonth(row):
 
 # apply functions
 df["playlist_year"] = df.apply(playlistYear, axis=1)
-df["playlist_month"] = df.apply(playlistYear, axis=1)
+df["playlist_month"] = df.apply(playlistMonth, axis=1)
+df["playlist_day"] = '01'
 
 # use separated month and year to create new date for playlist that combines any playlists from the month into one, effectively
-pd.to_datetime(df["name"], format='%m/%d/%y')
+cols = ["playlist_year", "playlist_month", "playlist_day"]
+df["playlist_date"] = df[cols].apply(lambda row: '-'.join(row.values.astype(str)), axis=1)
+
+# cast as date
+df["playlist_date"] = pd.to_datetime(df["playlist_date"], format='%Y-%m-%d')
 
 # %%
 string = '5/10/21'
