@@ -71,4 +71,12 @@ df["playlist_month"].value_counts()
 
 # every month has data 
 # %%
-# c
+# Create variable for seasons 
+df["playlist_season"] = df["playlist_month"].apply(lambda x: "Fall" if x in (9,10,11) else "Winter" if x in (12,1,2) else "Spring" if x in (3,4,5) else "Summer")
+
+# check season count
+df["playlist_season"].value_counts()
+
+# somewhat more balanced than month
+
+# %%
