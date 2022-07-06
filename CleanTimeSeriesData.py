@@ -23,9 +23,7 @@ df["release_year"] = df.apply(extractYear, axis=1)
 
 #%%
 # clean playlist date 
-# %%
-df.head()
-# %%
+
 def playlistYear(row):
     date = row["name"]
     date = date.strip()
@@ -57,10 +55,20 @@ df["playlist_date"] = df[cols].apply(lambda row: '-'.join(row.values.astype(str)
 df["playlist_date"] = pd.to_datetime(df["playlist_date"], format='%Y-%m-%d')
 
 # %%
-string = '5/10/21'
-len(string)
+# drop duplicates (for any songs that appeared in the same month's playlists)
+df = df.drop_duplicates(subset=None, keep="first", inplace=False)
 
-
-string2 = '6/1/2022'
-len(string2)
 # %%
+# Look at some top artists 
+df["artist"].value_counts().head(10)
+
+# %%
+# Look at some top tracks
+df["track_name"].value_counts().head(10)
+
+# %%
+df["playlist_month"].value_counts()
+
+# every month has data 
+# %%
+# c
