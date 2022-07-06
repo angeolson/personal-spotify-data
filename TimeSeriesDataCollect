@@ -13,10 +13,7 @@ os.environ['SPOTIPY_REDIRECT_URI']='http://example.com/callback/'
 
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
-
-# %%
-
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth())
 
 # %%
 # define function to grab data
@@ -32,8 +29,8 @@ def analyze_playlist(creator, playlist_id):
     playlist = sp.user_playlist_tracks(creator, playlist_id)["items"]
     for track in playlist:        # Create empty dict
         playlist_features = {}        # Get metadata
-        playlist_features["artist"] = track["track"]["album"]["artists"][0]["name"]
-        playlist_features["artist_id"] = track["track"]["album"]["artists"][0]["id"]
+        playlist_features["artist"] = track["track"]["artists"][0]["name"]
+        playlist_features["artist_id"] = track["track"]["artists"][0]["id"]
         playlist_features["album"] = track["track"]["album"]["name"]
         playlist_features["track_name"] = track["track"]["name"]
         playlist_features["track_pop"] = track["track"]["popularity"]
@@ -81,3 +78,5 @@ creator = '1264845931'
 
 # get data
 my_data = get_dataframe(playlists)
+my_data.to_csv("time_series_data.csv", index = False)
+# %%

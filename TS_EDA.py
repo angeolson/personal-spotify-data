@@ -27,13 +27,15 @@ mean_vals = "danceability", "energy", "loudness", "speechiness", "instrumentalne
 # get vals for mode
 mode_vals = "key", "mode", "time_signature", "artist_genre", "artist"
 
-table = pd.pivot_table(df, index = ["playlist_date"],values = mean_vals, aggfunc=np.mean)
+index = ("playlist_date", "playlist_month")
+
+table = pd.pivot_table(df, index = index,values = mean_vals, aggfunc=np.mean)
 
 table2 = pd.pivot_table(df, index = ["playlist_date"], values = mode_vals, aggfunc=statistics.mode)
 
 pivot_df = table.join(table2, on= "playlist_date")
 pivot_df.reset_index(inplace=True)
-pivot_df = pivot_df.rename(columns = {'index':'"playlist_date'})
+pivot_df = pivot_df.rename(columns = {'index':'playlist_date', 'playlist_month'})
 
 #%%
 # plot artist pop
@@ -75,3 +77,5 @@ fig.show()
 fig = px.line(pivot_df, x="playlist_date", y="tempo", markers=True)
 fig.show()
 # %%
+fig = px.line(pivot_df, x="playlist_date", y="tempo", markers=True)
+fig.show()
