@@ -80,3 +80,7 @@ df["playlist_season"].value_counts()
 # somewhat more balanced than month
 
 # %%
+# export cleaned dataset
+df.to_csv("time_series_data_clean.csv", index = False)
+
+# %%
