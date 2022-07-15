@@ -137,9 +137,54 @@ fig.show()
 
 #%%
 # plot artist variance and genre variance over time together 
+import plotly.graph_objects as go
+
 y = ['norm_artist_variance', 'norm_gen_variance']
 
 fig = px.scatter(datePivot, x="playlist_date", y=y, title="Artist and Genre Variance Over Time", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5)).update_layout(xaxis_title="Date", yaxis_title="Normalized Variance (0-1)")
+
+fig.update_layout(
+    shapes=[
+        go.layout.Shape(
+            type="rect",
+            # x-reference is assigned to the x-values
+            #xref="",
+            # y-reference is assigned to the plot paper [0,1]
+            #yref="paper",
+            x0="2020-03-01",
+            y0=0,
+            x1="2020-11-01",
+            y1=1,
+            fillcolor="LightBlue",
+            opacity=0.5,
+            layer="below",
+            line_width=0,
+        ),  
+        go.layout.Shape(
+            type="rect",
+            # x-reference is assigned to the x-values
+            #xref="",
+            # y-reference is assigned to the plot paper [0,1]
+            #yref="paper",
+            x0="2020-11-01",
+            y0=0,
+            x1="2022-06-01",
+            y1=1,
+            fillcolor="LightGreen",
+            opacity=0.5,
+            layer="below",
+            line_width=0,
+        )
+     ] 
+)
+
+fig.add_annotation( # add a text callout with arrow
+    text="Peak Pandemic", x="2020", y=0.2, arrowhead=1, showarrow=True
+)
+
+fig.add_annotation( # add a text callout with arrow
+    text="Saw 46 live artists", x="2021", y=0.05, arrowhead=1, showarrow=True, 
+)
 fig.show()
 
 #%%
