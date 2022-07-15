@@ -135,6 +135,20 @@ y = ['valence', 'danceability']
 fig = px.scatter(datePivot, x="playlist_date", y=y, title="Valence and Danceability Over Time", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5)).update_layout(xaxis_title="Date", yaxis_title="Average Score")
 fig.show()
 
+#%%
+# plot artist variance and genre variance over time together 
+y = ['norm_artist_variance', 'norm_gen_variance']
+
+fig = px.scatter(datePivot, x="playlist_date", y=y, title="Artist and Genre Variance Over Time", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5)).update_layout(xaxis_title="Date", yaxis_title="Normalized Variance (0-1)")
+fig.show()
+
+#%%
+# plot artist variance and genre variance over months together 
+y = ['norm_artist_variance', 'norm_gen_variance']
+
+fig = px.scatter(monthPivot, x="playlist_month", y=y, title="Artist and Genre Variance by Month", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5)).update_layout(xaxis_title="Date", yaxis_title="Average Normalized Variance (0-1)")
+fig.show()
+
 # %%
 # plot variable correlation 
 corr = df.corr()
