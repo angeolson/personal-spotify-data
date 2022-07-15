@@ -60,26 +60,52 @@ index2 = "playlist_month"
 monthPivot = getPivot(mean_vals=mean_vals, mode_vals=mode_vals, index=index2)
 
 #%%
-# Calculate artist variance in playlists, total number of tracks to normalize by date
-dateVariance = df.groupby('playlist_date')['artist'].nunique()
+# Calculate artist variance, genre variance in playlists, total number of tracks to normalize by date
+dateArtVariance = df.groupby('playlist_date')['artist'].nunique()
+dateGenVariance = df.groupby('playlist_date')['artist_genre'].nunique()
 dateTrackCount = df.groupby('playlist_date')['track_name'].nunique()
 
-# normalization: if 1, artist to track ratio is 1:1 (i.e. each artist has one track). The lower the number, the more times you're listening to songs by the same artist. 
+# normalization: 
+# artist: if 1, artist to track ratio is 1:1 (i.e. each artist has one track). The lower the number, the more times you're listening to songs by the same artist. 
+# genre: if 1, every song has a different genre. The lower the number, the more similar in genre each playlist is. 
 
-dateVarNorm = dateVariance/dateTrackCount
+dateArtVarNorm = dateArtVariance/dateTrackCount
+dateGenVarNorm = dateGenVariance/dateTrackCount
 
 #%%
-# Calculate artist variance in playlists, total number of tracks to normalize by month
-monthVariance = df.groupby('playlist_month')['artist'].nunique()
+# Calculate artist variance, genre variance in playlists, total number of tracks to normalize by month
+monthArtVariance = df.groupby('playlist_month')['artist'].nunique()
+monthGenVariance = df.groupby('playlist_month')['artist_genre'].nunique()
 monthTrackCount = df.groupby('playlist_month')['track_name'].nunique()
 
 # normalization: if 1, artist to track ratio is 1:1 (i.e. each artist has one track). The lower the number, the more times you're listening to songs by the same artist. 
 
-monthVarNorm = monthVariance/monthTrackCount
+monthArtVarNorm = monthArtVariance/monthTrackCount
+monthGenVarNorm = monthGenVariance/monthTrackCount
 
 #%%
 # merge artist variance to pivot tables above 
 
+# Step 1: create dataframe for the date grouping
+d = {'artist_variance': dateArtVariance, 'genre_variance': dateGenVariance, 'track_count': dateTrackCount, 'norm_artist_variance': dateArtVarNorm, 'norm_gen_variance': dateGenVarNorm}
+
+dateDf = pd.DataFrame(d)
+dateDf.reset_index(inplace=True)
+dateDf = dateDf.rename(columns = {'index': index})
+dateDf['playlist_date'] = pd.to_datetime(dateDf.playlist_date)
+
+# merge dataframes
+datePivot = dateDf.merge(datePivot, on='playlist_date')
+
+# Step 2: create dataframe for month grouping 
+m = {'artist_variance': monthArtVariance, 'genre_variance': monthGenVariance, 'track_count': monthTrackCount, 'norm_artist_variance': monthArtVarNorm, 'norm_gen_variance': monthGenVarNorm}
+
+monthDf = pd.DataFrame(m)
+monthDf.reset_index(inplace=True)
+monthDf = monthDf.rename(columns = {'index': index})
+
+# merge
+monthPivot = monthDf.merge(monthPivot, on='playlist_month')
 
 #%%
 # plots based on date
