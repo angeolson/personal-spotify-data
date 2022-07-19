@@ -242,8 +242,13 @@ genre_count['song_count'].astype(float)
 for column in list:
     genre_count[column] = genre_count[column]/genre_count['song_count'] 
 
+# cast date as date
+genre_count['playlist_date'] = pd.to_datetime(genre_count.playlist_date)
+
 # %%
-fig = px.scatter(genre_count, x="playlist_date", y="alternative rock",title="Alt Rock Count By Month", height=500, width=500)
+
+# test with alt rock
+fig = px.scatter(genre_count, x="playlist_date", y="alternative rock",title="Alt Rock Count By Month", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5))
 
 fig.show()
 
