@@ -20,7 +20,6 @@ sns.set_theme(style="darkgrid", palette="Paired")
 df = pd.read_csv("time_series_data_clean.csv")
 
 
-
 #%%
 # define pivot table function
 
@@ -210,5 +209,42 @@ ax = sns.heatmap(
     cmap=sns.diverging_palette(20, 220, n=200),
     square=True
 )
+
+# %%
+# create pivot table of genre counts by month
+
+genre_count = df.groupby(['playlist_date', 'artist_genre']).size().unstack(fill_value=0)
+# %%
+# get top 10 genres
+top_10_genres = genre_count.sum().sort_values(ascending=False).head(10).index
+
+# convert to list
+list = []
+
+for genre in top_10_genres:
+    list.append(genre)
+
+# %%
+# keep only top 10 genres 
+genre_count = genre_count[list]
+
+# change playlist_date to field 
+genre_count.reset_index(inplace=True)
+genre_count = genre_count.rename(columns = {'index': 'playlist_date'})
+
+# add in column for total songs per month
+genre_count['song_count'] = dateTrackCount.values
+
+# change song count to float to divide
+genre_count['song_count'].astype(float)
+
+# normalize
+for column in list:
+    genre_count[column] = genre_count[column]/genre_count['song_count'] 
+
+# %%
+fig = px.scatter(genre_count, x="playlist_date", y="alternative rock",title="Alt Rock Count By Month", height=500, width=500)
+
+fig.show()
 
 # %%
