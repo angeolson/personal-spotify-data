@@ -185,6 +185,13 @@ fig.add_annotation( # add a text callout with arrow
 fig.add_annotation( # add a text callout with arrow
     text="Saw 46 live artists", x="2021", y=0.05, arrowhead=1, showarrow=True, 
 )
+
+fig.update_layout( # customize font and legend orientation & position
+    legend=dict(
+        title=None, orientation="h", y=1, yanchor="bottom", x=0.5, xanchor="center"
+    )
+)
+
 fig.show()
 
 #%%
