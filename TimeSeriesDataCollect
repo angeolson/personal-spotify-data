@@ -7,8 +7,8 @@ import pandas as pd
 import numpy as np
 
 # set variables
-os.environ['SPOTIPY_CLIENT_ID']='e768479667c146d5a107462531ee7ff7'
-os.environ['SPOTIPY_CLIENT_SECRET']='abb7798983df4103a7ad4d56a2c2e819'
+os.environ['SPOTIPY_CLIENT_ID']='INSERT CLIENT HERE'
+os.environ['SPOTIPY_CLIENT_SECRET']='INSERT SECRET HERE'
 os.environ['SPOTIPY_REDIRECT_URI']='http://example.com/callback/'
 
 import spotipy
