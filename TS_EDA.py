@@ -278,3 +278,9 @@ ax = sns.heatmap(
     square=True
 )
 # %%
+# export pivot tables 
+datePivot.to_csv("datePivot.csv", index = False)
+monthPivot.to_csv("monthPivot.csv", index = False)
+genre_count.to_csv("genre_count.csv", index = False)
+
+# %%
