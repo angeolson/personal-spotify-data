@@ -284,3 +284,18 @@ monthPivot.to_csv("monthPivot.csv", index = False)
 genre_count.to_csv("genre_count.csv", index = False)
 
 # %%
+# calculate first derivatives of genre makeup.
+list = [np.NaN]
+
+for i in range(1, len(genre_count['alternative rock'])):
+    list.append(genre_count['alternative rock'][i] - genre_count['alternative rock'][i-1])
+
+list = pd.Series(list)
+# %%
+# create dataframe 
+frame = {'playlist_date': genre_count['playlist_date'], 'alternative rock': genre_count['alternative rock'], 'derivatives': list}
+alt_df = pd.DataFrame(frame)
+
+# %%
+def getDerivatives(series):
+    list = [np.NaN]
