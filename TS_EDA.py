@@ -297,5 +297,17 @@ frame = {'playlist_date': genre_count['playlist_date'], 'alternative rock': genr
 alt_df = pd.DataFrame(frame)
 
 # %%
+# create function to get derivatives 
 def getDerivatives(series):
+    # create list with null starting value
     list = [np.NaN]
+
+    # loop through values in the series, append list with the derivatives 
+    for i in range(1, len(series)):
+        list.append(series[i] - series[i-1])
+    
+    list = pd.Series(list)
+
+    return list 
+
+# %%
