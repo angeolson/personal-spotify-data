@@ -358,21 +358,19 @@ fig.show()
 # create pivot table of artist counts by month
 artist_count = df.groupby(['playlist_date', 'artist']).size().unstack(fill_value=0)
 # %%
-# get top 50 artists
-top_50_artists = artist_count.sum().sort_values(ascending=False).head(50).index
+x = 50
+# get top x artists
+top_artists = artist_count.sum().sort_values(ascending=False).head(x).index
 
 # convert to list
 list = []
 
-for artist in top_50_artists:
+for artist in top_artists:
     list.append(artist)
 
 # %%
-# keep only top 50 artists 
+# keep only top 100 artists 
 artist_count = artist_count[list]
-
-# keep only 2018 on
-arist_count = artist_count.loc[6:40]
 
 # change playlist_date to field 
 artist_count.reset_index(inplace=True)
@@ -385,21 +383,35 @@ artist_count['song_count'] = dateTrackCount.values
 artist_count['song_count'].astype(float)
 
 # normalize
-for column in list:
+for column in artist_count.iloc[:, 1:-1].columns:
     artist_count[column] = artist_count[column]/artist_count['song_count'] 
 
 # cast date as date
 artist_count['playlist_date'] = pd.to_datetime(artist_count.playlist_date)
 
+# keep only 2018 on
+end = len(artist_count) - 1
+artist_count = artist_count.loc[6:end]
+artist_count.reset_index(drop=True, inplace=True)
+
 # %%
-artist_corr = artist_count.iloc[:,0:51].corr()
-ax = sns.heatmap(
-    artist_corr, 
-    vmin=-1, vmax=1, center=0,
-    cmap=sns.diverging_palette(20, 220, n=200),
-    square=True
-)
+artist_corr = artist_count.iloc[:, 1:-1].corr()
+
 # %%
-abs(artist_corr['Vampire Weekend']).sort_values(ascending=False)
+import math
+sign = lambda x: math.copysign(1, x)
+
 # %%
-artist_corr['Vampire Weekend'].sort_values(ascending=False)
+VW_corr = artist_corr['Vampire Weekend'].sort_values(ascending=False)
+VW_sign = artist_corr['Vampire Weekend'].sort_values(ascending=False).apply(sign)
+VW_abs = abs(artist_corr['Vampire Weekend']).sort_values(ascending=False)
+
+buildFrame = dict(signed_correlation = VW_corr, sign = VW_sign, abs_correlation = VW_abs)
+
+VW_df = pd.DataFrame(buildFrame)
+
+#%%
+VW_df.sort_values('abs_correlation', ascending=False).head(10)
+# %%
+
+# %%
