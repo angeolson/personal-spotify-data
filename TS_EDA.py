@@ -261,8 +261,13 @@ y = list[0:6]
 fig = px.scatter(genre_count, x="playlist_date", y=y,title="Genre Makeup By Month", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5))
 
 fig.update_layout( # customize font and legend orientation & position
-    legend=dict(
-        title=None, orientation="h", y=1, yanchor="bottom", x=0.5, xanchor="center"
+    width=700,
+    height=500,
+    title=dict(
+        y = 0.9,
+        x= 0.45,
+        xanchor= 'center',
+        yanchor= 'top'
     )
 )
 
@@ -328,13 +333,35 @@ genre_derivatives['playlist_date'] = genre_count['playlist_date']
 
 for frame in dataframes:
     genre_derivatives[frame] = dataframes[frame]['derivatives']
-# %%
-# correlate genre listening derivatives
 
-gen_corr = genre_count.iloc[:,0:11].corr()
-ax = sns.heatmap(
-    gen_corr, 
-    vmin=-1, vmax=1, center=0,
-    cmap=sns.diverging_palette(20, 220, n=200),
-    square=True
+
+# %%
+# plot derivatives
+# %%
+# plot genre derivatives 
+
+list = []
+
+for genre in top_10_genres:
+    list.append(genre)
+# all genres
+y = list[0:10]
+
+fig = px.scatter(genre_derivatives, x="playlist_date", y=y,title="Change in Genre Makeup By Month", height=500, width=500, 
+    trendline="lowess", 
+    trendline_options=dict(frac=0.5)
+    )
+
+fig.update_layout( # customize font and legend orientation & position
+    width=700,
+    height=500,
+    title=dict(
+        y = 0.9,
+        x= 0.45,
+        xanchor= 'center',
+        yanchor= 'top'
+    )
 )
+
+fig.show()
+# %%
