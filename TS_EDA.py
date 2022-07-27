@@ -288,18 +288,6 @@ datePivot.to_csv("datePivot.csv", index = False)
 monthPivot.to_csv("monthPivot.csv", index = False)
 genre_count.to_csv("genre_count.csv", index = False)
 
-# %%
-# calculate first derivatives of genre makeup.
-list = [np.NaN]
-
-for i in range(1, len(genre_count['alternative rock'])):
-    list.append(genre_count['alternative rock'][i] - genre_count['alternative rock'][i-1])
-
-list = pd.Series(list)
-# %%
-# create dataframe 
-frame = {'playlist_date': genre_count['playlist_date'], 'alternative rock': genre_count['alternative rock'], 'derivatives': list}
-alt_df = pd.DataFrame(frame)
 
 # %%
 # create function to get derivatives 
@@ -364,4 +352,54 @@ fig.update_layout( # customize font and legend orientation & position
 )
 
 fig.show()
+
 # %%
+# %%
+# create pivot table of artist counts by month
+artist_count = df.groupby(['playlist_date', 'artist']).size().unstack(fill_value=0)
+# %%
+# get top 50 artists
+top_50_artists = artist_count.sum().sort_values(ascending=False).head(50).index
+
+# convert to list
+list = []
+
+for artist in top_50_artists:
+    list.append(artist)
+
+# %%
+# keep only top 50 artists 
+artist_count = artist_count[list]
+
+# keep only 2018 on
+arist_count = artist_count.loc[6:40]
+
+# change playlist_date to field 
+artist_count.reset_index(inplace=True)
+artist_count = artist_count.rename(columns = {'index': 'playlist_date'})
+
+# add in column for total songs per month
+artist_count['song_count'] = dateTrackCount.values
+
+# change song count to float to divide
+artist_count['song_count'].astype(float)
+
+# normalize
+for column in list:
+    artist_count[column] = artist_count[column]/artist_count['song_count'] 
+
+# cast date as date
+artist_count['playlist_date'] = pd.to_datetime(artist_count.playlist_date)
+
+# %%
+artist_corr = artist_count.iloc[:,0:51].corr()
+ax = sns.heatmap(
+    artist_corr, 
+    vmin=-1, vmax=1, center=0,
+    cmap=sns.diverging_palette(20, 220, n=200),
+    square=True
+)
+# %%
+abs(artist_corr['Vampire Weekend']).sort_values(ascending=False)
+# %%
+artist_corr['Vampire Weekend'].sort_values(ascending=False)
