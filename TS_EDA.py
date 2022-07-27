@@ -382,7 +382,7 @@ artist_count['song_count'] = dateTrackCount.values
 # change song count to float to divide
 artist_count['song_count'].astype(float)
 
-# normalize
+# normalize based on song count 
 for column in artist_count.iloc[:, 1:-1].columns:
     artist_count[column] = artist_count[column]/artist_count['song_count'] 
 
@@ -404,14 +404,54 @@ sign = lambda x: math.copysign(1, x)
 # %%
 VW_corr = artist_corr['Vampire Weekend'].sort_values(ascending=False)
 VW_sign = artist_corr['Vampire Weekend'].sort_values(ascending=False).apply(sign)
-VW_abs = abs(artist_corr['Vampire Weekend']).sort_values(ascending=False)
+VW_abs = artist_corr['Vampire Weekend'].sort_values(ascending=False).apply(abs)
 
 buildFrame = dict(signed_correlation = VW_corr, sign = VW_sign, abs_correlation = VW_abs)
 
 VW_df = pd.DataFrame(buildFrame)
 
 #%%
-VW_df.sort_values('abs_correlation', ascending=False).head(10)
+test = VW_df.sort_values('abs_correlation', ascending=False).head(10)['signed_correlation']
 # %%
 
+# %%
+# %%
+# set up dictionary of dataframes 
+artist_dataframes = {}
+
+# %%
+# create dataframes 
+test = ['Vampire Weekend']
+for artist in test:
+    corr = artist_corr[artist].sort_values(ascending=False)
+    sign = artist_corr[artist].sort_values(ascending=False).apply(sign)
+    abs = artist_corr[artist].sort_values(ascending=False).apply(abs)
+    #frame = dict(corr=corr, sign=sign, abs=abs)
+    #artist_dataframes[artist] = pd.DataFrame(frame)
+
+# %%
+# get top 10 correlated artists for a given artist
+def getTop10(artist):
+    return artist_dataframes[artist].sort_values('abs', ascending=False).head(10)['corr']
+
+# get a correlation plot for top 10 correlated artists for a given artist
+def mapTop10(artist):
+
+    #get artists to correlate
+    relatives = getTop10(artist).index
+    relatives_list = []
+    for rel in relatives:
+        relatives_list.append(rel)
+    correlate = artist_count.iloc[:,relatives_list].corr()
+
+    #map plot
+    ax = sns.heatmap(
+    correlate, 
+    vmin=-1, vmax=1, center=0,
+    cmap=sns.diverging_palette(20, 220, n=200),
+    square=True
+    )
+    return ax
+# %%
+getTop10('The Strokes')
 # %%
