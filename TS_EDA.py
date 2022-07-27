@@ -417,18 +417,19 @@ test = VW_df.sort_values('abs_correlation', ascending=False).head(10)['signed_co
 # %%
 # %%
 # set up dictionary of dataframes 
-artist_dataframes = {}
+
 
 # %%
 # create dataframes 
-test = ['Vampire Weekend']
-for artist in test:
-    corr = artist_corr[artist].sort_values(ascending=False)
-    sign = artist_corr[artist].sort_values(ascending=False).apply(sign)
-    abs = artist_corr[artist].sort_values(ascending=False).apply(abs)
-    #frame = dict(corr=corr, sign=sign, abs=abs)
-    #artist_dataframes[artist] = pd.DataFrame(frame)
-
+artist_dataframes = {}
+test = ['Vampire Weekend', 'The Strokes']
+for art in test:
+    correl = artist_corr[art].sort_values(ascending=False)
+    frame = dict(correl=correl)
+    artist_dataframes[art] = pd.DataFrame(frame)
+    artist_dataframes[art]['absolute'] = artist_dataframes['Vampire Weekend']['correl'].apply(abs)
+    artist_dataframes[art]['sign'] = artist_dataframes['Vampire Weekend']['correl'].apply(sign)
+    
 # %%
 # get top 10 correlated artists for a given artist
 def getTop10(artist):
