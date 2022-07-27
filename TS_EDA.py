@@ -15,7 +15,7 @@ import plotly.express as px
 import statsmodels 
 
 # graphing
-sns.set_theme(style="darkgrid", palette="Paired")
+sns.set_theme(style="whitegrid", palette="Paired")
 
 # data
 df = pd.read_csv("time_series_data_clean.csv")
@@ -395,64 +395,53 @@ artist_count = artist_count.loc[6:end]
 artist_count.reset_index(drop=True, inplace=True)
 
 # %%
-artist_corr = artist_count.iloc[:, 1:-1].corr()
+artist_corr = artist_count.iloc[:, 1:-1].corr(method='spearman').round(2)
 
 # %%
 import math
 sign = lambda x: math.copysign(1, x)
 
 # %%
-VW_corr = artist_corr['Vampire Weekend'].sort_values(ascending=False)
-VW_sign = artist_corr['Vampire Weekend'].sort_values(ascending=False).apply(sign)
-VW_abs = artist_corr['Vampire Weekend'].sort_values(ascending=False).apply(abs)
-
-buildFrame = dict(signed_correlation = VW_corr, sign = VW_sign, abs_correlation = VW_abs)
-
-VW_df = pd.DataFrame(buildFrame)
-
-#%%
-test = VW_df.sort_values('abs_correlation', ascending=False).head(10)['signed_correlation']
-# %%
-
-# %%
-# %%
-# set up dictionary of dataframes 
-
-
-# %%
 # create dataframes 
 artist_dataframes = {}
-test = ['Vampire Weekend', 'The Strokes']
-for art in test:
+for art in list:
     correl = artist_corr[art].sort_values(ascending=False)
     frame = dict(correl=correl)
     artist_dataframes[art] = pd.DataFrame(frame)
-    artist_dataframes[art]['absolute'] = artist_dataframes['Vampire Weekend']['correl'].apply(abs)
-    artist_dataframes[art]['sign'] = artist_dataframes['Vampire Weekend']['correl'].apply(sign)
-    
+    artist_dataframes[art]['absolute'] = artist_dataframes[art]['correl'].apply(abs)
+    artist_dataframes[art]['sign'] = artist_dataframes[art]['correl'].apply(sign)
+    artist_dataframes[art].reset_index(inplace=True)
+
 # %%
 # get top 10 correlated artists for a given artist
 def getTop10(artist):
-    return artist_dataframes[artist].sort_values('abs', ascending=False).head(10)['corr']
+    return artist_dataframes[artist].sort_values('absolute', ascending=False).head(10).iloc[:,0:2]
 
 # get a correlation plot for top 10 correlated artists for a given artist
 def mapTop10(artist):
 
     #get artists to correlate
-    relatives = getTop10(artist).index
+    relatives = getTop10(artist)['artist'].values
     relatives_list = []
     for rel in relatives:
         relatives_list.append(rel)
-    correlate = artist_count.iloc[:,relatives_list].corr()
+    correlate = artist_count[relatives_list].corr(method='spearman').round(2)
 
     #map plot
+    mask = np.triu(np.ones_like(correlate, dtype=bool))
+
     ax = sns.heatmap(
     correlate, 
     vmin=-1, vmax=1, center=0,
     cmap=sns.diverging_palette(20, 220, n=200),
-    square=True
+    square=False, annot=True, mask=mask
     )
+    ax.set_title(artist)
     return ax
 # %%
-getTop10('The Strokes')
+getTop10('Phoenix')
+
+# %%
+mapTop10('Caamp')
+
 # %%
