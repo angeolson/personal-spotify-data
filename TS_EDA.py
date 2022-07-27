@@ -311,3 +311,30 @@ def getDerivatives(series):
     return list 
 
 # %%
+# set up dictionary of dataframes 
+dataframes = {}
+
+# %%
+# create dataframes 
+for genre in genre_count.iloc[:, 1:11].columns:
+    list = getDerivatives(genre_count[genre])
+    frame = {'playlist_date': genre_count['playlist_date'], 'derivatives': list}
+    dataframes[genre] = pd.DataFrame(frame)
+
+# %%
+# combine dataframes
+genre_derivatives = pd.DataFrame()
+genre_derivatives['playlist_date'] = genre_count['playlist_date']
+
+for frame in dataframes:
+    genre_derivatives[frame] = dataframes[frame]['derivatives']
+# %%
+# correlate genre listening derivatives
+
+gen_corr = genre_count.iloc[:,0:11].corr()
+ax = sns.heatmap(
+    gen_corr, 
+    vmin=-1, vmax=1, center=0,
+    cmap=sns.diverging_palette(20, 220, n=200),
+    square=True
+)
