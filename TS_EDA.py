@@ -442,9 +442,9 @@ def mapTop10(artist):
     ax.set_title(artist)
     return ax
 # %%
-getTop10('Phoenix')
+getTop10('The Black Keys')
 
 # %%
-mapTop10('The Velvet Underground')
+mapTop10('The Black Keys')
 
 # %%
