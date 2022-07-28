@@ -256,7 +256,7 @@ fig.show()
 # %%
 
 # all genres
-y = list[0:6]
+y = list[0:10]
 
 fig = px.scatter(genre_count, x="playlist_date", y=y,title="Genre Makeup By Month", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5))
 
@@ -275,12 +275,15 @@ fig.show()
 # %%
 # correlate genre listening 
 
-gen_corr = genre_count.iloc[:,0:11].corr()
+gen_corr = genre_count.iloc[:,0:11].corr().round(2)
+mask = np.triu(np.ones_like(gen_corr, dtype=bool))
 ax = sns.heatmap(
     gen_corr, 
     vmin=-1, vmax=1, center=0,
     cmap=sns.diverging_palette(20, 220, n=200),
-    square=True
+    annot=True,
+    mask=mask,
+    square=False
 )
 # %%
 # export pivot tables 
@@ -442,6 +445,6 @@ def mapTop10(artist):
 getTop10('Phoenix')
 
 # %%
-mapTop10('Caamp')
+mapTop10('The Velvet Underground')
 
 # %%
