@@ -62,13 +62,20 @@ df[ df['name'] == 'daily_mix_6'].head()
 
 # %%
 # nice plot
+fig = plt.figure()
 ax = sns.boxplot(x='name',y='track_pop', data=df)
 ax.set(title = 'Average Track Popularity by Playlist', xlabel = 'Playlist', ylabel = 'Popularity')
 ax.set_xticklabels(["1", "2", "3", "4", "5", "6", "Top 50"])
+
+fig.savefig('box plot.jpg', bbox_inches='tight', dpi=150)
 plt.show()
 
+
+
 # %%
-sns.scatterplot(x='artist_pop',y='track_pop', hue = 'name', alpha = 1, data=df)
+fig = plt.figure()
+sns.scatterplot(x='artist_pop',y='track_pop', hue = 'name', alpha = 1, data=df).set(title='Artist and Track Popularity')
+fig.savefig('scatter plot.jpg', bbox_inches='tight', dpi=150)
 plt.show()
 
 sns.scatterplot(x='loudness',y='danceability', hue = 'name', alpha = 1, data=df)
@@ -101,3 +108,6 @@ ax = sns.boxplot(x='name',y='release_year', data=df)
 ax.set(title = "release year")
 ax.set_xticklabels(["1", "2", "3", "4", "5", "6", "Top 50"])
 plt.show()
+
+#%%
+df.to_csv("all_mixes.csv", index = False)
