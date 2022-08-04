@@ -108,18 +108,25 @@ monthDf = monthDf.rename(columns = {'index': index})
 monthPivot = monthDf.merge(monthPivot, on='playlist_month')
 
 #%%
+#%pip install kaleido
+import plotly.io as pio
+
 # plots based on date
 
 for y in mean_vals:
     fig = px.scatter(datePivot, x="playlist_date", y=y, title=f"{y} Over Time", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5))
+    fig_title = f"{y} plot.png"
     fig.show()
+    pio.write_image(fig, fig_title,scale=6, width=1080, height=1080)
 
 
 # %%
 # plots based on month 
 for y in mean_vals:
     fig = px.scatter(monthPivot, x="playlist_month", y=y,title=f"{y} By Month", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5))
+    fig_title = f"{y} month plot.png"
     fig.show()
+    pio.write_image(fig, fig_title,scale=6, width=1080, height=1080)
 
 # %%
 # plot popularity over time together 
@@ -127,6 +134,7 @@ y = ['artist_pop', 'track_pop']
 
 fig = px.scatter(datePivot, x="playlist_date", y=y, title="Artist and Track Popularity Over Time", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5)).update_layout(xaxis_title="Date", yaxis_title="Average Score")
 fig.show()
+pio.write_image(fig, "Popularities Over Time.png",scale=6, width=1080, height=1080)
 
 # %%
 # plot valence and energy over time together 
@@ -134,6 +142,7 @@ y = ['valence', 'danceability']
 
 fig = px.scatter(datePivot, x="playlist_date", y=y, title="Valence and Danceability Over Time", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5)).update_layout(xaxis_title="Date", yaxis_title="Average Score")
 fig.show()
+pio.write_image(fig, "Valence and Dance Over Time.png",scale=6, width=1080, height=1080)
 
 #%%
 # plot artist variance and genre variance over time together 
@@ -193,6 +202,7 @@ fig.update_layout( # customize font and legend orientation & position
 )
 
 fig.show()
+pio.write_image(fig, "Variance over Time.png",scale=6, width=1080, height=1080)
 
 #%%
 # plot artist variance and genre variance over months together 
@@ -200,16 +210,19 @@ y = ['norm_artist_variance', 'norm_gen_variance']
 
 fig = px.scatter(monthPivot, x="playlist_month", y=y, title="Artist and Genre Variance by Month", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5)).update_layout(xaxis_title="Date", yaxis_title="Average Normalized Variance (0-1)")
 fig.show()
+pio.write_image(fig, "Variance over Months.png",scale=6, width=1080, height=1080)
 
 # %%
 # plot variable correlation 
 corr = df.corr()
+fig = plt.figure()
 ax = sns.heatmap(
     corr, 
     vmin=-1, vmax=1, center=0,
     cmap=sns.diverging_palette(20, 220, n=200),
     square=True
 )
+fig.savefig('Correlation.jpg', bbox_inches='tight', dpi=150)
 
 # %%
 # create pivot table of genre counts by month
