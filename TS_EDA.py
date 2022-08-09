@@ -353,7 +353,7 @@ y = list[0:10]
 
 fig = px.scatter(genre_derivatives, x="playlist_date", y=y,title="Change in Genre Makeup By Month", height=500, width=500, 
     trendline="lowess", 
-    trendline_options=dict(frac=0.5)
+    trendline_options=dict(frac=0.5), range_y = (-0.1, 0.1)
     )
 
 fig.update_layout( # customize font and legend orientation & position
@@ -366,7 +366,7 @@ fig.update_layout( # customize font and legend orientation & position
         yanchor= 'top'
     )
 )
-
+pio.write_image(fig, "Change in Variance over Time.png",scale=6, width=1080, height=1080)
 fig.show()
 
 # %%
@@ -461,3 +461,8 @@ getTop10('The Black Keys')
 mapTop10('The Black Keys')
 
 # %%
+fig = plt.figure()
+sns.lineplot(y=dateTrackCount.values, x=dateTrackCount.index)
+plt.xticks(['2016-04-01', '2022-06-01'])
+fig.savefig('obs over time', bbox_inches='tight', dpi=150)
+plt.show()
