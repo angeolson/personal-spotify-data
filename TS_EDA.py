@@ -18,7 +18,7 @@ import statsmodels
 sns.set_theme(style="whitegrid", palette="Paired")
 
 # data
-df = pd.read_csv("time_series_data_clean.csv")
+df = pd.read_csv("Time Series Data/time_series_data_clean.csv")
 
 
 #%%
@@ -223,6 +223,28 @@ ax = sns.heatmap(
     square=True
 )
 fig.savefig('Correlation.jpg', bbox_inches='tight', dpi=150)
+
+#%%
+# look at genre and artist counts per year 
+use_columns = ['artist_genre', 'artist', 'track_name']
+
+yearly_counts = df.groupby(['playlist_year']).nunique()[use_columns].reset_index()
+yearly_counts['art_per_song'] = yearly_counts['artist']/yearly_counts['track_name']
+yearly_counts['gen_per_song'] = yearly_counts['artist_genre']/yearly_counts['track_name']
+
+# plot 1
+y = use_columns
+
+fig = px.scatter(yearly_counts, x="playlist_year", y=y, title="Artist, Genre, and Track Counts by Year", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5)).update_layout(xaxis_title="Year", yaxis_title="Count")
+fig.show()
+pio.write_image(fig, "Counts per Year.png",scale=6, width=1080, height=1080)
+
+#plot 2
+y = ['art_per_song', 'gen_per_song']
+
+fig = px.scatter(yearly_counts, x="playlist_year", y=y, title="Artist, Genre Counts per Song by Year", height=500, width=500, trendline="lowess", trendline_options=dict(frac=0.5)).update_layout(xaxis_title="Year", yaxis_title="Count")
+fig.show()
+pio.write_image(fig, "Counts per Year_Norm.png",scale=6, width=1080, height=1080)
 
 # %%
 # create pivot table of genre counts by month
