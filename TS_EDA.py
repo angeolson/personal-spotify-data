@@ -307,11 +307,13 @@ fig.update_layout( # customize font and legend orientation & position
 )
 
 fig.show()
+pio.write_image(fig, "Genre Makeup by Month.png",scale=6, width=1080, height=1080)
 # %%
 # correlate genre listening 
 
 gen_corr = genre_count.iloc[:,0:11].corr().round(2)
 mask = np.triu(np.ones_like(gen_corr, dtype=bool))
+fig = plt.figure()
 ax = sns.heatmap(
     gen_corr, 
     vmin=-1, vmax=1, center=0,
@@ -320,6 +322,7 @@ ax = sns.heatmap(
     mask=mask,
     square=False
 )
+fig.savefig('Correlation_Genre.jpg', bbox_inches='tight', dpi=150)
 # %%
 # export pivot tables 
 datePivot.to_csv("datePivot.csv", index = False)
@@ -526,14 +529,19 @@ def plotTop10(artist, type='none', ma_points=3):
         )
     )
 
-    return fig.show()
+    return fig
 #%%
 z = getTop10('The Black Keys')['artist'].values
 # %%
-plotTop10('The Black Keys')
+for option in ['including', 'positive', 'negative']:
+    pio.write_image(plotTop10('The Black Keys',type=option), f"Plot {option}.png",scale=6, width=1080, height=1080)
 
 # %%
-getTop10('The Black Keys')
+for option in ['including', 'positive', 'negative']:
+    fig = plt.figure()
+    mapTop10('The Black Keys',type=option)
+    fig.savefig(f'Map {option}.jpg', bbox_inches='tight', dpi=150)
+
 
 # %%
 mapTop10('The Black Keys')
