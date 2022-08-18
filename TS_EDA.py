@@ -436,6 +436,23 @@ artist_count['playlist_date'] = pd.to_datetime(artist_count.playlist_date)
 #artist_count = artist_count.loc[6:end]
 #artist_count.reset_index(drop=True, inplace=True)
 
+#%%
+y = list[0:10]
+
+fig = px.scatter(artist_count, x="playlist_date", y=y,title="Artist Makeup By Month", height=500, width=500, trendline="rolling", trendline_options=dict(window=3))
+
+fig.update_layout( # customize font and legend orientation & position
+    width=700,
+    height=500,
+    title=dict(
+        y = 0.9,
+        x= 0.45,
+        xanchor= 'center',
+        yanchor= 'top'
+    )
+)
+
+fig.show()
 # %%
 artist_corr = artist_count.iloc[:, 1:-1].corr(method='spearman').round(2)
 
@@ -455,15 +472,23 @@ for art in list:
     artist_dataframes[art].reset_index(inplace=True)
 
 # %%
-# get top 10 correlated artists for a given artist
-def getTop10(artist):
-    return artist_dataframes[artist].sort_values('absolute', ascending=False).head(10).iloc[:,0:2]
+# get top 10 correlated (positive or negative) artists for a given artist (excluding that artist)
+def getTop10(artist,type='none'):
+    if type == 'none': return artist_dataframes[artist].sort_values('absolute', ascending=False).iloc[1:11,0:2]
+    elif type == 'including': return artist_dataframes[artist].sort_values('absolute', ascending=False).iloc[0:11,0:2]
+    elif type == 'positive':
+        positive = artist_dataframes[artist][ artist_dataframes[artist]['sign'] == 1]
+        return positive.sort_values('correl', ascending=False).iloc[1:11,0:2]
+    elif type == 'negative':
+        negative = artist_dataframes[artist][ artist_dataframes[artist]['sign'] == -1]
+        return negative.sort_values('correl', ascending=True).iloc[0:10,0:2]
+    else: return 'wrong type'
 
 # get a correlation plot for top 10 correlated artists for a given artist
-def mapTop10(artist):
+def mapTop10(artist, type='none'):
 
     #get artists to correlate
-    relatives = getTop10(artist)['artist'].values
+    relatives = getTop10(artist,type)['artist'].values
     relatives_list = []
     for rel in relatives:
         relatives_list.append(rel)
@@ -480,6 +505,33 @@ def mapTop10(artist):
     )
     ax.set_title(artist)
     return ax
+
+#%%
+def plotTop10(artist, type='none', ma_points=3):
+    if type == 'including': y = getTop10(artist,type)['artist'].values
+    else:
+         y = getTop10(artist,type)['artist'].values
+         y = np.append(y,[artist])
+
+    fig = px.scatter(artist_count, x="playlist_date", y=y,title="Artist Makeup By Month", height=500, width=500, trendline="rolling", trendline_options=dict(window=ma_points))
+
+    fig.update_layout( # customize font and legend orientation & position
+        width=700,
+        height=500,
+        title=dict(
+            y = 0.9,
+            x= 0.45,
+            xanchor= 'center',
+            yanchor= 'top'
+        )
+    )
+
+    return fig.show()
+#%%
+z = getTop10('The Black Keys')['artist'].values
+# %%
+plotTop10('The Black Keys')
+
 # %%
 getTop10('The Black Keys')
 
