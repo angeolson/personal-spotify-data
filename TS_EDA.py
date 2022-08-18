@@ -393,8 +393,12 @@ fig.show()
 
 # %%
 # %%
+df_new = df[ df['playlist_year'] > 2018]
+dateTrackCount_new = df_new.groupby('playlist_date')['track_name'].nunique()
+
 # create pivot table of artist counts by month
-artist_count = df.groupby(['playlist_date', 'artist']).size().unstack(fill_value=0)
+artist_count = df_new.groupby(['playlist_date', 'artist']).size().unstack(fill_value=0)
+
 # %%
 x = 50
 # get top x artists
@@ -407,7 +411,7 @@ for artist in top_artists:
     list.append(artist)
 
 # %%
-# keep only top 100 artists 
+# keep only top x artists 
 artist_count = artist_count[list]
 
 # change playlist_date to field 
@@ -415,7 +419,7 @@ artist_count.reset_index(inplace=True)
 artist_count = artist_count.rename(columns = {'index': 'playlist_date'})
 
 # add in column for total songs per month
-artist_count['song_count'] = dateTrackCount.values
+artist_count['song_count'] = dateTrackCount_new.values
 
 # change song count to float to divide
 artist_count['song_count'].astype(float)
@@ -428,9 +432,9 @@ for column in artist_count.iloc[:, 1:-1].columns:
 artist_count['playlist_date'] = pd.to_datetime(artist_count.playlist_date)
 
 # keep only 2018 on
-end = len(artist_count) - 1
-artist_count = artist_count.loc[6:end]
-artist_count.reset_index(drop=True, inplace=True)
+#end = len(artist_count) - 1
+#artist_count = artist_count.loc[6:end]
+#artist_count.reset_index(drop=True, inplace=True)
 
 # %%
 artist_corr = artist_count.iloc[:, 1:-1].corr(method='spearman').round(2)
