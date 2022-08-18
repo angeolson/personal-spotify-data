@@ -492,7 +492,8 @@ def mapTop10(artist, type='none'):
 
     #get artists to correlate
     relatives = getTop10(artist,type)['artist'].values
-    relatives_list = []
+    if type == 'including': relatives_list = [ ]
+    else: relatives_list = [artist]
     for rel in relatives:
         relatives_list.append(rel)
     correlate = artist_count[relatives_list].corr(method='spearman').round(2)
@@ -544,7 +545,7 @@ for option in ['including', 'positive', 'negative']:
 
 
 # %%
-mapTop10('The Black Keys')
+mapTop10('The Black Keys', type='negative')
 
 # %%
 fig = plt.figure()
